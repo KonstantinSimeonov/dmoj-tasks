@@ -1,0 +1,2 @@
+test_cases:
+- {in: test.000.001.in.txt, out: test.000.001.out.txt, points: 100 }

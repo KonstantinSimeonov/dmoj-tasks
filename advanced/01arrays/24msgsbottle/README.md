@@ -22,10 +22,10 @@ Write a program that for a given secret code from the first bottle message and a
 
 
 ## Constraints
-    • The given secret code will contain no more than 12 digits.
-    • The cipher will be no longer than 180 symbols, containing only capital English letters and digits.
-    • The number of original messages (the answers) will be no more than 2048.
-    • Allowed working time for your program: 0.1 seconds. Allowed memory: 16 MB.
+- The given secret code will contain no more than 12 digits.
+- The cipher will be no longer than 180 symbols, containing only capital English letters and digits.
+- The number of original messages (the answers) will be no more than 2048.
+- Allowed working time for your program: 0.1 seconds. Allowed memory: 16 MB.
 
 ## Sample Tests
 | Input                     | Output | Explanation    |

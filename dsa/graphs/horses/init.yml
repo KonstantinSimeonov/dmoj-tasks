@@ -1,0 +1,7 @@
+test_cases:
+- {in: test.000.001.in.txt, out: test.000.001.out.txt, points: 0}
+- {in: test.001.in.txt, out: test.001.out.txt, points: 1}
+- {in: test.002.in.txt, out: test.002.out.txt, points: 1}
+- {in: test.003.in.txt, out: test.003.out.txt, points: 1}
+- {in: test.004.in.txt, out: test.004.out.txt, points: 1}
+- {in: test.005.in.txt, out: test.005.out.txt, points: 1}

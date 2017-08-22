@@ -1,40 +1,40 @@
-# Задача 6 – Нинджа
+# Task 6 - Ninja
 
 ## Description
 
-Иво е млада нинджа. Той все още не е усвоил умението да се придвижва незабелязано на светло. За сметка на това, обаче, **в тъмни места Иво се движи без никой да го усети**.
+Ivo is a young ninja. He has not yet mastered the ability to move unnoticed into light. On the other hand, however, ** in dark places, Ivo moves without anyone feeling it.
 
-Скачайки наляво-надясно, един ден Иво попаднал в интересна област от стаи. Стаите били разположени в квадратна матрица с размер `NxN`. Всяка стая си имала осветление (лампи), което било или включено, или изключено. Интересното при тази област от стаи е, че **всяка секунда осветлението си сменяло състоянието** – включените лампи се изгасвали, а изключените се светвали.
+Jumping to the left and right, one day Ivo came into an interesting area of ​​rooms. The rooms were located in a square matrix of size `NxN`. Each room had lighting (lamps) that was either on or off. The interesting thing in this area of ​​rooms is that ** every second the light changed its condition ** - the lights switched off and the switched off illuminated.
 
-Например, ако в първата секунда стаите са били, както е показано в лявата таблица по-долу, то в следващата секунда те са в състоянието, което е показано на дясната таблица (белите клетки означават светната лампа, сивите – угасена).
+For example, if in the first second the rooms were as shown in the left-hand table below, they are in the state shown on the right-hand table (the white cells indicate the light, the gray ones are extinguished).
 
-Иво може да преминава само в съседните стаи, които имат **обща стена** с текущата стая и се намират **надолу или надясно** от стаята, в която се намира Иво. Например, в горните примери, от стая (1,1) Иво може да премине в стаи (2,1) или (1,2). Влизането в друга стая става точно на следващата секунда, след като Иво е решил да тръгне от текущата стая. Казано с други думи, ако в момента на тръгването, стаята, в която Иво иска да отиде, свети, то той няма да има проблем да отиде в нея, защото в следващата секунда тя ще е угасена. **Иво може да остава в една стая произволен брой секунди (0 или повече).** Когато Иво попадне в определена стая, тя остава загасена, докато Иво не я напусне.  В първата секунда Иво се намира в най-горната и най-лява стая (0,0) и във втората секунда трябва да си избере дали да остане в (0,0) или да се премести в една от двете съседни стаи: (0,1) или (1,0). \
+Ivo can only pass to the adjoining rooms that have ** a common wall ** with the current room and are ** down or right ** from the room where Ivo is located. For example, in the above examples, from room (1.1) Ivo can move into rooms (2.1) or (1.2). Entering another room happens exactly the next second after Ivo has decided to leave the current room. In other words, if at the moment of departure the room in which Ivo wishes to go shines, he will have no problem going into it, because in the next second it will be extinguished. ** Ivo can stay in any room any number of seconds (0 or more). ** When Ivo falls into a certain room, she stays off until Ivo leaves her. In the first second, Ivo is located in the top and left room (0.0) and in the second second he has to choose whether to stay in (0.0) or move to one of the two adjoining rooms: , 1) or (1.0). \
 
-Напишете програма, която намира най-краткото време (в секунди), за което  Иво може да премине от най-горната и най-лява стая (0,0) до най-долната и най-дясна стая (`N-1`,`N-1`), спазвайки описаните правила. Стъпването в първата стая (0,0) също коства на Иво една секунда.
+Write a program that finds the shortest time (in seconds) for which Ivo can move from the top and left room (0.0) to the lowest and the rightmost room (`N-1`, `N-1`), following the rules described. Stepping into the first room (0.0) also costs Ivo for one second.
 
-## Вход
+## Input
 
-Входните данни ще бъдат дадени на конзолата (стандартния вход)
+Input data will be given to the console (standard input)
 
-- От стандартния вход се въвежда цялото число ***N***.
+- The full integer *** N *** is entered from the standard input.
 
-- След него следват `N` реда с по `N` числа, описващи картата на стаите в първата секунда. В следващия момент осветлението ще е на обратно и Иво трябва да си прецени в коя стая да влезе. Всяко от числата може да бъде или 0, или 1, където 0 означава че стаята е с угасено осветление, а 1 означава, че стаята е със светнати лампи.
+- Follow the `N` line followed by` N` numbers describing the room card in the first second. The next time the lights will be back, Ivo has to figure out which room to come in. Each of the numbers can be either 0 or 1, where 0 indicates that the room is out of focus, and 1 indicates that the room is lit.
 
-Входът на програмата ще бъде винаги валиден и в описания формат. Няма нужда да бъде проверяван изрично.
+The program entry will always be valid in the format described. There is no need to be explicitly checked.
 
-## Изход
+## Exit
 
-Изходът от програмата трябва да бъде отпечатан на конзолата.
+The output of the program must be printed on the console.
 
-- Програмата трябва да изведе минималния брой секунди, за които Иво може да премине от най-горната и най-лява стая до най-долната и най-дясна стая, без да бъде забелязан.
+- The program should show the minimum number of seconds for which Ivo can move from the top left and left room to the lowest and the rightmost room without being spotted.
 
-## Ограничения
+## Limits
 
--   2 ≤ **N** ≤ 1500
--   Най-горната най-лява стая (0,0) винаги ще е с угасено осветление.
+- 2 ≤ ** N ** ≤ 1500
+- The topmost left room (0.0) will always be out of focus.
 
-### Пример
+### Example
 
-| Input                                             | Output |
-| ------------------------------------------------- | ------ |
-| 4<br/>0 1 1 1<br/>0 1 0 0<br/>1 0 1 1<br/>1 0 1 1 | 10     |
+| Input | Output |
+| ------------------------------------------------- | ------
+| 4 <br/> 0 1 1 1 <br/> 0 1 0 0 <br/> 1 0 1 1 <br/> 1 0 1 1 | 10 |

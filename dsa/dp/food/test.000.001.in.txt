@@ -1,0 +1,8 @@
+10
+6
+pizza 3 2
+burger 8 12
+salad 4 5
+candy 1 4
+chicken 2 3
+swine 8 13

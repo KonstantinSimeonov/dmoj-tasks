@@ -35,4 +35,4 @@ Output data will be printed on the console.
 
 | Input | Output |
 | -------------------------------------------------- ----------------------------------------------- ----------------------
-| 10 <br/> 6 <br/> <br/> <br/> <br/> <br/> <br/> <br/> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 17 <br/> swine <br/> candy |
+| 10<br/>6<br/>pizza 3 2<br/>burger 8 12<br/>salad 4 5<br/>candy 1 4<br/>chicken 2 3<br/>swine 8 13 | 17<br/>swine<br/>candy |

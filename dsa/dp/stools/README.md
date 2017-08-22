@@ -2,9 +2,9 @@
 
 ## Description
 
-Little Timmy likes to make up and down games and you as a friend must always help him. This time, Timmy decides to set up stools on top of each other and make a tower.
+Little Timmy likes to make up games and you as a friend must always help him. This time, Timmy decides to set up stools on top of each other and make a tower.
 
-The stools are the final count. Each of them is in the form of a ** rectangular parallelepiped **. Timmy builds his tower by taking a stool that has not been placed, and puts it on the top of the current tower. But the stools were of a different size, and in order for the tower to be stable, the bottom of every stool Timmy had to be entirely within the top of the stool on the top of the current tower. Timmy can ** turn ** the stools as he wants, and choose which one to be the basis. The edges of each stool in the tower must be parallel to the respective edges of the main stool.
+The stools are the finite count. Each of them is in the form of a ** rectangular parallelepiped **. Timmy builds his tower by taking a stool that has not been placed, and puts it on the top of the current tower. But the stools were of a different size, and in order for the tower to be stable, the bottom of every stool Timmy had to be entirely within the top of the stool on the top of the current tower. Timmy can ** turn ** the stools as he wants, and choose which one to be the basis. The edges of each stool in the tower must be parallel to the respective edges of the main stool.
 
 Help Timmy calculate how much ** the maximum tower height ** he can achieve with his stools.
 
@@ -26,8 +26,8 @@ The output data should be output to the console.
 
 ## Limits
 
-- 1 & lt; = ** N ** & lt; = 15
-- 1 & lt; = ** X **, ** Y **, ** Z ** & lt; = 10,000,000
+- 1 <= ** N ** <= 15
+- 1 <= ** X **, ** Y **, ** Z ** <= 10,000,000
 
 ### Sample Tests
 

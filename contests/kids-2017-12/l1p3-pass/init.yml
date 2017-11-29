@@ -1,0 +1,12 @@
+test_cases:
+- {in: pass.00.in, out: pass.00.sol, points: 0}
+- {in: pass.01.in, out: pass.01.sol, points: 1}
+- {in: pass.02.in, out: pass.02.sol, points: 1}
+- {in: pass.03.in, out: pass.03.sol, points: 1}
+- {in: pass.04.in, out: pass.04.sol, points: 1}
+- {in: pass.05.in, out: pass.05.sol, points: 1}
+- {in: pass.06.in, out: pass.06.sol, points: 1}
+- {in: pass.07.in, out: pass.07.sol, points: 1}
+- {in: pass.08.in, out: pass.08.sol, points: 1}
+- {in: pass.09.in, out: pass.09.sol, points: 1}
+- {in: pass.10.in, out: pass.10.sol, points: 1}

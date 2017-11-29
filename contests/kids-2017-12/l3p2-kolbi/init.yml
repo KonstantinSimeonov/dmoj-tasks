@@ -1,0 +1,12 @@
+test_cases:
+- {in: kolbi.00.in, out: kolbi.00.sol, points: 0}
+- {in: kolbi.01.in, out: kolbi.01.sol, points: 1}
+- {in: kolbi.02.in, out: kolbi.02.sol, points: 1}
+- {in: kolbi.03.in, out: kolbi.03.sol, points: 1}
+- {in: kolbi.04.in, out: kolbi.04.sol, points: 1}
+- {in: kolbi.05.in, out: kolbi.05.sol, points: 1}
+- {in: kolbi.06.in, out: kolbi.06.sol, points: 1}
+- {in: kolbi.07.in, out: kolbi.07.sol, points: 1}
+- {in: kolbi.08.in, out: kolbi.08.sol, points: 1}
+- {in: kolbi.09.in, out: kolbi.09.sol, points: 1}
+- {in: kolbi.10.in, out: kolbi.10.sol, points: 1}

@@ -1,0 +1,12 @@
+test_cases:
+- {in: game.00.in, out: game.00.sol, points: 0}
+- {in: game.01.in, out: game.01.sol, points: 1}
+- {in: game.02.in, out: game.02.sol, points: 1}
+- {in: game.03.in, out: game.03.sol, points: 1}
+- {in: game.04.in, out: game.04.sol, points: 1}
+- {in: game.05.in, out: game.05.sol, points: 1}
+- {in: game.06.in, out: game.06.sol, points: 1}
+- {in: game.07.in, out: game.07.sol, points: 1}
+- {in: game.08.in, out: game.08.sol, points: 1}
+- {in: game.09.in, out: game.09.sol, points: 1}
+- {in: game.10.in, out: game.10.sol, points: 1}

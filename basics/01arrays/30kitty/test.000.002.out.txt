@@ -1,0 +1,2 @@
+You are deadlocked, you greedy kitty!
+Jumps before deadlock: 0

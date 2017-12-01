@@ -1,0 +1,23 @@
+test_cases:
+- {in: test.000.001.in.txt, out: test.000.001.out.txt, points: 0}
+- {in: test.000.002.in.txt, out: test.000.002.out.txt, points: 0}
+- {in: test.001.in.txt, out: test.001.out.txt, points: 1}
+- {in: test.002.in.txt, out: test.002.out.txt, points: 1}
+- {in: test.003.in.txt, out: test.003.out.txt, points: 1}
+- {in: test.004.in.txt, out: test.004.out.txt, points: 1}
+- {in: test.005.in.txt, out: test.005.out.txt, points: 1}
+- {in: test.006.in.txt, out: test.006.out.txt, points: 1}
+- {in: test.007.in.txt, out: test.007.out.txt, points: 1}
+- {in: test.008.in.txt, out: test.008.out.txt, points: 1}
+- {in: test.009.in.txt, out: test.009.out.txt, points: 1}
+- {in: test.010.in.txt, out: test.010.out.txt, points: 1}
+- {in: test.011.in.txt, out: test.011.out.txt, points: 1}
+- {in: test.012.in.txt, out: test.012.out.txt, points: 1}
+- {in: test.013.in.txt, out: test.013.out.txt, points: 1}
+- {in: test.014.in.txt, out: test.014.out.txt, points: 1}
+- {in: test.015.in.txt, out: test.015.out.txt, points: 1}
+- {in: test.016.in.txt, out: test.016.out.txt, points: 1}
+- {in: test.017.in.txt, out: test.017.out.txt, points: 1}
+- {in: test.018.in.txt, out: test.018.out.txt, points: 1}
+- {in: test.019.in.txt, out: test.019.out.txt, points: 1}
+- {in: test.020.in.txt, out: test.020.out.txt, points: 1}

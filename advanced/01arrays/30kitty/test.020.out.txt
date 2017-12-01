@@ -1,3 +1,0 @@
-Coder souls collected: 1974
-Food collected: 2011
-Deadlocks: 0

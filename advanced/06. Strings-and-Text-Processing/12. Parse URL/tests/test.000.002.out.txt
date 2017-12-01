@@ -1,3 +1,0 @@
-[protocol] = https
-[server] = github.com
-[resource] = /gentoo/gentoo.git

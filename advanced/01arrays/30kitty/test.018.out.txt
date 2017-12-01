@@ -1,3 +1,0 @@
-Coder souls collected: 3
-Food collected: 8
-Deadlocks: 9

@@ -1,6 +1,6 @@
 You are given the following mathematical expression:
 
-<img src="https://rawgit.com/Minkov/dmoj-tasks/master/basics/11math/01mathexp/mathexp.png" />
+<img src="https://rawgit.com/Minkov/dmoj-tasks/master/easy/11math/01mathexp/mathexp.png" />
 
 The **sin(x)** is a trigonometric function that returns the sine from the angle **x** (measured in radians)**.**
 

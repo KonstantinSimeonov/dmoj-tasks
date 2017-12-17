@@ -18,8 +18,8 @@ Since Joro and Goshi are not particularly smart, they need your help to plan the
 The input will be read from the console.
 
 - On the console row you will find 2 numbers - N and G
-  N - Number of ships
-  - G - the number of groups to be formed
+  N - Number of ships
+  - G - the number of groups to be formed
 
 ## Exit
 

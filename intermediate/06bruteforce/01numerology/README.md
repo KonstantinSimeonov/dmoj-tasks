@@ -1,7 +1,3 @@
-# Numerology
-
-## Description
-
 Pesho thinks that numerology is buggy. That is why he developed his own method of playing with the divine, suitable for programmers.
 
 Here is how to calculate your abilities.
@@ -35,46 +31,41 @@ After you've done all the calculations you can look yourself up in the table:
 | `8`   | You do not mind dynamic typing       |
 | `9`   | You are going to be famous           |
 
-## Input
+# Input
 - Input is read from the console
-  - An `8` digit number is read from the first input line
+- An `8` digit number is read from the first input line
 
-## Output
+# Output
 - Output should be printed on the console
-  - Print the `10` numbers on a single line
-    - separate them by spaces
+- Print the `10` numbers on a single line
+  - separate them by spaces
 
-## Constraints
-- **Time limit**: **0.05s**
-- **Memory limit**: **16 MB**
+# Sample tests
 
-## Sample tests
+## Input
 
-### Sample test 1
-
-#### Input
 ```
 18790314
 ```
 
-#### Output
+## Output
+
 ```
 0 1006 0 286 0 1473 0 205 0 2070
 ```
 
-### Description
+## Description
+
 ```
 Obviously Einstein is not a good programmer
 ```
 
-### Sample test 2
-
-#### Input
+## Input
 ```
 19960229
 ```
 
-#### Output
+## Output
 ```
 3311 0 0 0 885 0 144 0 700 0
 ```

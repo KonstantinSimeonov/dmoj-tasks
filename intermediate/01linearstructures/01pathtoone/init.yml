@@ -31,4 +31,3 @@ test_cases:
 - {in: test.029.in.txt, out: test.029.out.txt, points: 1}
 - {in: test.030.in.txt, out: test.030.out.txt, points: 1}
 - {in: test.031.in.txt, out: test.031.out.txt, points: 1}
-- {in: test.032.in.txt, out: test.032.out.txt, points: 1}

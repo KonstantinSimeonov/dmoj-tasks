@@ -44,7 +44,16 @@ The input data will always be valid and in the described format. There is no nee
 ```
 
 ## Explanation
-
+ 28 10
+ 29 (5 <- 11)
+ 30 (1 <- 8)
+ 31 (11 <- 3)
+ 32 (8 <- 7)
+ 33 (1 <- 5)
+ 34 (11 <- 2)
+ 35 (8 <- 6)
+ 36 (2 <- 15)
+ 37 (8 <- 4)
 
 ```
 The maximal path is:

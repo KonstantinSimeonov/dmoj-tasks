@@ -1,0 +1,12 @@
+11
+main.css needs sub1.css
+index.html needs main.js
+main.css needs sub2.css
+main.js needs partial.html
+index.html needs logo.png
+index.html needs sub2.css
+partial.html needs partial.js
+main.js needs player.png
+index.html needs main.css
+sub2.css needs partial.js
+index.html needs partial.html

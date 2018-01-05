@@ -6,4 +6,4 @@ main.css needs sub2.css
 index.html needs logo.png
 main.js needs player.png
 main.js needs partial.html
-partial.html needs partial.js
+partial.html needs partial.js

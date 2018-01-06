@@ -1,9 +1,10 @@
 {-# LANGUAGE OverloadedStrings #-}
 {-# LANGUAGE BangPatterns #-}
 
-import Data.ByteString.Builder (Builder, intDec, toLazyByteString)
+import Data.ByteString.Builder (Builder, char7, intDec, toLazyByteString)
 import qualified Data.ByteString.Lazy.Char8 as B8
 import qualified Data.Set as Set
+import Data.Monoid ((<>))
 import Data.Char (ord)
 import Data.ByteString (getLine)
 import Data.Array (Array, array, accumArray, (!))
@@ -59,7 +60,7 @@ solve (n:triples) = answer
         (_, answer) = bfs mostDistant graph
 
 main :: IO ()
-main = B8.interact ( toLazyByteString . intDec . solve . parseIntList )
+main = B8.interact ( toLazyByteString . formatInt . solve . parseIntList ) where formatInt n = intDec n <> char7 '\n'
 
 -- debug code below
 tests = [

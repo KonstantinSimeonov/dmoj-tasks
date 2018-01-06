@@ -5,4 +5,5 @@ Solution this far:
 - [CombinationsRepeat](./problems/easy/15combinatorics/02combinationsrepeat/CombinationsRepeatSolution.hs)
 - [Diameter](./problems/easy/13graphs/03diameter/DiameterSolution.hs)
 - [Dogecoin](./problems/easy/14dp/02dogecoin/DogecoinSolution.hs)
+- [OddNumber](./problems/easy/08hashtables/02oddnumber/OddNumberSolution.hs)
 - [Permutations](./problems/intermediate/09recursion/01permutations/PermutationsSolution.hs)

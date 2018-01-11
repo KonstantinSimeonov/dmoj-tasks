@@ -1,0 +1,10 @@
+Added player Ivan to position 1
+Added player Pesho to position 2
+Added player Georgi to position 3
+Added player Stamat to position 2
+Added player Stamat to position 1
+Type Aggressive: Ivan(20); Stamat(40); Stamat(22)
+1. Stamat(40); 2. Ivan(20); 3. Stamat(22); 4. Pesho(25); 5. Georgi(30)
+Added player Pencho to position 2
+Type Neutral: Georgi(30); Pencho(33)
+1. Stamat(40); 2. Pencho(33); 3. Ivan(20)

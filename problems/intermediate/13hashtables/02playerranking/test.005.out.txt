@@ -1,0 +1,1130 @@
+Added player Player0 to position 1
+Type Type12: 
+Type Type2: 
+Type Type0: 
+Type Type4: 
+Type Type20: 
+Type Type26: 
+Type Type12: 
+Type Type27: 
+Type Type21: 
+Type Type20: 
+Type Type24: 
+Type Type0: 
+Type Type15: 
+Type Type29: 
+Type Type17: 
+Type Type24: 
+Type Type16: 
+Type Type0: 
+Type Type10: 
+Type Type24: 
+Added player Player1 to position 1
+Added player Player2 to position 2
+Added player Player3 to position 4
+Added player Player4 to position 2
+Added player Player5 to position 2
+Added player Player6 to position 6
+Added player Player7 to position 2
+Added player Player8 to position 8
+Added player Player9 to position 10
+Added player Player10 to position 4
+Added player Player11 to position 9
+Added player Player12 to position 6
+Added player Player13 to position 6
+Added player Player14 to position 6
+Added player Player15 to position 2
+Added player Player16 to position 10
+Added player Player17 to position 17
+Added player Player18 to position 9
+Added player Player19 to position 11
+Added player Player20 to position 21
+Added player Player21 to position 6
+Added player Player22 to position 16
+Added player Player23 to position 7
+Added player Player24 to position 23
+Added player Player25 to position 16
+Added player Player26 to position 21
+Added player Player27 to position 9
+Added player Player28 to position 26
+Added player Player29 to position 24
+Added player Player30 to position 14
+Added player Player31 to position 27
+Added player Player32 to position 20
+Added player Player33 to position 6
+Added player Player34 to position 17
+Added player Player35 to position 4
+Added player Player36 to position 13
+Added player Player37 to position 11
+Added player Player38 to position 2
+Added player Player39 to position 24
+Added player Player40 to position 34
+Added player Player41 to position 7
+Added player Player42 to position 16
+Added player Player43 to position 21
+Added player Player44 to position 31
+Added player Player45 to position 2
+Added player Player46 to position 8
+Added player Player47 to position 15
+Added player Player48 to position 9
+Added player Player49 to position 47
+Added player Player50 to position 1
+Added player Player51 to position 4
+Added player Player52 to position 49
+Added player Player53 to position 4
+Added player Player54 to position 24
+Added player Player55 to position 2
+Added player Player56 to position 7
+Added player Player57 to position 16
+Added player Player58 to position 51
+Added player Player59 to position 46
+Added player Player60 to position 49
+Added player Player61 to position 15
+Added player Player62 to position 57
+Added player Player63 to position 62
+Added player Player64 to position 40
+Added player Player65 to position 30
+Added player Player66 to position 42
+Added player Player67 to position 61
+Added player Player68 to position 65
+Added player Player69 to position 16
+Added player Player70 to position 71
+Added player Player71 to position 59
+Added player Player72 to position 49
+Added player Player73 to position 61
+Added player Player74 to position 71
+Added player Player75 to position 24
+Added player Player76 to position 40
+Added player Player77 to position 72
+Added player Player78 to position 6
+Added player Player79 to position 42
+Added player Player80 to position 36
+Added player Player81 to position 37
+Added player Player82 to position 12
+Added player Player83 to position 64
+Added player Player84 to position 10
+Added player Player85 to position 55
+Added player Player86 to position 74
+Added player Player87 to position 21
+Added player Player88 to position 14
+Added player Player89 to position 49
+Added player Player90 to position 63
+Added player Player91 to position 69
+Added player Player92 to position 50
+Added player Player93 to position 91
+Added player Player94 to position 51
+Added player Player95 to position 94
+Added player Player96 to position 80
+Added player Player97 to position 93
+Added player Player98 to position 61
+Added player Player99 to position 64
+Added player Player100 to position 94
+Added player Player101 to position 45
+Added player Player102 to position 82
+Added player Player103 to position 58
+Added player Player104 to position 54
+Added player Player105 to position 23
+Added player Player106 to position 19
+Added player Player107 to position 76
+Added player Player108 to position 45
+Added player Player109 to position 24
+Added player Player110 to position 52
+Added player Player111 to position 31
+Added player Player112 to position 96
+Added player Player113 to position 110
+Added player Player114 to position 103
+Added player Player115 to position 60
+Added player Player116 to position 25
+Added player Player117 to position 7
+Added player Player118 to position 76
+Added player Player119 to position 87
+Added player Player120 to position 23
+Added player Player121 to position 32
+Added player Player122 to position 28
+Added player Player123 to position 113
+Added player Player124 to position 29
+Added player Player125 to position 106
+Added player Player126 to position 125
+Added player Player127 to position 87
+Added player Player128 to position 87
+Added player Player129 to position 14
+Added player Player130 to position 87
+Added player Player131 to position 51
+Added player Player132 to position 26
+Added player Player133 to position 18
+Added player Player134 to position 129
+Added player Player135 to position 123
+Added player Player136 to position 17
+Added player Player137 to position 62
+Added player Player138 to position 2
+Added player Player139 to position 71
+Added player Player140 to position 111
+Added player Player141 to position 3
+Added player Player142 to position 78
+Added player Player143 to position 55
+Added player Player144 to position 39
+Added player Player145 to position 16
+Added player Player146 to position 107
+Added player Player147 to position 26
+Added player Player148 to position 59
+Added player Player149 to position 141
+Added player Player150 to position 6
+Added player Player151 to position 77
+Added player Player152 to position 92
+Added player Player153 to position 119
+Added player Player154 to position 128
+Added player Player155 to position 40
+Added player Player156 to position 82
+Added player Player157 to position 140
+Added player Player158 to position 15
+Added player Player159 to position 124
+Added player Player160 to position 140
+Added player Player161 to position 27
+Added player Player162 to position 22
+Added player Player163 to position 73
+Added player Player164 to position 104
+Added player Player165 to position 99
+Added player Player166 to position 113
+Added player Player167 to position 85
+Added player Player168 to position 82
+Added player Player169 to position 37
+Added player Player170 to position 6
+Added player Player171 to position 6
+Added player Player172 to position 91
+Added player Player173 to position 36
+Added player Player174 to position 67
+Added player Player175 to position 175
+Added player Player176 to position 73
+Added player Player177 to position 160
+Added player Player178 to position 1
+Added player Player179 to position 180
+Added player Player180 to position 8
+Added player Player181 to position 140
+Added player Player182 to position 88
+Added player Player183 to position 122
+Added player Player184 to position 154
+Added player Player185 to position 113
+Added player Player186 to position 13
+Added player Player187 to position 18
+Added player Player188 to position 90
+Added player Player189 to position 158
+Added player Player190 to position 109
+Added player Player191 to position 44
+Added player Player192 to position 16
+Added player Player193 to position 140
+Added player Player194 to position 150
+Added player Player195 to position 112
+Added player Player196 to position 92
+Added player Player197 to position 167
+Added player Player198 to position 56
+Added player Player199 to position 85
+Added player Player200 to position 190
+Added player Player201 to position 103
+Added player Player202 to position 146
+Added player Player203 to position 165
+Added player Player204 to position 139
+Added player Player205 to position 50
+Added player Player206 to position 102
+Added player Player207 to position 25
+Added player Player208 to position 66
+Added player Player209 to position 165
+Added player Player210 to position 22
+Added player Player211 to position 85
+Added player Player212 to position 23
+Added player Player213 to position 191
+Added player Player214 to position 67
+Added player Player215 to position 155
+Added player Player216 to position 47
+Added player Player217 to position 11
+Added player Player218 to position 43
+Added player Player219 to position 202
+Added player Player220 to position 208
+Added player Player221 to position 22
+Added player Player222 to position 45
+Added player Player223 to position 25
+Added player Player224 to position 90
+Added player Player225 to position 139
+Added player Player226 to position 176
+Added player Player227 to position 5
+Added player Player228 to position 136
+Added player Player229 to position 215
+Added player Player230 to position 135
+Added player Player231 to position 69
+Added player Player232 to position 189
+Added player Player233 to position 234
+Added player Player234 to position 3
+Added player Player235 to position 132
+Added player Player236 to position 78
+Added player Player237 to position 138
+Added player Player238 to position 192
+Added player Player239 to position 179
+Added player Player240 to position 34
+Added player Player241 to position 151
+Added player Player242 to position 1
+Added player Player243 to position 36
+Added player Player244 to position 185
+Added player Player245 to position 166
+Added player Player246 to position 1
+Added player Player247 to position 101
+Added player Player248 to position 232
+Added player Player249 to position 116
+Added player Player250 to position 139
+Added player Player251 to position 77
+Added player Player252 to position 207
+Added player Player253 to position 245
+Added player Player254 to position 172
+Added player Player255 to position 109
+Added player Player256 to position 134
+Added player Player257 to position 232
+Added player Player258 to position 65
+Added player Player259 to position 116
+Added player Player260 to position 235
+Added player Player261 to position 164
+Added player Player262 to position 235
+Added player Player263 to position 221
+Added player Player264 to position 236
+Added player Player265 to position 227
+Added player Player266 to position 228
+Added player Player267 to position 183
+Added player Player268 to position 32
+Added player Player269 to position 63
+Added player Player270 to position 158
+Added player Player271 to position 15
+Added player Player272 to position 257
+Added player Player273 to position 10
+Added player Player274 to position 123
+Added player Player275 to position 82
+Added player Player276 to position 275
+Added player Player277 to position 68
+Added player Player278 to position 98
+Added player Player279 to position 69
+Added player Player280 to position 117
+Added player Player281 to position 225
+Added player Player282 to position 260
+Added player Player283 to position 135
+Added player Player284 to position 238
+Added player Player285 to position 230
+Added player Player286 to position 26
+Added player Player287 to position 181
+Added player Player288 to position 35
+Added player Player289 to position 150
+Added player Player290 to position 119
+Added player Player291 to position 191
+Added player Player292 to position 286
+Added player Player293 to position 232
+Added player Player294 to position 214
+Added player Player295 to position 94
+Added player Player296 to position 63
+Added player Player297 to position 104
+Added player Player298 to position 87
+Added player Player299 to position 224
+Added player Player300 to position 215
+Added player Player301 to position 39
+Added player Player302 to position 45
+Added player Player303 to position 32
+Added player Player304 to position 252
+Added player Player305 to position 146
+Added player Player306 to position 52
+Added player Player307 to position 306
+Added player Player308 to position 267
+Added player Player309 to position 265
+Added player Player310 to position 140
+Added player Player311 to position 161
+Added player Player312 to position 13
+Added player Player313 to position 85
+Added player Player314 to position 187
+Added player Player315 to position 128
+Added player Player316 to position 75
+Added player Player317 to position 223
+Added player Player318 to position 317
+Added player Player319 to position 312
+Added player Player320 to position 219
+Added player Player321 to position 115
+Added player Player322 to position 196
+Added player Player323 to position 154
+Added player Player324 to position 87
+Added player Player325 to position 226
+Added player Player326 to position 144
+Added player Player327 to position 225
+Added player Player328 to position 312
+Added player Player329 to position 35
+Added player Player330 to position 290
+Added player Player331 to position 151
+Added player Player332 to position 140
+Added player Player333 to position 41
+Added player Player334 to position 209
+Added player Player335 to position 197
+Added player Player336 to position 80
+Added player Player337 to position 305
+Added player Player338 to position 158
+Added player Player339 to position 89
+Added player Player340 to position 324
+Added player Player341 to position 299
+Added player Player342 to position 335
+Added player Player343 to position 260
+Added player Player344 to position 258
+Added player Player345 to position 113
+Added player Player346 to position 63
+Added player Player347 to position 337
+Added player Player348 to position 14
+Added player Player349 to position 183
+Added player Player350 to position 72
+Added player Player351 to position 193
+Added player Player352 to position 151
+Added player Player353 to position 2
+Added player Player354 to position 132
+Added player Player355 to position 54
+Added player Player356 to position 53
+Added player Player357 to position 293
+Added player Player358 to position 211
+Added player Player359 to position 204
+Added player Player360 to position 302
+Added player Player361 to position 260
+Added player Player362 to position 124
+Added player Player363 to position 133
+Added player Player364 to position 255
+Added player Player365 to position 257
+Added player Player366 to position 72
+Added player Player367 to position 118
+Added player Player368 to position 245
+Added player Player369 to position 290
+Added player Player370 to position 247
+Added player Player371 to position 199
+Added player Player372 to position 295
+Added player Player373 to position 341
+Added player Player374 to position 27
+Added player Player375 to position 232
+Added player Player376 to position 109
+Added player Player377 to position 94
+Added player Player378 to position 307
+Added player Player379 to position 373
+Added player Player380 to position 14
+Added player Player381 to position 366
+Added player Player382 to position 155
+Added player Player383 to position 232
+Added player Player384 to position 176
+Added player Player385 to position 333
+Added player Player386 to position 235
+Added player Player387 to position 67
+Added player Player388 to position 313
+Added player Player389 to position 378
+Added player Player390 to position 28
+Added player Player391 to position 302
+Added player Player392 to position 284
+Added player Player393 to position 80
+Added player Player394 to position 358
+Added player Player395 to position 177
+Added player Player396 to position 344
+Added player Player397 to position 197
+Added player Player398 to position 357
+Added player Player399 to position 63
+Added player Player400 to position 222
+Added player Player401 to position 140
+Added player Player402 to position 139
+Added player Player403 to position 337
+Added player Player404 to position 204
+Added player Player405 to position 127
+Added player Player406 to position 43
+Added player Player407 to position 165
+Added player Player408 to position 160
+Added player Player409 to position 241
+Added player Player410 to position 75
+Added player Player411 to position 332
+Added player Player412 to position 214
+Added player Player413 to position 363
+Added player Player414 to position 281
+Added player Player415 to position 54
+Added player Player416 to position 74
+Added player Player417 to position 109
+Added player Player418 to position 274
+Added player Player419 to position 277
+Added player Player420 to position 280
+Added player Player421 to position 169
+Added player Player422 to position 76
+Added player Player423 to position 23
+Added player Player424 to position 277
+Added player Player425 to position 223
+Added player Player426 to position 416
+Added player Player427 to position 201
+Added player Player428 to position 177
+Added player Player429 to position 70
+Added player Player430 to position 193
+Added player Player431 to position 88
+Added player Player432 to position 129
+Added player Player433 to position 100
+Added player Player434 to position 93
+Added player Player435 to position 388
+Added player Player436 to position 237
+Added player Player437 to position 114
+Added player Player438 to position 162
+Added player Player439 to position 226
+Added player Player440 to position 29
+Added player Player441 to position 115
+Added player Player442 to position 49
+Added player Player443 to position 405
+Added player Player444 to position 308
+Added player Player445 to position 131
+Added player Player446 to position 229
+Added player Player447 to position 308
+Added player Player448 to position 34
+Added player Player449 to position 409
+Added player Player450 to position 451
+Added player Player451 to position 296
+Added player Player452 to position 340
+Added player Player453 to position 387
+Added player Player454 to position 368
+Added player Player455 to position 444
+Added player Player456 to position 174
+Added player Player457 to position 28
+Added player Player458 to position 190
+Added player Player459 to position 240
+Added player Player460 to position 352
+Added player Player461 to position 1
+Added player Player462 to position 77
+Added player Player463 to position 177
+Added player Player464 to position 359
+Added player Player465 to position 72
+Added player Player466 to position 56
+Added player Player467 to position 108
+Added player Player468 to position 36
+Added player Player469 to position 385
+Added player Player470 to position 254
+Added player Player471 to position 47
+Added player Player472 to position 258
+Added player Player473 to position 221
+Added player Player474 to position 174
+Added player Player475 to position 304
+Added player Player476 to position 346
+Added player Player477 to position 193
+Added player Player478 to position 382
+Added player Player479 to position 411
+Added player Player480 to position 317
+Added player Player481 to position 381
+Added player Player482 to position 259
+Added player Player483 to position 81
+Added player Player484 to position 134
+Added player Player485 to position 45
+Added player Player486 to position 111
+Added player Player487 to position 215
+Added player Player488 to position 142
+Added player Player489 to position 336
+Added player Player490 to position 442
+Added player Player491 to position 365
+Added player Player492 to position 361
+Added player Player493 to position 109
+Added player Player494 to position 382
+Added player Player495 to position 211
+Added player Player496 to position 393
+Added player Player497 to position 75
+Added player Player498 to position 163
+Added player Player499 to position 410
+Added player Player500 to position 243
+Added player Player501 to position 10
+Added player Player502 to position 98
+Added player Player503 to position 420
+Added player Player504 to position 186
+Added player Player505 to position 17
+Added player Player506 to position 168
+Added player Player507 to position 40
+Added player Player508 to position 450
+Added player Player509 to position 201
+Added player Player510 to position 107
+Added player Player511 to position 233
+Added player Player512 to position 128
+Added player Player513 to position 375
+Added player Player514 to position 467
+Added player Player515 to position 199
+Added player Player516 to position 79
+Added player Player517 to position 371
+Added player Player518 to position 362
+Added player Player519 to position 400
+Added player Player520 to position 449
+Added player Player521 to position 132
+Added player Player522 to position 111
+Added player Player523 to position 43
+Added player Player524 to position 130
+Added player Player525 to position 220
+Added player Player526 to position 137
+Added player Player527 to position 233
+Added player Player528 to position 23
+Added player Player529 to position 234
+Added player Player530 to position 159
+Added player Player531 to position 412
+Added player Player532 to position 251
+Added player Player533 to position 477
+Added player Player534 to position 186
+Added player Player535 to position 339
+Added player Player536 to position 537
+Added player Player537 to position 9
+Added player Player538 to position 295
+Added player Player539 to position 539
+Added player Player540 to position 14
+Added player Player541 to position 513
+Added player Player542 to position 164
+Added player Player543 to position 113
+Added player Player544 to position 332
+Added player Player545 to position 56
+Added player Player546 to position 338
+Added player Player547 to position 296
+Added player Player548 to position 50
+Added player Player549 to position 538
+Added player Player550 to position 480
+Added player Player551 to position 111
+Added player Player552 to position 394
+Added player Player553 to position 112
+Added player Player554 to position 84
+Added player Player555 to position 401
+Added player Player556 to position 176
+Added player Player557 to position 217
+Added player Player558 to position 59
+Added player Player559 to position 380
+Added player Player560 to position 189
+Added player Player561 to position 162
+Added player Player562 to position 42
+Added player Player563 to position 521
+Added player Player564 to position 499
+Added player Player565 to position 19
+Added player Player566 to position 83
+Added player Player567 to position 470
+Added player Player568 to position 69
+Added player Player569 to position 368
+Added player Player570 to position 41
+Added player Player571 to position 452
+Added player Player572 to position 428
+Added player Player573 to position 493
+Added player Player574 to position 371
+Added player Player575 to position 367
+Added player Player576 to position 415
+Added player Player577 to position 395
+Added player Player578 to position 362
+Added player Player579 to position 271
+Added player Player580 to position 221
+Added player Player581 to position 69
+Added player Player582 to position 85
+Added player Player583 to position 42
+Added player Player584 to position 114
+Added player Player585 to position 512
+Added player Player586 to position 427
+Added player Player587 to position 77
+Added player Player588 to position 167
+Added player Player589 to position 36
+Added player Player590 to position 207
+Added player Player591 to position 356
+Added player Player592 to position 411
+Added player Player593 to position 414
+Added player Player594 to position 246
+Added player Player595 to position 343
+Added player Player596 to position 455
+Added player Player597 to position 233
+Added player Player598 to position 526
+Added player Player599 to position 170
+Added player Player600 to position 515
+Added player Player601 to position 119
+Added player Player602 to position 499
+Added player Player603 to position 305
+Added player Player604 to position 443
+Added player Player605 to position 343
+Added player Player606 to position 149
+Added player Player607 to position 157
+Added player Player608 to position 16
+Added player Player609 to position 8
+Added player Player610 to position 439
+Added player Player611 to position 48
+Added player Player612 to position 297
+Added player Player613 to position 476
+Added player Player614 to position 269
+Added player Player615 to position 416
+Added player Player616 to position 428
+Added player Player617 to position 138
+Added player Player618 to position 348
+Added player Player619 to position 320
+Added player Player620 to position 292
+Added player Player621 to position 360
+Added player Player622 to position 600
+Added player Player623 to position 365
+Added player Player624 to position 220
+Added player Player625 to position 4
+Added player Player626 to position 529
+Added player Player627 to position 523
+Added player Player628 to position 439
+Added player Player629 to position 357
+Added player Player630 to position 393
+Added player Player631 to position 106
+Added player Player632 to position 18
+Added player Player633 to position 505
+Added player Player634 to position 330
+Added player Player635 to position 19
+Added player Player636 to position 107
+Added player Player637 to position 473
+Added player Player638 to position 291
+Added player Player639 to position 292
+Added player Player640 to position 260
+Added player Player641 to position 609
+Added player Player642 to position 295
+Added player Player643 to position 16
+Added player Player644 to position 371
+Added player Player645 to position 194
+Added player Player646 to position 117
+Added player Player647 to position 519
+Added player Player648 to position 301
+Added player Player649 to position 146
+Added player Player650 to position 288
+Added player Player651 to position 117
+Added player Player652 to position 567
+Added player Player653 to position 78
+Added player Player654 to position 265
+Added player Player655 to position 535
+Added player Player656 to position 121
+Added player Player657 to position 185
+Added player Player658 to position 440
+Added player Player659 to position 118
+Added player Player660 to position 541
+Added player Player661 to position 330
+Added player Player662 to position 655
+Added player Player663 to position 214
+Added player Player664 to position 45
+Added player Player665 to position 625
+Added player Player666 to position 255
+Added player Player667 to position 448
+Added player Player668 to position 230
+Added player Player669 to position 512
+Added player Player670 to position 213
+Added player Player671 to position 44
+Added player Player672 to position 146
+Added player Player673 to position 115
+Added player Player674 to position 654
+Added player Player675 to position 394
+Added player Player676 to position 80
+Added player Player677 to position 506
+Added player Player678 to position 249
+Added player Player679 to position 622
+Added player Player680 to position 77
+Added player Player681 to position 593
+Added player Player682 to position 450
+Added player Player683 to position 519
+Added player Player684 to position 475
+Added player Player685 to position 647
+Added player Player686 to position 575
+Added player Player687 to position 56
+Added player Player688 to position 399
+Added player Player689 to position 172
+Added player Player690 to position 100
+Added player Player691 to position 99
+Added player Player692 to position 618
+Added player Player693 to position 678
+Added player Player694 to position 315
+Added player Player695 to position 500
+Added player Player696 to position 11
+Added player Player697 to position 11
+Added player Player698 to position 329
+Added player Player699 to position 69
+Added player Player700 to position 598
+Added player Player701 to position 428
+Added player Player702 to position 521
+Added player Player703 to position 154
+Added player Player704 to position 229
+Added player Player705 to position 521
+Added player Player706 to position 549
+Added player Player707 to position 218
+Added player Player708 to position 501
+Added player Player709 to position 252
+Added player Player710 to position 19
+Added player Player711 to position 301
+Added player Player712 to position 648
+Added player Player713 to position 420
+Added player Player714 to position 309
+Added player Player715 to position 606
+Added player Player716 to position 403
+Added player Player717 to position 208
+Added player Player718 to position 658
+Added player Player719 to position 19
+Added player Player720 to position 143
+Added player Player721 to position 92
+Added player Player722 to position 574
+Added player Player723 to position 232
+Added player Player724 to position 395
+Added player Player725 to position 13
+Added player Player726 to position 658
+Added player Player727 to position 2
+Added player Player728 to position 455
+Added player Player729 to position 277
+Added player Player730 to position 248
+Added player Player731 to position 190
+Added player Player732 to position 458
+Added player Player733 to position 84
+Added player Player734 to position 357
+Added player Player735 to position 456
+Added player Player736 to position 403
+Added player Player737 to position 547
+Added player Player738 to position 34
+Added player Player739 to position 696
+Added player Player740 to position 585
+Added player Player741 to position 116
+Added player Player742 to position 627
+Added player Player743 to position 218
+Added player Player744 to position 619
+Added player Player745 to position 486
+Added player Player746 to position 27
+Added player Player747 to position 251
+Added player Player748 to position 680
+Added player Player749 to position 674
+Added player Player750 to position 751
+Added player Player751 to position 114
+Added player Player752 to position 296
+Added player Player753 to position 722
+Added player Player754 to position 255
+Added player Player755 to position 77
+Added player Player756 to position 178
+Added player Player757 to position 31
+Added player Player758 to position 353
+Added player Player759 to position 598
+Added player Player760 to position 141
+Added player Player761 to position 461
+Added player Player762 to position 586
+Added player Player763 to position 131
+Added player Player764 to position 224
+Added player Player765 to position 406
+Added player Player766 to position 81
+Added player Player767 to position 332
+Added player Player768 to position 397
+Added player Player769 to position 234
+Added player Player770 to position 43
+Added player Player771 to position 678
+Added player Player772 to position 302
+Added player Player773 to position 617
+Added player Player774 to position 669
+Added player Player775 to position 381
+Added player Player776 to position 210
+Added player Player777 to position 4
+Added player Player778 to position 542
+Added player Player779 to position 198
+Added player Player780 to position 725
+Added player Player781 to position 468
+Added player Player782 to position 85
+Added player Player783 to position 313
+Added player Player784 to position 485
+Added player Player785 to position 360
+Added player Player786 to position 538
+Added player Player787 to position 753
+Added player Player788 to position 326
+Added player Player789 to position 504
+Added player Player790 to position 436
+Added player Player791 to position 498
+Added player Player792 to position 189
+Added player Player793 to position 383
+Added player Player794 to position 414
+Added player Player795 to position 153
+Added player Player796 to position 774
+Added player Player797 to position 543
+Added player Player798 to position 98
+Added player Player799 to position 195
+Added player Player800 to position 585
+Added player Player801 to position 229
+Added player Player802 to position 499
+Added player Player803 to position 485
+Added player Player804 to position 527
+Added player Player805 to position 709
+Added player Player806 to position 771
+Added player Player807 to position 445
+Added player Player808 to position 678
+Added player Player809 to position 472
+Added player Player810 to position 356
+Added player Player811 to position 717
+Added player Player812 to position 84
+Added player Player813 to position 646
+Added player Player814 to position 761
+Added player Player815 to position 717
+Added player Player816 to position 343
+Added player Player817 to position 220
+Added player Player818 to position 328
+Added player Player819 to position 234
+Added player Player820 to position 358
+Added player Player821 to position 448
+Added player Player822 to position 186
+Added player Player823 to position 603
+Added player Player824 to position 115
+Added player Player825 to position 221
+Added player Player826 to position 767
+Added player Player827 to position 166
+Added player Player828 to position 298
+Added player Player829 to position 95
+Added player Player830 to position 90
+Added player Player831 to position 40
+Added player Player832 to position 763
+Added player Player833 to position 662
+Added player Player834 to position 766
+Added player Player835 to position 281
+Added player Player836 to position 265
+Added player Player837 to position 424
+Added player Player838 to position 110
+Added player Player839 to position 185
+Added player Player840 to position 437
+Added player Player841 to position 740
+Added player Player842 to position 348
+Added player Player843 to position 99
+Added player Player844 to position 82
+Added player Player845 to position 502
+Added player Player846 to position 674
+Added player Player847 to position 492
+Added player Player848 to position 10
+Added player Player849 to position 256
+Added player Player850 to position 558
+Added player Player851 to position 176
+Added player Player852 to position 824
+Added player Player853 to position 437
+Added player Player854 to position 276
+Added player Player855 to position 284
+Added player Player856 to position 155
+Added player Player857 to position 346
+Added player Player858 to position 823
+Added player Player859 to position 808
+Added player Player860 to position 427
+Added player Player861 to position 588
+Added player Player862 to position 24
+Added player Player863 to position 664
+Added player Player864 to position 356
+Added player Player865 to position 865
+Added player Player866 to position 493
+Added player Player867 to position 207
+Added player Player868 to position 148
+Added player Player869 to position 36
+Added player Player870 to position 197
+Added player Player871 to position 37
+Added player Player872 to position 756
+Added player Player873 to position 109
+Added player Player874 to position 318
+Added player Player875 to position 622
+Added player Player876 to position 55
+Added player Player877 to position 630
+Added player Player878 to position 730
+Added player Player879 to position 700
+Added player Player880 to position 341
+Added player Player881 to position 464
+Added player Player882 to position 64
+Added player Player883 to position 255
+Added player Player884 to position 763
+Added player Player885 to position 596
+Added player Player886 to position 416
+Added player Player887 to position 117
+Added player Player888 to position 581
+Added player Player889 to position 876
+Added player Player890 to position 731
+Added player Player891 to position 470
+Added player Player892 to position 786
+Added player Player893 to position 278
+Added player Player894 to position 779
+Added player Player895 to position 60
+Added player Player896 to position 729
+Added player Player897 to position 254
+Added player Player898 to position 855
+Added player Player899 to position 316
+Added player Player900 to position 850
+Added player Player901 to position 463
+Added player Player902 to position 439
+Added player Player903 to position 53
+Added player Player904 to position 759
+Added player Player905 to position 577
+Added player Player906 to position 421
+Added player Player907 to position 664
+Added player Player908 to position 342
+Added player Player909 to position 71
+Added player Player910 to position 283
+Added player Player911 to position 763
+Added player Player912 to position 428
+Added player Player913 to position 699
+Added player Player914 to position 203
+Added player Player915 to position 315
+Added player Player916 to position 212
+Added player Player917 to position 737
+Added player Player918 to position 350
+Added player Player919 to position 92
+Added player Player920 to position 295
+Added player Player921 to position 206
+Added player Player922 to position 69
+Added player Player923 to position 251
+Added player Player924 to position 833
+Added player Player925 to position 123
+Added player Player926 to position 640
+Added player Player927 to position 532
+Added player Player928 to position 455
+Added player Player929 to position 632
+Added player Player930 to position 591
+Added player Player931 to position 350
+Added player Player932 to position 711
+Added player Player933 to position 96
+Added player Player934 to position 356
+Added player Player935 to position 83
+Added player Player936 to position 262
+Added player Player937 to position 467
+Added player Player938 to position 786
+Added player Player939 to position 467
+Added player Player940 to position 586
+Added player Player941 to position 599
+Added player Player942 to position 649
+Added player Player943 to position 789
+Added player Player944 to position 390
+Added player Player945 to position 618
+Added player Player946 to position 110
+Added player Player947 to position 429
+Added player Player948 to position 428
+Added player Player949 to position 107
+Added player Player950 to position 580
+Added player Player951 to position 731
+Added player Player952 to position 855
+Added player Player953 to position 333
+Added player Player954 to position 892
+Added player Player955 to position 186
+Added player Player956 to position 329
+Added player Player957 to position 648
+Added player Player958 to position 607
+Added player Player959 to position 323
+Added player Player960 to position 807
+Added player Player961 to position 537
+Added player Player962 to position 237
+Added player Player963 to position 857
+Added player Player964 to position 546
+Added player Player965 to position 222
+Added player Player966 to position 322
+Added player Player967 to position 132
+Added player Player968 to position 139
+Added player Player969 to position 904
+Added player Player970 to position 856
+Added player Player971 to position 798
+Added player Player972 to position 382
+Added player Player973 to position 752
+Added player Player974 to position 698
+Added player Player975 to position 105
+Added player Player976 to position 327
+Added player Player977 to position 37
+Added player Player978 to position 442
+Added player Player979 to position 618
+Added player Player980 to position 217
+Added player Player981 to position 784
+Added player Player982 to position 873
+Added player Player983 to position 171
+Added player Player984 to position 728
+Added player Player985 to position 600
+Added player Player986 to position 916
+Added player Player987 to position 269
+Added player Player988 to position 651
+Added player Player989 to position 626
+Added player Player990 to position 20
+Added player Player991 to position 920
+Added player Player992 to position 928
+Added player Player993 to position 230
+Added player Player994 to position 353
+Added player Player995 to position 508
+Added player Player996 to position 619
+Added player Player997 to position 492
+Added player Player998 to position 468
+Added player Player999 to position 776
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type19: Player130(43); Player144(16); Player173(26); Player201(32); Player211(22)
+Type Type7: Player1(50); Player123(44); Player142(20); Player176(43); Player213(37)
+Type Type11: Player103(27); Player117(30); Player124(34); Player150(21); Player197(19)
+Type Type13: Player116(42); Player118(14); Player263(47); Player324(22); Player327(32)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type2: Player104(28); Player113(38); Player122(18); Player175(26); Player178(29)
+Type Type5: Player107(20); Player114(27); Player156(46); Player220(24); Player231(12)
+Type Type24: Player126(28); Player13(11); Player136(20); Player137(27); Player171(22)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type20: Player106(48); Player151(11); Player180(17); Player21(39); Player260(31)
+Type Type20: Player106(48); Player151(11); Player180(17); Player21(39); Player260(31)
+Type Type15: Player139(33); Player164(42); Player191(49); Player194(37); Player204(31)
+Type Type26: Player10(42); Player105(28); Player111(18); Player127(22); Player31(29)
+Type Type20: Player106(48); Player151(11); Player180(17); Player21(39); Player260(31)
+Type Type24: Player126(28); Player13(11); Player136(20); Player137(27); Player171(22)
+Type Type13: Player116(42); Player118(14); Player263(47); Player324(22); Player327(32)
+Type Type27: Player157(42); Player172(40); Player181(24); Player198(17); Player207(13)
+Type Type13: Player116(42); Player118(14); Player263(47); Player324(22); Player327(32)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type16: Player254(32); Player261(34); Player297(50); Player362(14); Player381(19)
+Type Type3: Player131(12); Player141(34); Player174(27); Player186(24); Player224(12)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type15: Player139(33); Player164(42); Player191(49); Player194(37); Player204(31)
+Type Type15: Player139(33); Player164(42); Player191(49); Player194(37); Player204(31)
+Type Type15: Player139(33); Player164(42); Player191(49); Player194(37); Player204(31)
+Type Type1: Player0(21); Player102(36); Player112(32); Player14(22); Player190(32)
+Type Type17: Player121(19); Player140(37); Player183(12); Player19(20); Player227(33)
+Type Type13: Player116(42); Player118(14); Player263(47); Player324(22); Player327(32)
+Type Type18: Player101(11); Player133(17); Player159(15); Player16(31); Player160(11)
+Type Type27: Player157(42); Player172(40); Player181(24); Player198(17); Player207(13)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type23: Player132(35); Player147(33); Player158(43); Player18(16); Player212(45)
+Type Type8: Player100(46); Player115(23); Player134(18); Player200(21); Player223(33)
+Type Type17: Player121(19); Player140(37); Player183(12); Player19(20); Player227(33)
+Type Type28: Player153(12); Player165(26); Player199(14); Player210(18); Player221(36)
+Type Type29: Player148(44); Player15(38); Player2(42); Player339(37); Player349(31)
+Type Type27: Player157(42); Player172(40); Player181(24); Player198(17); Player207(13)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type14: Player11(48); Player12(38); Player177(20); Player185(10); Player187(46)
+Type Type9: Player135(10); Player206(12); Player305(28); Player308(16); Player323(19)
+Type Type14: Player11(48); Player12(38); Player177(20); Player185(10); Player187(46)
+Type Type12: Player129(27); Player168(29); Player170(40); Player182(37); Player296(42)
+Type Type28: Player153(12); Player165(26); Player199(14); Player210(18); Player221(36)
+Type Type5: Player107(20); Player114(27); Player156(46); Player220(24); Player231(12)
+Type Type23: Player132(35); Player147(33); Player158(43); Player18(16); Player212(45)
+Type Type18: Player101(11); Player133(17); Player159(15); Player16(31); Player160(11)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type16: Player254(32); Player261(34); Player297(50); Player362(14); Player381(19)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type8: Player100(46); Player115(23); Player134(18); Player200(21); Player223(33)
+Type Type18: Player101(11); Player133(17); Player159(15); Player16(31); Player160(11)
+Type Type29: Player148(44); Player15(38); Player2(42); Player339(37); Player349(31)
+Type Type18: Player101(11); Player133(17); Player159(15); Player16(31); Player160(11)
+Type Type15: Player139(33); Player164(42); Player191(49); Player194(37); Player204(31)
+Type Type7: Player1(50); Player123(44); Player142(20); Player176(43); Player213(37)
+Type Type25: Player143(27); Player145(35); Player214(28); Player252(20); Player26(10)
+Type Type27: Player157(42); Player172(40); Player181(24); Player198(17); Player207(13)
+Type Type18: Player101(11); Player133(17); Player159(15); Player16(31); Player160(11)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type17: Player121(19); Player140(37); Player183(12); Player19(20); Player227(33)
+Type Type10: Player152(16); Player154(50); Player162(49); Player166(19); Player179(17)
+Type Type12: Player129(27); Player168(29); Player170(40); Player182(37); Player296(42)
+Type Type22: Player109(29); Player138(15); Player155(16); Player163(30); Player17(47)
+Type Type15: Player139(33); Player164(42); Player191(49); Player194(37); Player204(31)
+Type Type21: Player108(22); Player146(38); Player209(34); Player222(45); Player266(27)
+Type Type17: Player121(19); Player140(37); Player183(12); Player19(20); Player227(33)
+Type Type3: Player131(12); Player141(34); Player174(27); Player186(24); Player224(12)
+Type Type25: Player143(27); Player145(35); Player214(28); Player252(20); Player26(10)
+Type Type13: Player116(42); Player118(14); Player263(47); Player324(22); Player327(32)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type12: Player129(27); Player168(29); Player170(40); Player182(37); Player296(42)
+Type Type20: Player106(48); Player151(11); Player180(17); Player21(39); Player260(31)
+Type Type24: Player126(28); Player13(11); Player136(20); Player137(27); Player171(22)
+Type Type1: Player0(21); Player102(36); Player112(32); Player14(22); Player190(32)
+Type Type20: Player106(48); Player151(11); Player180(17); Player21(39); Player260(31)
+Type Type1: Player0(21); Player102(36); Player112(32); Player14(22); Player190(32)
+Type Type10: Player152(16); Player154(50); Player162(49); Player166(19); Player179(17)
+Type Type22: Player109(29); Player138(15); Player155(16); Player163(30); Player17(47)
+Type Type27: Player157(42); Player172(40); Player181(24); Player198(17); Player207(13)
+Type Type1: Player0(21); Player102(36); Player112(32); Player14(22); Player190(32)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+Type Type13: Player116(42); Player118(14); Player263(47); Player324(22); Player327(32)
+Type Type17: Player121(19); Player140(37); Player183(12); Player19(20); Player227(33)
+Type Type18: Player101(11); Player133(17); Player159(15); Player16(31); Player160(11)
+Type Type16: Player254(32); Player261(34); Player297(50); Player362(14); Player381(19)
+Type Type23: Player132(35); Player147(33); Player158(43); Player18(16); Player212(45)
+Type Type19: Player130(43); Player144(16); Player173(26); Player201(32); Player211(22)
+Type Type1: Player0(21); Player102(36); Player112(32); Player14(22); Player190(32)
+Type Type21: Player108(22); Player146(38); Player209(34); Player222(45); Player266(27)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type29: Player148(44); Player15(38); Player2(42); Player339(37); Player349(31)
+Type Type11: Player103(27); Player117(30); Player124(34); Player150(21); Player197(19)
+Type Type14: Player11(48); Player12(38); Player177(20); Player185(10); Player187(46)
+Type Type22: Player109(29); Player138(15); Player155(16); Player163(30); Player17(47)
+Type Type4: Player110(17); Player167(11); Player169(47); Player189(40); Player192(18)
+Type Type0: Player120(23); Player128(40); Player246(29); Player249(11); Player276(38)
+94. Player755(30); 95. Player844(19); 96. Player919(47); 97. Player485(22); 98. Player223(33); 99. Player933(10); 100. Player766(33); 101. Player812(47); 102. Player329(36); 103. Player782(36); 104. Player471(41); 105. Player545(23); 106. Player212(45); 107. Player975(27); 108. Player830(33); 109. Player558(42); 110. Player949(49); 111. Player158(43); 112. Player406(43); 113. Player733(34); 114. Player946(46); 115. Player288(36); 116. Player829(38); 117. Player680(27); 118. Player843(42); 119. Player268(24); 120. Player15(38); 121. Player442(48); 122. Player798(12); 123. Player873(40); 124. Player676(18); 125. Player653(15); 126. Player581(22); 127. Player333(28); 128. Player568(42); 129. Player887(20); 130. Player925(10); 131. Player721(46); 132. Player7(46); 133. Player838(29); 134. Player301(15); 135. Player967(12); 136. Player466(50); 137. Player207(13); 138. Player587(50); 139. Player145(35); 140. Player240(36); 141. Player243(36); 142. Player968(24); 143. Player415(43); 144. Player824(18); 145. Player129(27); 146. Player302(18); 147. Player82(48); 148. Player691(40); 149. Player356(18); 150. Player690(16); 151. Player88(42); 152. Player751(42); 153. Player582(24); 154. Player355(11); 155. Player566(36); 156. Player741(26); 157. Player162(49); 158. Player136(20); 159. Player35(49); 160. Player306(39); 161. Player554(50); 162. Player497(37); 163. Player516(35); 164. Player399(12); 165. Player465(40); 166. Player133(17); 167. Player763(29); 168. Player636(33); 169. Player868(25); 170. Player5(49); 171. Player631(11); 172. Player983(20); 173. Player46(12); 174. Player673(33); 175. Player429(30); 176. Player161(29); 177. Player483(33); 178. Player462(28); 179. Player856(19); 180. Player48(28); 181. Player760(25); 182. Player659(50); 183. Player651(50); 184. Player646(18); 185. Player387(21); 186. Player656(35); 187. Player147(33); 188. Player795(42); 189. Player106(48); 190. Player416(49); 191. Player346(45); 192. Player955(45); 193. Player422(33); 194. Player218(25); 195. Player410(10); 196. Player720(29); 197. Player584(31); 198. Player222(45); 199. Player827(44); 200. Player61(21); 201. Player601(48); 202. Player851(18); 203. Player69(33); 204. Player502(47); 205. Player366(25); 206. Player173(26); 207. Player120(23); 208. Player551(28); 209. Player553(21); 210. Player41(18); 211. Player431(34); 212. Player703(16); 213. Player393(13); 214. Player672(23); 215. Player839(45); 216. Player510(34); 217. Player914(31); 218. Player543(40); 219. Player980(21); 220. Player921(41); 221. Player350(34); 222. Player870(23); 223. Player296(42); 224. Player522(28); 225. Player617(31); 226. Player649(22); 227. Player822(19); 228. Player916(16); 229. Player965(50); 230. Player993(28); 231. Player216(33); 232. Player434(22); 233. Player756(23); 234. Player132(35); 235. Player191(49); 236. Player169(47); 237. Player792(45); 238. Player867(17); 239. Player493(16); 240. Player269(23); 241. Player87(13); 242. Player799(27); 243. Player486(31); 244. Player316(44); 245. Player467(35); 246. Player962(14); 247. Player109(29); 248. Player433(25); 249. Player277(10); 250. Player689(46); 251. Player779(21); 252. Player606(21); 253. Player336(37); 254. Player279(34); 255. Player116(42); 256. Player524(47); 257. Player731(48); 258. Player258(29); 259. Player512(20); 260. Player205(50); 261. Player607(46); 262. Player122(18); 263. Player521(14); 264. Player377(25); 265. Player776(43); 266. Player825(36); 267. Player923(42); 268. Player526(48); 269. Player817(32); 270. Player124(34); 271. Player987(43); 272. Player105(28); 273. Player155(16); 274. Player339(37); 275. Player441(32); 276. Player936(17); 277. Player437(27); 278. Player313(28); 279. Player417(34); 280. Player897(25); 281. Player657(23); 282. Player324(22); 283. Player801(19); 284. Player883(21); 285. Player588(11); 286. Player57(43); 287. Player819(42); 288. Player599(30); 289. Player10(42); 290. Player198(17); 291. Player764(17); 292. Player717(26); 293. Player743(42); 294. Player484(13); 295. Player144(16); 296. Player561(20); 297. Player849(28); 298. Player231(12); 299. Player33(23); 300. Player121(19); 301. Player769(42); 302. Player298(38); 303. Player488(50); 304. Player645(36); 305. Player275(21); 306. Player893(45); 307. Player910(29); 308. Player530(23); 309. Player707(31); 310. Player376(47); 311. Player445(22); 312. Player542(22); 313. Player251(38); 314. Player836(15); 315. Player21(39); 316. Player920(48); 317. Player23(11); 318. Player111(18); 319. Player854(11); 320. Player432(24); 321. Player723(40); 322. Player670(42); 323. Player556(15); 324. Player214(28); 325. Player704(34); 326. Player663(36); 327. Player855(42); 328. Player4(35); 329. Player236(23); 330. Player295(29); 331. Player966(49); 332. Player208(36); 333. Player976(35); 334. Player75(47); 335. Player747(50); 336. Player959(50); 337. Player835(29); 338. Player367(43); 339. Player405(44); 340. Player754(28); 341. Player47(26); 342. Player915(24); 343. Player956(43); 344. Player730(33); 345. Player37(39); 346. Player498(29); 347. Player560(30); 348. Player345(37); 349. Player953(23); 350. Player899(10); 351. Player506(32); 352. Player27(16); 353. Player994(25); 354. Player668(32); 355. Player14(22); 356. Player590(24); 357. Player42(46); 358. Player278(17); 359. Player362(14); 360. Player709(19); 361. Player874(31); 362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26); 594. Player358(11); 595. Player335(25); 596. Player314(19); 597. Player781(50); 598. Player32(24); 599. Player409(27); 600. Player225(12); 601. Player185(10); 602. Player803(28); 603. Player85(10); 604. Player591(38); 605. Player950(38); 606. Player761(12); 607. Player985(22); 608. Player241(12); 609. Player322(34); 610. Player544(31); 611. Player701(22); 612. Player98(37); 613. Player383(10); 614. Player261(34); 615. Player784(20); 616. Player386(34); 617. Player546(16); 618. Player940(19); 619. Player735(47); 620. Player802(10); 621. Player996(28); 622. Player44(38); 623. Player22(31); 624. Player164(42); 625. Player375(19); 626. Player732(34); 627. Player728(48); 628. Player791(36); 629. Player979(43); 630. Player334(18); 631. Player630(19); 632. Player958(23); 633. Player989(32); 634. Player287(36); 635. Player941(32); 636. Player930(16); 637. Player118(14); 638. Player99(50); 639. Player578(29); 640. Player905(43); 641. Player535(30); 642. Player789(47); 643. Player72(22); 644. Player6(47); 645. Player475(31); 646. Player183(12); 647. Player575(12); 648. Player90(25); 649. Player291(32); 650. Player569(13); 651. Player11(48); 652. Player574(10); 653. Player945(41); 654. Player888(21); 655. Player130(43); 656. Player850(15); 657. Player804(22); 658. Player245(13); 659. Player988(40); 660. Player745(43); 661. Player254(32); 662. Player166(19); 663. Player451(21); 664. Player424(39); 665. Player682(40); 666. Player418(42); 667. Player480(49); 668. Player204(31); 669. Player368(44); 670. Player658(18); 671. Player419(23); 672. Player59(29); 673. Player885(25); 674. Player667(39); 675. Player370(17); 676. Player957(32); 677. Player420(49); 678. Player128(40); 679. Player127(22); 680. Player267(17); 681. Player929(36); 682. Player615(33); 683. Player861(17); 684. Player797(17); 685. Player559(23); 686. Player26(10); 687. Player320(10); 688. Player942(42); 689. Player786(34); 690. Player489(43); 691. Player447(22); 692. Player577(14); 693. Player926(27); 694. Player327(32); 695. Player414(14); 696. Player444(28); 697. Player592(18); 698. Player684(30); 699. Player107(20); 700. Player616(39); 701. Player778(28); 702. Player8(27); 703. Player593(32); 704. Player628(26); 705. Player325(35); 706. Player193(37); 707. Player518(36); 708. Player215(45); 709. Player875(47); 710. Player364(22); 711. Player317(46); 712. Player708(21); 713. Player365(40); 714. Player202(32); 715. Player60(36); 716. Player974(28); 717. Player877(37); 718. Player146(38); 719. Player552(26); 720. Player119(46); 721. Player300(47); 722. Player695(10); 723. Player610(19); 724. Player517(32); 725. Player91(46); 726. Player576(49); 727. Player555(23); 728. Player361(43); 729. Player800(12); 730. Player476(24); 731. Player586(21); 732. Player823(28); 733. Player907(36); 734. Player29(38); 735. Player83(43); 736. Player604(36); 737. Player294(17); 738. Player513(21); 739. Player984(15); 740. Player705(44); 741. Player737(37); 742. Player637(41); 743. Player392(20); 744. Player702(27); 745. Player492(28); 746. Player677(18); 747. Player239(24); 748. Player40(20); 749. Player244(34); 750. Player3(11); 751. Player491(46); 752. Player153(12); 753. Player572(10); 754. Player299(27); 755. Player194(37); 756. Player683(41); 757. Player452(48); 758. Player181(24); 759. Player344(16); 760. Player669(22); 761. Player932(17); 762. Player596(20); 763. Player226(38); 764. Player58(33); 765. Player951(20); 766. Player343(22); 767. Player913(22); 768. Player863(45); 769. Player762(39); 770. Player159(15); 771. Player209(34); 772. Player973(18); 773. Player460(27); 774. Player71(24); 775. Player706(21); 776. Player999(39); 777. Player613(48); 778. Player519(49); 779. Player73(27); 780. Player531(35); 781. Player494(35); 782. Player140(37); 783. Player464(22); 784. Player102(36); 785. Player740(28); 786. Player759(33); 787. Player391(34); 788. Player238(34); 789. Player369(13); 790. Player31(29); 791. Player813(10); 792. Player833(18); 793. Player722(20); 794. Player879(50); 795. Player846(29); 796. Player232(47); 797. Player773(49); 798. Player981(30); 799. Player633(29); 800. Player571(32); 801. Player647(35); 802. Player372(16); 803. Player496(40); 804. Player293(27); 805. Player917(50); 806. Player481(42); 807. Player281(26); 808. Player252(20); 809. Player478(13); 810. Player203(22); 811. Player96(23); 812. Player655(33); 813. Player285(49); 814. Player896(47); 815. Player660(13); 816. Player17(47); 817. Player388(13); 818. Player378(48); 819. Player411(49); 820. Player890(41); 821. Player454(16); 822. Player971(32); 823. Player154(50); 824. Player499(20); 825. Player86(37); 826. Player189(40)
+26. Player710(11); 27. Player540(15); 28. Player273(34); 29. Player632(48); 30. Player635(19); 31. Player746(32); 32. Player608(26); 33. Player1(50); 34. Player171(22); 35. Player757(37); 36. Player380(16); 37. Player869(21); 38. Player977(36); 39. Player871(17); 40. Player565(13); 41. Player505(23); 42. Player312(49); 43. Player738(11); 44. Player348(19); 45. Player180(17); 46. Player831(42); 47. Player170(40); 48. Player150(21); 49. Player528(15); 50. Player271(38); 51. Player770(45); 52. Player217(35); 53. Player45(27); 54. Player423(41); 55. Player903(38); 56. Player53(29); 57. Player186(24); 58. Player876(15); 59. Player78(43); 60. Player117(30); 61. Player457(48); 62. Player589(30); 63. Player895(43); 64. Player192(18); 65. Player671(13); 66. Player440(39); 67. Player664(40); 68. Player882(34); 69. Player390(36); 70. Player374(49); 71. Player922(20); 72. Player51(42); 73. Player570(25); 74. Player909(40); 75. Player583(32); 76. Player56(18); 77. Player468(41); 78. Player611(38); 79. Player562(29); 80. Player687(48); 81. Player448(10); 82. Player507(10); 83. Player286(20); 84. Player187(46); 85. Player935(16); 86. Player523(21); 87. Player38(32); 88. Player221(36); 89. Player84(37); 90. Player548(29); 91. Player210(18); 92. Player699(33); 93. Player303(17); 94. Player755(30); 95. Player844(19); 96. Player919(47); 97. Player485(22); 98. Player223(33); 99. Player933(10); 100. Player766(33); 101. Player812(47); 102. Player329(36); 103. Player782(36); 104. Player471(41); 105. Player545(23); 106. Player212(45); 107. Player975(27); 108. Player830(33); 109. Player558(42); 110. Player949(49); 111. Player158(43); 112. Player406(43); 113. Player733(34); 114. Player946(46); 115. Player288(36); 116. Player829(38); 117. Player680(27); 118. Player843(42); 119. Player268(24); 120. Player15(38); 121. Player442(48); 122. Player798(12); 123. Player873(40); 124. Player676(18); 125. Player653(15); 126. Player581(22); 127. Player333(28); 128. Player568(42); 129. Player887(20); 130. Player925(10); 131. Player721(46); 132. Player7(46); 133. Player838(29); 134. Player301(15); 135. Player967(12); 136. Player466(50); 137. Player207(13); 138. Player587(50); 139. Player145(35); 140. Player240(36); 141. Player243(36); 142. Player968(24); 143. Player415(43); 144. Player824(18); 145. Player129(27); 146. Player302(18); 147. Player82(48); 148. Player691(40); 149. Player356(18); 150. Player690(16); 151. Player88(42); 152. Player751(42); 153. Player582(24); 154. Player355(11); 155. Player566(36); 156. Player741(26); 157. Player162(49); 158. Player136(20); 159. Player35(49); 160. Player306(39); 161. Player554(50); 162. Player497(37); 163. Player516(35); 164. Player399(12); 165. Player465(40); 166. Player133(17); 167. Player763(29); 168. Player636(33); 169. Player868(25); 170. Player5(49); 171. Player631(11); 172. Player983(20); 173. Player46(12); 174. Player673(33); 175. Player429(30); 176. Player161(29); 177. Player483(33); 178. Player462(28); 179. Player856(19); 180. Player48(28); 181. Player760(25); 182. Player659(50); 183. Player651(50); 184. Player646(18); 185. Player387(21); 186. Player656(35); 187. Player147(33); 188. Player795(42); 189. Player106(48); 190. Player416(49); 191. Player346(45); 192. Player955(45); 193. Player422(33); 194. Player218(25); 195. Player410(10); 196. Player720(29); 197. Player584(31); 198. Player222(45); 199. Player827(44); 200. Player61(21); 201. Player601(48); 202. Player851(18); 203. Player69(33); 204. Player502(47); 205. Player366(25); 206. Player173(26); 207. Player120(23); 208. Player551(28); 209. Player553(21); 210. Player41(18); 211. Player431(34); 212. Player703(16); 213. Player393(13); 214. Player672(23); 215. Player839(45); 216. Player510(34); 217. Player914(31); 218. Player543(40); 219. Player980(21); 220. Player921(41); 221. Player350(34); 222. Player870(23); 223. Player296(42); 224. Player522(28); 225. Player617(31); 226. Player649(22); 227. Player822(19); 228. Player916(16); 229. Player965(50); 230. Player993(28); 231. Player216(33); 232. Player434(22); 233. Player756(23); 234. Player132(35); 235. Player191(49); 236. Player169(47); 237. Player792(45); 238. Player867(17); 239. Player493(16); 240. Player269(23); 241. Player87(13); 242. Player799(27); 243. Player486(31); 244. Player316(44); 245. Player467(35); 246. Player962(14); 247. Player109(29); 248. Player433(25); 249. Player277(10); 250. Player689(46); 251. Player779(21); 252. Player606(21); 253. Player336(37); 254. Player279(34); 255. Player116(42); 256. Player524(47); 257. Player731(48); 258. Player258(29); 259. Player512(20); 260. Player205(50); 261. Player607(46); 262. Player122(18); 263. Player521(14); 264. Player377(25); 265. Player776(43); 266. Player825(36); 267. Player923(42); 268. Player526(48); 269. Player817(32); 270. Player124(34); 271. Player987(43); 272. Player105(28); 273. Player155(16); 274. Player339(37); 275. Player441(32); 276. Player936(17); 277. Player437(27); 278. Player313(28); 279. Player417(34); 280. Player897(25); 281. Player657(23); 282. Player324(22); 283. Player801(19); 284. Player883(21); 285. Player588(11); 286. Player57(43); 287. Player819(42); 288. Player599(30); 289. Player10(42); 290. Player198(17); 291. Player764(17); 292. Player717(26); 293. Player743(42); 294. Player484(13); 295. Player144(16); 296. Player561(20); 297. Player849(28); 298. Player231(12); 299. Player33(23); 300. Player121(19); 301. Player769(42); 302. Player298(38); 303. Player488(50); 304. Player645(36); 305. Player275(21); 306. Player893(45); 307. Player910(29); 308. Player530(23); 309. Player707(31); 310. Player376(47); 311. Player445(22); 312. Player542(22); 313. Player251(38); 314. Player836(15); 315. Player21(39); 316. Player920(48); 317. Player23(11); 318. Player111(18); 319. Player854(11); 320. Player432(24); 321. Player723(40); 322. Player670(42); 323. Player556(15); 324. Player214(28); 325. Player704(34); 326. Player663(36); 327. Player855(42); 328. Player4(35); 329. Player236(23); 330. Player295(29); 331. Player966(49); 332. Player208(36); 333. Player976(35); 334. Player75(47); 335. Player747(50); 336. Player959(50); 337. Player835(29); 338. Player367(43); 339. Player405(44); 340. Player754(28); 341. Player47(26); 342. Player915(24); 343. Player956(43); 344. Player730(33); 345. Player37(39); 346. Player498(29); 347. Player560(30); 348. Player345(37); 349. Player953(23); 350. Player899(10); 351. Player506(32); 352. Player27(16); 353. Player994(25); 354. Player668(32); 355. Player14(22); 356. Player590(24); 357. Player42(46); 358. Player278(17); 359. Player362(14); 360. Player709(19); 361. Player874(31); 362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40)
+451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26); 594. Player358(11); 595. Player335(25); 596. Player314(19); 597. Player781(50); 598. Player32(24); 599. Player409(27); 600. Player225(12); 601. Player185(10); 602. Player803(28); 603. Player85(10); 604. Player591(38); 605. Player950(38); 606. Player761(12); 607. Player985(22); 608. Player241(12); 609. Player322(34); 610. Player544(31); 611. Player701(22); 612. Player98(37); 613. Player383(10); 614. Player261(34); 615. Player784(20); 616. Player386(34); 617. Player546(16); 618. Player940(19); 619. Player735(47); 620. Player802(10); 621. Player996(28); 622. Player44(38); 623. Player22(31); 624. Player164(42); 625. Player375(19); 626. Player732(34); 627. Player728(48); 628. Player791(36); 629. Player979(43); 630. Player334(18); 631. Player630(19); 632. Player958(23); 633. Player989(32); 634. Player287(36); 635. Player941(32); 636. Player930(16); 637. Player118(14); 638. Player99(50); 639. Player578(29); 640. Player905(43); 641. Player535(30); 642. Player789(47); 643. Player72(22); 644. Player6(47); 645. Player475(31); 646. Player183(12); 647. Player575(12); 648. Player90(25); 649. Player291(32); 650. Player569(13); 651. Player11(48); 652. Player574(10); 653. Player945(41); 654. Player888(21); 655. Player130(43); 656. Player850(15); 657. Player804(22); 658. Player245(13); 659. Player988(40); 660. Player745(43); 661. Player254(32); 662. Player166(19); 663. Player451(21); 664. Player424(39); 665. Player682(40); 666. Player418(42); 667. Player480(49); 668. Player204(31); 669. Player368(44); 670. Player658(18); 671. Player419(23); 672. Player59(29); 673. Player885(25); 674. Player667(39); 675. Player370(17); 676. Player957(32); 677. Player420(49); 678. Player128(40); 679. Player127(22); 680. Player267(17); 681. Player929(36); 682. Player615(33); 683. Player861(17); 684. Player797(17); 685. Player559(23); 686. Player26(10); 687. Player320(10); 688. Player942(42); 689. Player786(34); 690. Player489(43); 691. Player447(22); 692. Player577(14); 693. Player926(27); 694. Player327(32); 695. Player414(14); 696. Player444(28); 697. Player592(18); 698. Player684(30); 699. Player107(20); 700. Player616(39); 701. Player778(28); 702. Player8(27); 703. Player593(32); 704. Player628(26); 705. Player325(35); 706. Player193(37); 707. Player518(36); 708. Player215(45); 709. Player875(47); 710. Player364(22); 711. Player317(46); 712. Player708(21); 713. Player365(40); 714. Player202(32); 715. Player60(36); 716. Player974(28); 717. Player877(37); 718. Player146(38); 719. Player552(26); 720. Player119(46); 721. Player300(47); 722. Player695(10); 723. Player610(19); 724. Player517(32); 725. Player91(46); 726. Player576(49); 727. Player555(23); 728. Player361(43); 729. Player800(12); 730. Player476(24); 731. Player586(21); 732. Player823(28); 733. Player907(36); 734. Player29(38); 735. Player83(43); 736. Player604(36); 737. Player294(17); 738. Player513(21); 739. Player984(15); 740. Player705(44); 741. Player737(37); 742. Player637(41); 743. Player392(20); 744. Player702(27); 745. Player492(28); 746. Player677(18); 747. Player239(24); 748. Player40(20); 749. Player244(34); 750. Player3(11); 751. Player491(46); 752. Player153(12); 753. Player572(10); 754. Player299(27); 755. Player194(37); 756. Player683(41); 757. Player452(48); 758. Player181(24); 759. Player344(16); 760. Player669(22); 761. Player932(17); 762. Player596(20); 763. Player226(38); 764. Player58(33); 765. Player951(20); 766. Player343(22); 767. Player913(22); 768. Player863(45); 769. Player762(39); 770. Player159(15); 771. Player209(34); 772. Player973(18); 773. Player460(27); 774. Player71(24); 775. Player706(21); 776. Player999(39); 777. Player613(48); 778. Player519(49); 779. Player73(27); 780. Player531(35); 781. Player494(35); 782. Player140(37); 783. Player464(22); 784. Player102(36); 785. Player740(28); 786. Player759(33); 787. Player391(34); 788. Player238(34); 789. Player369(13); 790. Player31(29); 791. Player813(10); 792. Player833(18); 793. Player722(20); 794. Player879(50); 795. Player846(29); 796. Player232(47); 797. Player773(49); 798. Player981(30); 799. Player633(29); 800. Player571(32); 801. Player647(35); 802. Player372(16); 803. Player496(40); 804. Player293(27); 805. Player917(50); 806. Player481(42); 807. Player281(26); 808. Player252(20); 809. Player478(13); 810. Player203(22); 811. Player96(23); 812. Player655(33); 813. Player285(49); 814. Player896(47); 815. Player660(13); 816. Player17(47); 817. Player388(13); 818. Player378(48); 819. Player411(49); 820. Player890(41); 821. Player454(16); 822. Player971(32); 823. Player154(50); 824. Player499(20); 825. Player86(37); 826. Player189(40); 827. Player469(42); 828. Player744(33); 829. Player602(10); 830. Player878(17); 831. Player304(33); 832. Player627(22); 833. Player567(45); 834. Player686(17); 835. Player943(20); 836. Player357(48); 837. Player938(14); 838. Player808(48); 839. Player960(30); 840. Player184(38); 841. Player911(49); 842. Player503(44); 843. Player263(47); 844. Player904(11); 845. Player742(48); 846. Player197(19); 847. Player626(11); 848. Player715(25); 849. Player112(32); 850. Player284(38); 851. Player125(50); 852. Player360(35); 853. Player403(26); 854. Player700(27)
+274. Player339(37); 275. Player441(32); 276. Player936(17); 277. Player437(27); 278. Player313(28); 279. Player417(34); 280. Player897(25); 281. Player657(23); 282. Player324(22); 283. Player801(19); 284. Player883(21); 285. Player588(11); 286. Player57(43); 287. Player819(42); 288. Player599(30); 289. Player10(42); 290. Player198(17); 291. Player764(17); 292. Player717(26); 293. Player743(42); 294. Player484(13); 295. Player144(16); 296. Player561(20); 297. Player849(28); 298. Player231(12); 299. Player33(23); 300. Player121(19); 301. Player769(42); 302. Player298(38); 303. Player488(50); 304. Player645(36); 305. Player275(21); 306. Player893(45); 307. Player910(29); 308. Player530(23); 309. Player707(31); 310. Player376(47); 311. Player445(22); 312. Player542(22); 313. Player251(38); 314. Player836(15); 315. Player21(39); 316. Player920(48); 317. Player23(11); 318. Player111(18); 319. Player854(11); 320. Player432(24); 321. Player723(40); 322. Player670(42); 323. Player556(15); 324. Player214(28); 325. Player704(34); 326. Player663(36); 327. Player855(42); 328. Player4(35); 329. Player236(23); 330. Player295(29); 331. Player966(49); 332. Player208(36); 333. Player976(35); 334. Player75(47); 335. Player747(50); 336. Player959(50); 337. Player835(29); 338. Player367(43); 339. Player405(44); 340. Player754(28); 341. Player47(26); 342. Player915(24); 343. Player956(43); 344. Player730(33); 345. Player37(39); 346. Player498(29); 347. Player560(30); 348. Player345(37); 349. Player953(23); 350. Player899(10); 351. Player506(32); 352. Player27(16); 353. Player994(25); 354. Player668(32); 355. Player14(22); 356. Player590(24); 357. Player42(46); 358. Player278(17); 359. Player362(14); 360. Player709(19); 361. Player874(31); 362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11)
+428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26); 594. Player358(11); 595. Player335(25); 596. Player314(19); 597. Player781(50); 598. Player32(24); 599. Player409(27); 600. Player225(12); 601. Player185(10); 602. Player803(28); 603. Player85(10); 604. Player591(38); 605. Player950(38); 606. Player761(12); 607. Player985(22); 608. Player241(12); 609. Player322(34); 610. Player544(31); 611. Player701(22); 612. Player98(37); 613. Player383(10); 614. Player261(34); 615. Player784(20); 616. Player386(34); 617. Player546(16); 618. Player940(19); 619. Player735(47); 620. Player802(10); 621. Player996(28); 622. Player44(38); 623. Player22(31); 624. Player164(42); 625. Player375(19); 626. Player732(34); 627. Player728(48); 628. Player791(36); 629. Player979(43); 630. Player334(18); 631. Player630(19); 632. Player958(23); 633. Player989(32); 634. Player287(36); 635. Player941(32); 636. Player930(16); 637. Player118(14); 638. Player99(50); 639. Player578(29); 640. Player905(43); 641. Player535(30); 642. Player789(47); 643. Player72(22); 644. Player6(47); 645. Player475(31); 646. Player183(12); 647. Player575(12); 648. Player90(25); 649. Player291(32); 650. Player569(13); 651. Player11(48); 652. Player574(10); 653. Player945(41); 654. Player888(21); 655. Player130(43); 656. Player850(15); 657. Player804(22); 658. Player245(13); 659. Player988(40); 660. Player745(43); 661. Player254(32); 662. Player166(19); 663. Player451(21); 664. Player424(39); 665. Player682(40); 666. Player418(42); 667. Player480(49); 668. Player204(31); 669. Player368(44); 670. Player658(18); 671. Player419(23); 672. Player59(29); 673. Player885(25); 674. Player667(39); 675. Player370(17); 676. Player957(32); 677. Player420(49); 678. Player128(40); 679. Player127(22); 680. Player267(17); 681. Player929(36); 682. Player615(33); 683. Player861(17); 684. Player797(17); 685. Player559(23); 686. Player26(10); 687. Player320(10); 688. Player942(42); 689. Player786(34); 690. Player489(43); 691. Player447(22); 692. Player577(14); 693. Player926(27); 694. Player327(32); 695. Player414(14); 696. Player444(28); 697. Player592(18); 698. Player684(30); 699. Player107(20); 700. Player616(39); 701. Player778(28); 702. Player8(27); 703. Player593(32); 704. Player628(26); 705. Player325(35); 706. Player193(37); 707. Player518(36); 708. Player215(45); 709. Player875(47); 710. Player364(22); 711. Player317(46); 712. Player708(21); 713. Player365(40); 714. Player202(32); 715. Player60(36); 716. Player974(28); 717. Player877(37); 718. Player146(38); 719. Player552(26); 720. Player119(46); 721. Player300(47); 722. Player695(10); 723. Player610(19); 724. Player517(32); 725. Player91(46); 726. Player576(49); 727. Player555(23); 728. Player361(43); 729. Player800(12); 730. Player476(24); 731. Player586(21); 732. Player823(28); 733. Player907(36); 734. Player29(38); 735. Player83(43); 736. Player604(36); 737. Player294(17); 738. Player513(21); 739. Player984(15); 740. Player705(44); 741. Player737(37); 742. Player637(41); 743. Player392(20); 744. Player702(27); 745. Player492(28); 746. Player677(18); 747. Player239(24); 748. Player40(20); 749. Player244(34); 750. Player3(11); 751. Player491(46); 752. Player153(12); 753. Player572(10); 754. Player299(27); 755. Player194(37); 756. Player683(41); 757. Player452(48); 758. Player181(24); 759. Player344(16); 760. Player669(22); 761. Player932(17); 762. Player596(20); 763. Player226(38); 764. Player58(33); 765. Player951(20); 766. Player343(22); 767. Player913(22); 768. Player863(45); 769. Player762(39); 770. Player159(15); 771. Player209(34); 772. Player973(18); 773. Player460(27); 774. Player71(24); 775. Player706(21); 776. Player999(39); 777. Player613(48); 778. Player519(49); 779. Player73(27); 780. Player531(35); 781. Player494(35); 782. Player140(37); 783. Player464(22); 784. Player102(36); 785. Player740(28); 786. Player759(33); 787. Player391(34); 788. Player238(34); 789. Player369(13); 790. Player31(29); 791. Player813(10); 792. Player833(18); 793. Player722(20); 794. Player879(50); 795. Player846(29); 796. Player232(47); 797. Player773(49); 798. Player981(30); 799. Player633(29); 800. Player571(32); 801. Player647(35); 802. Player372(16); 803. Player496(40); 804. Player293(27); 805. Player917(50); 806. Player481(42); 807. Player281(26); 808. Player252(20); 809. Player478(13); 810. Player203(22); 811. Player96(23); 812. Player655(33); 813. Player285(49); 814. Player896(47); 815. Player660(13); 816. Player17(47); 817. Player388(13); 818. Player378(48); 819. Player411(49); 820. Player890(41); 821. Player454(16); 822. Player971(32); 823. Player154(50); 824. Player499(20); 825. Player86(37); 826. Player189(40); 827. Player469(42); 828. Player744(33); 829. Player602(10); 830. Player878(17); 831. Player304(33); 832. Player627(22); 833. Player567(45); 834. Player686(17); 835. Player943(20); 836. Player357(48); 837. Player938(14); 838. Player808(48); 839. Player960(30); 840. Player184(38); 841. Player911(49); 842. Player503(44); 843. Player263(47); 844. Player904(11); 845. Player742(48); 846. Player197(19); 847. Player626(11); 848. Player715(25); 849. Player112(32); 850. Player284(38); 851. Player125(50); 852. Player360(35); 853. Player403(26); 854. Player700(27); 855. Player62(10); 856. Player67(34); 857. Player265(29); 858. Player266(27); 859. Player309(32); 860. Player600(28); 861. Player774(19); 862. Player28(15); 863. Player884(35); 864. Player479(37); 865. Player652(22); 866. Player573(28); 867. Player681(46); 868. Player872(43); 869. Player520(31); 870. Player453(31); 871. Player52(29); 872. Player894(35); 873. Player308(16); 874. Player160(11); 875. Player385(13); 876. Player771(13); 877. Player805(36); 878. Player49(13); 879. Player815(10); 880. Player841(21); 881. Player970(22); 882. Player892(23); 883. Player585(39); 884. Player550(28); 885. Player811(13); 886. Player598(38); 887. Player982(18); 888. Player68(41); 889. Player963(14); 890. Player396(13); 891. Player213(37); 892. Player330(24); 893. Player341(42); 894. Player692(34); 895. Player508(34); 896. Player564(38); 897. Player952(45); 898. Player413(16); 899. Player157(42); 900. Player114(27); 901. Player749(41); 902. Player533(23); 903. Player924(47); 904. Player177(20); 905. Player264(35); 906. Player435(42); 907. Player726(27); 908. Player262(40); 909. Player748(34); 910. Player257(47); 911. Player712(31); 912. Player260(31); 913. Player490(32); 914. Player77(36); 915. Player514(34); 916. Player718(27); 917. Player832(31); 918. Player679(17); 919. Player834(20); 920. Player398(10); 921. Player337(22); 922. Player123(44); 923. Player219(21); 924. Player449(17); 925. Player135(10); 926. Player443(10); 927. Player991(49); 928. Player986(22); 929. Player780(23); 930. Player826(22); 931. Player394(49); 932. Player373(48); 933. Player969(46); 934. Player563(30); 935. Player992(35); 936. Player24(43); 937. Player954(25); 938. Player282(29); 939. Player814(26); 940. Player74(49); 941. Player100(46); 942. Player248(35); 943. Player665(13); 944. Player859(22); 945. Player739(34); 946. Player229(39); 947. Player63(20); 948. Player272(10); 949. Player900(11); 950. Player685(43); 951. Player220(24); 952. Player149(25); 953. Player200(21); 954. Player641(15); 955. Player97(49); 956. Player898(12); 957. Player541(16); 958. Player328(32); 959. Player787(18); 960. Player806(16); 961. Player340(47); 962. Player858(16); 963. Player93(16); 964. Player753(20); 965. Player134(18); 966. Player253(33); 967. Player113(38)
+87. Player38(32); 88. Player221(36); 89. Player84(37); 90. Player548(29); 91. Player210(18); 92. Player699(33); 93. Player303(17); 94. Player755(30); 95. Player844(19); 96. Player919(47); 97. Player485(22); 98. Player223(33); 99. Player933(10); 100. Player766(33); 101. Player812(47); 102. Player329(36); 103. Player782(36); 104. Player471(41); 105. Player545(23); 106. Player212(45); 107. Player975(27); 108. Player830(33); 109. Player558(42); 110. Player949(49); 111. Player158(43); 112. Player406(43); 113. Player733(34); 114. Player946(46); 115. Player288(36); 116. Player829(38); 117. Player680(27); 118. Player843(42); 119. Player268(24); 120. Player15(38); 121. Player442(48); 122. Player798(12); 123. Player873(40); 124. Player676(18); 125. Player653(15); 126. Player581(22); 127. Player333(28); 128. Player568(42); 129. Player887(20); 130. Player925(10); 131. Player721(46); 132. Player7(46); 133. Player838(29); 134. Player301(15); 135. Player967(12); 136. Player466(50); 137. Player207(13); 138. Player587(50); 139. Player145(35); 140. Player240(36); 141. Player243(36); 142. Player968(24); 143. Player415(43); 144. Player824(18); 145. Player129(27); 146. Player302(18); 147. Player82(48); 148. Player691(40); 149. Player356(18); 150. Player690(16); 151. Player88(42); 152. Player751(42); 153. Player582(24); 154. Player355(11); 155. Player566(36); 156. Player741(26); 157. Player162(49); 158. Player136(20); 159. Player35(49); 160. Player306(39); 161. Player554(50); 162. Player497(37); 163. Player516(35); 164. Player399(12); 165. Player465(40); 166. Player133(17); 167. Player763(29); 168. Player636(33); 169. Player868(25); 170. Player5(49); 171. Player631(11); 172. Player983(20); 173. Player46(12); 174. Player673(33); 175. Player429(30); 176. Player161(29); 177. Player483(33); 178. Player462(28); 179. Player856(19); 180. Player48(28); 181. Player760(25); 182. Player659(50); 183. Player651(50); 184. Player646(18); 185. Player387(21); 186. Player656(35); 187. Player147(33); 188. Player795(42); 189. Player106(48); 190. Player416(49); 191. Player346(45); 192. Player955(45); 193. Player422(33); 194. Player218(25); 195. Player410(10); 196. Player720(29); 197. Player584(31); 198. Player222(45); 199. Player827(44); 200. Player61(21); 201. Player601(48); 202. Player851(18); 203. Player69(33); 204. Player502(47); 205. Player366(25); 206. Player173(26); 207. Player120(23); 208. Player551(28); 209. Player553(21); 210. Player41(18); 211. Player431(34); 212. Player703(16); 213. Player393(13); 214. Player672(23); 215. Player839(45); 216. Player510(34); 217. Player914(31); 218. Player543(40); 219. Player980(21); 220. Player921(41); 221. Player350(34); 222. Player870(23); 223. Player296(42); 224. Player522(28); 225. Player617(31); 226. Player649(22); 227. Player822(19); 228. Player916(16); 229. Player965(50); 230. Player993(28); 231. Player216(33); 232. Player434(22); 233. Player756(23); 234. Player132(35); 235. Player191(49); 236. Player169(47); 237. Player792(45); 238. Player867(17); 239. Player493(16); 240. Player269(23); 241. Player87(13); 242. Player799(27); 243. Player486(31); 244. Player316(44); 245. Player467(35); 246. Player962(14); 247. Player109(29); 248. Player433(25); 249. Player277(10); 250. Player689(46); 251. Player779(21); 252. Player606(21); 253. Player336(37); 254. Player279(34); 255. Player116(42); 256. Player524(47); 257. Player731(48); 258. Player258(29); 259. Player512(20); 260. Player205(50); 261. Player607(46); 262. Player122(18); 263. Player521(14); 264. Player377(25); 265. Player776(43); 266. Player825(36); 267. Player923(42); 268. Player526(48); 269. Player817(32); 270. Player124(34); 271. Player987(43); 272. Player105(28); 273. Player155(16); 274. Player339(37); 275. Player441(32); 276. Player936(17); 277. Player437(27); 278. Player313(28); 279. Player417(34); 280. Player897(25); 281. Player657(23); 282. Player324(22); 283. Player801(19); 284. Player883(21); 285. Player588(11); 286. Player57(43); 287. Player819(42); 288. Player599(30); 289. Player10(42); 290. Player198(17); 291. Player764(17); 292. Player717(26); 293. Player743(42); 294. Player484(13); 295. Player144(16); 296. Player561(20); 297. Player849(28); 298. Player231(12); 299. Player33(23); 300. Player121(19); 301. Player769(42); 302. Player298(38); 303. Player488(50); 304. Player645(36); 305. Player275(21); 306. Player893(45); 307. Player910(29); 308. Player530(23); 309. Player707(31); 310. Player376(47); 311. Player445(22); 312. Player542(22); 313. Player251(38); 314. Player836(15); 315. Player21(39); 316. Player920(48); 317. Player23(11); 318. Player111(18); 319. Player854(11); 320. Player432(24); 321. Player723(40); 322. Player670(42); 323. Player556(15); 324. Player214(28); 325. Player704(34); 326. Player663(36); 327. Player855(42); 328. Player4(35); 329. Player236(23); 330. Player295(29); 331. Player966(49); 332. Player208(36); 333. Player976(35); 334. Player75(47); 335. Player747(50); 336. Player959(50); 337. Player835(29); 338. Player367(43); 339. Player405(44); 340. Player754(28); 341. Player47(26); 342. Player915(24); 343. Player956(43); 344. Player730(33); 345. Player37(39); 346. Player498(29); 347. Player560(30); 348. Player345(37); 349. Player953(23); 350. Player899(10); 351. Player506(32); 352. Player27(16); 353. Player994(25); 354. Player668(32); 355. Player14(22); 356. Player590(24); 357. Player42(46); 358. Player278(17); 359. Player362(14); 360. Player709(19); 361. Player874(31); 362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26); 594. Player358(11); 595. Player335(25); 596. Player314(19); 597. Player781(50); 598. Player32(24); 599. Player409(27); 600. Player225(12); 601. Player185(10); 602. Player803(28); 603. Player85(10); 604. Player591(38); 605. Player950(38); 606. Player761(12); 607. Player985(22); 608. Player241(12); 609. Player322(34); 610. Player544(31); 611. Player701(22); 612. Player98(37); 613. Player383(10); 614. Player261(34); 615. Player784(20); 616. Player386(34); 617. Player546(16); 618. Player940(19); 619. Player735(47); 620. Player802(10); 621. Player996(28); 622. Player44(38); 623. Player22(31); 624. Player164(42); 625. Player375(19); 626. Player732(34); 627. Player728(48); 628. Player791(36); 629. Player979(43); 630. Player334(18); 631. Player630(19); 632. Player958(23); 633. Player989(32); 634. Player287(36); 635. Player941(32); 636. Player930(16); 637. Player118(14); 638. Player99(50); 639. Player578(29); 640. Player905(43); 641. Player535(30); 642. Player789(47); 643. Player72(22); 644. Player6(47); 645. Player475(31); 646. Player183(12); 647. Player575(12); 648. Player90(25); 649. Player291(32); 650. Player569(13); 651. Player11(48); 652. Player574(10); 653. Player945(41); 654. Player888(21); 655. Player130(43); 656. Player850(15); 657. Player804(22); 658. Player245(13); 659. Player988(40); 660. Player745(43); 661. Player254(32); 662. Player166(19); 663. Player451(21); 664. Player424(39); 665. Player682(40); 666. Player418(42); 667. Player480(49); 668. Player204(31); 669. Player368(44); 670. Player658(18); 671. Player419(23); 672. Player59(29); 673. Player885(25); 674. Player667(39); 675. Player370(17); 676. Player957(32); 677. Player420(49); 678. Player128(40); 679. Player127(22); 680. Player267(17); 681. Player929(36); 682. Player615(33); 683. Player861(17); 684. Player797(17); 685. Player559(23); 686. Player26(10); 687. Player320(10); 688. Player942(42); 689. Player786(34); 690. Player489(43); 691. Player447(22); 692. Player577(14); 693. Player926(27); 694. Player327(32); 695. Player414(14); 696. Player444(28); 697. Player592(18); 698. Player684(30); 699. Player107(20); 700. Player616(39); 701. Player778(28); 702. Player8(27); 703. Player593(32); 704. Player628(26); 705. Player325(35); 706. Player193(37); 707. Player518(36); 708. Player215(45); 709. Player875(47); 710. Player364(22); 711. Player317(46); 712. Player708(21); 713. Player365(40); 714. Player202(32); 715. Player60(36); 716. Player974(28); 717. Player877(37); 718. Player146(38); 719. Player552(26); 720. Player119(46); 721. Player300(47); 722. Player695(10); 723. Player610(19); 724. Player517(32); 725. Player91(46); 726. Player576(49); 727. Player555(23); 728. Player361(43); 729. Player800(12); 730. Player476(24); 731. Player586(21); 732. Player823(28); 733. Player907(36); 734. Player29(38); 735. Player83(43); 736. Player604(36); 737. Player294(17); 738. Player513(21); 739. Player984(15); 740. Player705(44); 741. Player737(37); 742. Player637(41); 743. Player392(20); 744. Player702(27); 745. Player492(28); 746. Player677(18); 747. Player239(24); 748. Player40(20); 749. Player244(34); 750. Player3(11); 751. Player491(46); 752. Player153(12); 753. Player572(10); 754. Player299(27); 755. Player194(37); 756. Player683(41); 757. Player452(48); 758. Player181(24); 759. Player344(16); 760. Player669(22); 761. Player932(17); 762. Player596(20); 763. Player226(38); 764. Player58(33); 765. Player951(20); 766. Player343(22); 767. Player913(22); 768. Player863(45); 769. Player762(39); 770. Player159(15); 771. Player209(34); 772. Player973(18); 773. Player460(27); 774. Player71(24); 775. Player706(21); 776. Player999(39); 777. Player613(48); 778. Player519(49); 779. Player73(27); 780. Player531(35)
+423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17)
+244. Player316(44); 245. Player467(35); 246. Player962(14); 247. Player109(29); 248. Player433(25); 249. Player277(10); 250. Player689(46); 251. Player779(21); 252. Player606(21); 253. Player336(37); 254. Player279(34); 255. Player116(42); 256. Player524(47); 257. Player731(48); 258. Player258(29); 259. Player512(20); 260. Player205(50); 261. Player607(46); 262. Player122(18); 263. Player521(14); 264. Player377(25); 265. Player776(43); 266. Player825(36); 267. Player923(42); 268. Player526(48); 269. Player817(32); 270. Player124(34); 271. Player987(43); 272. Player105(28); 273. Player155(16); 274. Player339(37); 275. Player441(32); 276. Player936(17); 277. Player437(27); 278. Player313(28); 279. Player417(34); 280. Player897(25); 281. Player657(23); 282. Player324(22); 283. Player801(19); 284. Player883(21); 285. Player588(11); 286. Player57(43); 287. Player819(42); 288. Player599(30); 289. Player10(42); 290. Player198(17); 291. Player764(17); 292. Player717(26); 293. Player743(42); 294. Player484(13); 295. Player144(16); 296. Player561(20); 297. Player849(28); 298. Player231(12); 299. Player33(23); 300. Player121(19); 301. Player769(42); 302. Player298(38); 303. Player488(50); 304. Player645(36); 305. Player275(21); 306. Player893(45); 307. Player910(29); 308. Player530(23); 309. Player707(31); 310. Player376(47); 311. Player445(22); 312. Player542(22); 313. Player251(38); 314. Player836(15); 315. Player21(39); 316. Player920(48); 317. Player23(11); 318. Player111(18); 319. Player854(11); 320. Player432(24); 321. Player723(40); 322. Player670(42); 323. Player556(15); 324. Player214(28); 325. Player704(34); 326. Player663(36); 327. Player855(42); 328. Player4(35); 329. Player236(23); 330. Player295(29); 331. Player966(49); 332. Player208(36); 333. Player976(35); 334. Player75(47); 335. Player747(50); 336. Player959(50); 337. Player835(29); 338. Player367(43); 339. Player405(44); 340. Player754(28); 341. Player47(26); 342. Player915(24); 343. Player956(43); 344. Player730(33); 345. Player37(39); 346. Player498(29); 347. Player560(30); 348. Player345(37); 349. Player953(23); 350. Player899(10); 351. Player506(32); 352. Player27(16); 353. Player994(25); 354. Player668(32); 355. Player14(22); 356. Player590(24); 357. Player42(46); 358. Player278(17); 359. Player362(14); 360. Player709(19); 361. Player874(31); 362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26)
+362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26); 594. Player358(11); 595. Player335(25); 596. Player314(19); 597. Player781(50); 598. Player32(24); 599. Player409(27); 600. Player225(12); 601. Player185(10); 602. Player803(28); 603. Player85(10); 604. Player591(38); 605. Player950(38); 606. Player761(12); 607. Player985(22); 608. Player241(12); 609. Player322(34); 610. Player544(31); 611. Player701(22); 612. Player98(37); 613. Player383(10); 614. Player261(34); 615. Player784(20); 616. Player386(34); 617. Player546(16); 618. Player940(19); 619. Player735(47); 620. Player802(10); 621. Player996(28); 622. Player44(38); 623. Player22(31); 624. Player164(42); 625. Player375(19); 626. Player732(34); 627. Player728(48); 628. Player791(36); 629. Player979(43); 630. Player334(18); 631. Player630(19); 632. Player958(23); 633. Player989(32); 634. Player287(36); 635. Player941(32); 636. Player930(16); 637. Player118(14); 638. Player99(50); 639. Player578(29); 640. Player905(43); 641. Player535(30); 642. Player789(47); 643. Player72(22); 644. Player6(47); 645. Player475(31); 646. Player183(12); 647. Player575(12); 648. Player90(25); 649. Player291(32); 650. Player569(13); 651. Player11(48); 652. Player574(10); 653. Player945(41); 654. Player888(21); 655. Player130(43); 656. Player850(15); 657. Player804(22); 658. Player245(13); 659. Player988(40); 660. Player745(43); 661. Player254(32); 662. Player166(19); 663. Player451(21); 664. Player424(39); 665. Player682(40); 666. Player418(42); 667. Player480(49); 668. Player204(31); 669. Player368(44); 670. Player658(18); 671. Player419(23); 672. Player59(29); 673. Player885(25); 674. Player667(39); 675. Player370(17); 676. Player957(32); 677. Player420(49); 678. Player128(40); 679. Player127(22); 680. Player267(17); 681. Player929(36); 682. Player615(33); 683. Player861(17); 684. Player797(17); 685. Player559(23); 686. Player26(10); 687. Player320(10); 688. Player942(42); 689. Player786(34); 690. Player489(43); 691. Player447(22); 692. Player577(14); 693. Player926(27); 694. Player327(32); 695. Player414(14); 696. Player444(28); 697. Player592(18); 698. Player684(30); 699. Player107(20); 700. Player616(39); 701. Player778(28); 702. Player8(27); 703. Player593(32); 704. Player628(26); 705. Player325(35); 706. Player193(37); 707. Player518(36); 708. Player215(45); 709. Player875(47); 710. Player364(22); 711. Player317(46); 712. Player708(21); 713. Player365(40); 714. Player202(32); 715. Player60(36); 716. Player974(28); 717. Player877(37); 718. Player146(38); 719. Player552(26); 720. Player119(46); 721. Player300(47); 722. Player695(10); 723. Player610(19); 724. Player517(32); 725. Player91(46); 726. Player576(49); 727. Player555(23); 728. Player361(43); 729. Player800(12); 730. Player476(24); 731. Player586(21); 732. Player823(28); 733. Player907(36); 734. Player29(38); 735. Player83(43); 736. Player604(36); 737. Player294(17); 738. Player513(21); 739. Player984(15); 740. Player705(44); 741. Player737(37); 742. Player637(41); 743. Player392(20); 744. Player702(27); 745. Player492(28); 746. Player677(18); 747. Player239(24); 748. Player40(20); 749. Player244(34); 750. Player3(11); 751. Player491(46); 752. Player153(12); 753. Player572(10); 754. Player299(27); 755. Player194(37); 756. Player683(41); 757. Player452(48); 758. Player181(24); 759. Player344(16); 760. Player669(22); 761. Player932(17); 762. Player596(20); 763. Player226(38); 764. Player58(33); 765. Player951(20); 766. Player343(22); 767. Player913(22); 768. Player863(45); 769. Player762(39); 770. Player159(15); 771. Player209(34); 772. Player973(18); 773. Player460(27); 774. Player71(24); 775. Player706(21); 776. Player999(39); 777. Player613(48); 778. Player519(49); 779. Player73(27); 780. Player531(35); 781. Player494(35); 782. Player140(37); 783. Player464(22); 784. Player102(36); 785. Player740(28); 786. Player759(33); 787. Player391(34); 788. Player238(34); 789. Player369(13); 790. Player31(29); 791. Player813(10); 792. Player833(18); 793. Player722(20); 794. Player879(50); 795. Player846(29); 796. Player232(47); 797. Player773(49); 798. Player981(30); 799. Player633(29); 800. Player571(32); 801. Player647(35); 802. Player372(16); 803. Player496(40); 804. Player293(27); 805. Player917(50); 806. Player481(42); 807. Player281(26); 808. Player252(20); 809. Player478(13); 810. Player203(22); 811. Player96(23); 812. Player655(33); 813. Player285(49); 814. Player896(47); 815. Player660(13); 816. Player17(47); 817. Player388(13); 818. Player378(48); 819. Player411(49); 820. Player890(41); 821. Player454(16); 822. Player971(32); 823. Player154(50); 824. Player499(20); 825. Player86(37); 826. Player189(40); 827. Player469(42); 828. Player744(33); 829. Player602(10); 830. Player878(17); 831. Player304(33); 832. Player627(22); 833. Player567(45); 834. Player686(17); 835. Player943(20); 836. Player357(48); 837. Player938(14); 838. Player808(48); 839. Player960(30); 840. Player184(38); 841. Player911(49); 842. Player503(44); 843. Player263(47); 844. Player904(11); 845. Player742(48); 846. Player197(19); 847. Player626(11); 848. Player715(25); 849. Player112(32); 850. Player284(38); 851. Player125(50); 852. Player360(35); 853. Player403(26); 854. Player700(27); 855. Player62(10); 856. Player67(34); 857. Player265(29); 858. Player266(27); 859. Player309(32); 860. Player600(28); 861. Player774(19); 862. Player28(15); 863. Player884(35); 864. Player479(37); 865. Player652(22); 866. Player573(28); 867. Player681(46); 868. Player872(43); 869. Player520(31); 870. Player453(31); 871. Player52(29); 872. Player894(35); 873. Player308(16); 874. Player160(11); 875. Player385(13); 876. Player771(13); 877. Player805(36); 878. Player49(13); 879. Player815(10); 880. Player841(21); 881. Player970(22); 882. Player892(23); 883. Player585(39); 884. Player550(28); 885. Player811(13); 886. Player598(38); 887. Player982(18); 888. Player68(41); 889. Player963(14); 890. Player396(13); 891. Player213(37); 892. Player330(24); 893. Player341(42); 894. Player692(34); 895. Player508(34); 896. Player564(38); 897. Player952(45); 898. Player413(16); 899. Player157(42); 900. Player114(27); 901. Player749(41); 902. Player533(23); 903. Player924(47); 904. Player177(20); 905. Player264(35); 906. Player435(42); 907. Player726(27); 908. Player262(40); 909. Player748(34); 910. Player257(47); 911. Player712(31); 912. Player260(31); 913. Player490(32); 914. Player77(36); 915. Player514(34); 916. Player718(27); 917. Player832(31); 918. Player679(17); 919. Player834(20); 920. Player398(10); 921. Player337(22); 922. Player123(44); 923. Player219(21); 924. Player449(17); 925. Player135(10); 926. Player443(10); 927. Player991(49); 928. Player986(22); 929. Player780(23); 930. Player826(22); 931. Player394(49); 932. Player373(48); 933. Player969(46); 934. Player563(30); 935. Player992(35); 936. Player24(43); 937. Player954(25); 938. Player282(29); 939. Player814(26); 940. Player74(49); 941. Player100(46); 942. Player248(35); 943. Player665(13); 944. Player859(22); 945. Player739(34); 946. Player229(39); 947. Player63(20); 948. Player272(10); 949. Player900(11); 950. Player685(43); 951. Player220(24); 952. Player149(25); 953. Player200(21); 954. Player641(15); 955. Player97(49); 956. Player898(12); 957. Player541(16); 958. Player328(32); 959. Player787(18); 960. Player806(16); 961. Player340(47); 962. Player858(16); 963. Player93(16); 964. Player753(20); 965. Player134(18); 966. Player253(33); 967. Player113(38); 968. Player381(19); 969. Player852(32); 970. Player622(41); 971. Player9(43); 972. Player95(35); 973. Player292(45); 974. Player674(41); 975. Player796(25); 976. Player347(23); 977. Player389(30); 978. Player126(28); 979. Player426(12); 980. Player455(47); 981. Player693(45); 982. Player319(14); 983. Player342(25)
+285. Player588(11); 286. Player57(43); 287. Player819(42); 288. Player599(30); 289. Player10(42); 290. Player198(17); 291. Player764(17); 292. Player717(26); 293. Player743(42); 294. Player484(13); 295. Player144(16); 296. Player561(20); 297. Player849(28); 298. Player231(12); 299. Player33(23); 300. Player121(19); 301. Player769(42); 302. Player298(38); 303. Player488(50); 304. Player645(36); 305. Player275(21); 306. Player893(45); 307. Player910(29); 308. Player530(23); 309. Player707(31); 310. Player376(47); 311. Player445(22); 312. Player542(22); 313. Player251(38); 314. Player836(15); 315. Player21(39); 316. Player920(48); 317. Player23(11); 318. Player111(18); 319. Player854(11); 320. Player432(24); 321. Player723(40); 322. Player670(42); 323. Player556(15); 324. Player214(28); 325. Player704(34); 326. Player663(36); 327. Player855(42); 328. Player4(35); 329. Player236(23); 330. Player295(29); 331. Player966(49); 332. Player208(36); 333. Player976(35); 334. Player75(47); 335. Player747(50); 336. Player959(50); 337. Player835(29); 338. Player367(43); 339. Player405(44); 340. Player754(28); 341. Player47(26); 342. Player915(24); 343. Player956(43); 344. Player730(33); 345. Player37(39); 346. Player498(29); 347. Player560(30); 348. Player345(37); 349. Player953(23); 350. Player899(10); 351. Player506(32); 352. Player27(16); 353. Player994(25); 354. Player668(32); 355. Player14(22); 356. Player590(24); 357. Player42(46); 358. Player278(17); 359. Player362(14); 360. Player709(19); 361. Player874(31); 362. Player297(50); 363. Player624(30); 364. Player828(20); 365. Player534(45); 366. Player54(48); 367. Player36(26); 368. Player321(43); 369. Player402(14); 370. Player65(12); 371. Player678(44); 372. Player401(27); 373. Player931(18); 374. Player13(11); 375. Player174(27); 376. Player143(27); 377. Player908(12); 378. Player934(28); 379. Player363(15); 380. Player148(44); 381. Player918(21); 382. Player474(31); 383. Player729(29); 384. Player18(16); 385. Player504(21); 386. Player438(38); 387. Player880(18); 388. Player354(35); 389. Player580(45); 390. Player772(44); 391. Player972(43); 392. Player666(20); 393. Player224(12); 394. Player131(12); 395. Player80(38); 396. Player752(36); 397. Player597(23); 398. Player783(22); 399. Player247(26); 400. Player557(23); 401. Player176(43); 402. Player515(24); 403. Player857(49); 404. Player463(33); 405. Player456(48); 406. Player211(22); 407. Player818(49); 408. Player81(27); 409. Player509(12); 410. Player12(38); 411. Player944(30); 412. Player315(39); 413. Player864(19); 414. Player654(38); 415. Player788(40); 416. Player842(49); 417. Player408(41); 418. Player640(21); 419. Player108(22); 420. Player594(26); 421. Player290(44); 422. Player280(48); 423. Player477(30); 424. Player382(11); 425. Player421(43); 426. Player711(43); 427. Player816(25); 428. Player43(50); 429. Player525(36); 430. Player407(35); 431. Player255(41); 432. Player767(38); 433. Player199(14); 434. Player458(29); 435. Player30(46); 436. Player714(30); 437. Player428(22); 438. Player332(46); 439. Player820(50); 440. Player614(46); 441. Player163(30); 442. Player495(36); 443. Player810(46); 444. Player101(11); 445. Player137(27); 446. Player529(27); 447. Player527(49); 448. Player978(48); 449. Player948(18); 450. Player650(37); 451. Player947(34); 452. Player352(22); 453. Player259(37); 454. Player19(20); 455. Player326(18); 456. Player487(36); 457. Player785(29); 458. Player694(18); 459. Player34(15); 460. Player274(25); 461. Player310(44); 462. Player638(43); 463. Player639(30); 464. Player906(18); 465. Player758(30); 466. Player886(39); 467. Player110(17); 468. Player998(25); 469. Player912(32); 470. Player642(14); 471. Player511(13); 472. Player249(11); 473. Player648(49); 474. Player331(23); 475. Player698(26); 476. Player430(30); 477. Player395(49); 478. Player579(37); 479. Player620(41); 480. Player532(27); 481. Player76(24); 482. Player793(48); 483. Player196(35); 484. Player384(48); 485. Player734(42); 486. Player928(20); 487. Player902(12); 488. Player188(47); 489. Player473(39); 490. Player338(43); 491. Player775(15); 492. Player612(26); 493. Player997(21); 494. Player939(33); 495. Player937(38); 496. Player182(37); 497. Player283(49); 498. Player860(10); 499. Player305(28); 500. Player323(19); 501. Player427(34); 502. Player79(35); 503. Player89(10); 504. Player661(29); 505. Player168(29); 506. Player500(38); 507. Player151(11); 508. Player837(33); 509. Player206(12); 510. Player995(33); 511. Player92(28); 512. Player139(33); 513. Player603(43); 514. Player853(12); 515. Player201(32); 516. Player901(16); 517. Player167(11); 518. Player94(45); 519. Player768(43); 520. Player397(20); 521. Player172(40); 522. Player840(50); 523. Player256(24); 524. Player794(23); 525. Player619(42); 526. Player881(36); 527. Player311(50); 528. Player891(15); 529. Player446(21); 530. Player404(15); 531. Player439(24); 532. Player634(10); 533. Player289(41); 534. Player156(46); 535. Player765(19); 536. Player16(31); 537. Player349(31); 538. Player459(26); 539. Player412(41); 540. Player115(23); 541. Player104(28); 542. Player425(20); 543. Player547(11); 544. Player2(42); 545. Player142(20); 546. Player470(42); 547. Player724(42); 548. Player736(15); 549. Player821(29); 550. Player538(36); 551. Player482(22); 552. Player790(10); 553. Player39(23); 554. Player807(37); 555. Player371(47); 556. Player961(50); 557. Player472(33); 558. Player250(11); 559. Player436(43); 560. Player235(47); 561. Player64(30); 562. Player351(43); 563. Player190(32); 564. Player964(28); 565. Player618(15); 566. Player195(27); 567. Player716(19); 568. Player866(34); 569. Player66(32); 570. Player927(13); 571. Player237(10); 572. Player605(50); 573. Player629(25); 574. Player103(27); 575. Player359(35); 576. Player400(21); 577. Player644(49); 578. Player230(48); 579. Player595(42); 580. Player847(11); 581. Player675(39); 582. Player688(42); 583. Player621(45); 584. Player25(43); 585. Player228(47); 586. Player809(33); 587. Player0(21); 588. Player270(15); 589. Player623(17); 590. Player713(40); 591. Player845(22); 592. Player152(16); 593. Player165(26); 594. Player358(11); 595. Player335(25); 596. Player314(19); 597. Player781(50); 598. Player32(24); 599. Player409(27); 600. Player225(12); 601. Player185(10); 602. Player803(28); 603. Player85(10); 604. Player591(38); 605. Player950(38); 606. Player761(12); 607. Player985(22); 608. Player241(12); 609. Player322(34); 610. Player544(31); 611. Player701(22); 612. Player98(37); 613. Player383(10); 614. Player261(34); 615. Player784(20); 616. Player386(34); 617. Player546(16); 618. Player940(19); 619. Player735(47); 620. Player802(10); 621. Player996(28); 622. Player44(38); 623. Player22(31); 624. Player164(42); 625. Player375(19); 626. Player732(34); 627. Player728(48); 628. Player791(36); 629. Player979(43); 630. Player334(18); 631. Player630(19); 632. Player958(23); 633. Player989(32); 634. Player287(36); 635. Player941(32); 636. Player930(16); 637. Player118(14); 638. Player99(50); 639. Player578(29); 640. Player905(43); 641. Player535(30); 642. Player789(47); 643. Player72(22); 644. Player6(47); 645. Player475(31); 646. Player183(12); 647. Player575(12); 648. Player90(25); 649. Player291(32); 650. Player569(13); 651. Player11(48); 652. Player574(10); 653. Player945(41); 654. Player888(21); 655. Player130(43); 656. Player850(15); 657. Player804(22); 658. Player245(13); 659. Player988(40); 660. Player745(43); 661. Player254(32); 662. Player166(19); 663. Player451(21); 664. Player424(39); 665. Player682(40); 666. Player418(42); 667. Player480(49); 668. Player204(31); 669. Player368(44); 670. Player658(18); 671. Player419(23); 672. Player59(29); 673. Player885(25); 674. Player667(39); 675. Player370(17); 676. Player957(32); 677. Player420(49); 678. Player128(40); 679. Player127(22); 680. Player267(17); 681. Player929(36); 682. Player615(33); 683. Player861(17); 684. Player797(17); 685. Player559(23); 686. Player26(10); 687. Player320(10); 688. Player942(42); 689. Player786(34); 690. Player489(43); 691. Player447(22); 692. Player577(14); 693. Player926(27); 694. Player327(32); 695. Player414(14); 696. Player444(28); 697. Player592(18); 698. Player684(30); 699. Player107(20); 700. Player616(39); 701. Player778(28); 702. Player8(27); 703. Player593(32); 704. Player628(26); 705. Player325(35); 706. Player193(37); 707. Player518(36); 708. Player215(45); 709. Player875(47); 710. Player364(22); 711. Player317(46); 712. Player708(21); 713. Player365(40); 714. Player202(32); 715. Player60(36); 716. Player974(28); 717. Player877(37); 718. Player146(38); 719. Player552(26); 720. Player119(46); 721. Player300(47); 722. Player695(10); 723. Player610(19); 724. Player517(32); 725. Player91(46); 726. Player576(49); 727. Player555(23); 728. Player361(43); 729. Player800(12); 730. Player476(24); 731. Player586(21); 732. Player823(28); 733. Player907(36); 734. Player29(38); 735. Player83(43); 736. Player604(36); 737. Player294(17); 738. Player513(21); 739. Player984(15); 740. Player705(44); 741. Player737(37); 742. Player637(41); 743. Player392(20); 744. Player702(27); 745. Player492(28); 746. Player677(18); 747. Player239(24); 748. Player40(20); 749. Player244(34); 750. Player3(11); 751. Player491(46); 752. Player153(12); 753. Player572(10); 754. Player299(27); 755. Player194(37); 756. Player683(41); 757. Player452(48); 758. Player181(24); 759. Player344(16); 760. Player669(22); 761. Player932(17); 762. Player596(20); 763. Player226(38); 764. Player58(33); 765. Player951(20); 766. Player343(22); 767. Player913(22); 768. Player863(45); 769. Player762(39); 770. Player159(15); 771. Player209(34); 772. Player973(18); 773. Player460(27); 774. Player71(24); 775. Player706(21); 776. Player999(39); 777. Player613(48); 778. Player519(49); 779. Player73(27); 780. Player531(35); 781. Player494(35); 782. Player140(37); 783. Player464(22); 784. Player102(36); 785. Player740(28); 786. Player759(33); 787. Player391(34); 788. Player238(34); 789. Player369(13); 790. Player31(29); 791. Player813(10); 792. Player833(18); 793. Player722(20); 794. Player879(50); 795. Player846(29); 796. Player232(47); 797. Player773(49); 798. Player981(30); 799. Player633(29); 800. Player571(32); 801. Player647(35); 802. Player372(16); 803. Player496(40); 804. Player293(27); 805. Player917(50); 806. Player481(42); 807. Player281(26); 808. Player252(20); 809. Player478(13); 810. Player203(22); 811. Player96(23); 812. Player655(33); 813. Player285(49); 814. Player896(47); 815. Player660(13); 816. Player17(47); 817. Player388(13); 818. Player378(48); 819. Player411(49); 820. Player890(41); 821. Player454(16); 822. Player971(32); 823. Player154(50); 824. Player499(20); 825. Player86(37); 826. Player189(40); 827. Player469(42); 828. Player744(33); 829. Player602(10); 830. Player878(17); 831. Player304(33); 832. Player627(22); 833. Player567(45); 834. Player686(17); 835. Player943(20); 836. Player357(48); 837. Player938(14); 838. Player808(48); 839. Player960(30); 840. Player184(38); 841. Player911(49); 842. Player503(44); 843. Player263(47); 844. Player904(11); 845. Player742(48); 846. Player197(19); 847. Player626(11); 848. Player715(25); 849. Player112(32); 850. Player284(38); 851. Player125(50); 852. Player360(35); 853. Player403(26); 854. Player700(27); 855. Player62(10); 856. Player67(34); 857. Player265(29); 858. Player266(27); 859. Player309(32); 860. Player600(28); 861. Player774(19); 862. Player28(15); 863. Player884(35); 864. Player479(37); 865. Player652(22); 866. Player573(28); 867. Player681(46); 868. Player872(43); 869. Player520(31); 870. Player453(31); 871. Player52(29); 872. Player894(35); 873. Player308(16); 874. Player160(11); 875. Player385(13); 876. Player771(13); 877. Player805(36); 878. Player49(13); 879. Player815(10); 880. Player841(21); 881. Player970(22); 882. Player892(23); 883. Player585(39); 884. Player550(28); 885. Player811(13); 886. Player598(38); 887. Player982(18); 888. Player68(41); 889. Player963(14); 890. Player396(13); 891. Player213(37); 892. Player330(24); 893. Player341(42); 894. Player692(34); 895. Player508(34); 896. Player564(38); 897. Player952(45); 898. Player413(16); 899. Player157(42); 900. Player114(27); 901. Player749(41); 902. Player533(23); 903. Player924(47); 904. Player177(20); 905. Player264(35); 906. Player435(42); 907. Player726(27); 908. Player262(40); 909. Player748(34); 910. Player257(47); 911. Player712(31); 912. Player260(31); 913. Player490(32); 914. Player77(36); 915. Player514(34); 916. Player718(27); 917. Player832(31); 918. Player679(17); 919. Player834(20); 920. Player398(10); 921. Player337(22); 922. Player123(44); 923. Player219(21); 924. Player449(17); 925. Player135(10); 926. Player443(10); 927. Player991(49); 928. Player986(22); 929. Player780(23); 930. Player826(22); 931. Player394(49); 932. Player373(48); 933. Player969(46); 934. Player563(30); 935. Player992(35); 936. Player24(43); 937. Player954(25); 938. Player282(29); 939. Player814(26); 940. Player74(49); 941. Player100(46); 942. Player248(35); 943. Player665(13); 944. Player859(22); 945. Player739(34); 946. Player229(39); 947. Player63(20); 948. Player272(10); 949. Player900(11); 950. Player685(43); 951. Player220(24); 952. Player149(25); 953. Player200(21)

@@ -10,4 +10,4 @@ parseInt str = if B8.head str /= '-' then parseInt' str 0 else -(parseInt' (B8.t
             | B8.null str  = acc
             | otherwise = parseInt' (B8.tail str) $ toInteger (ord $ B8.head str) - 48 + acc * 10
 
-main = B8.interact (toLazyByteString . integerDec . foldl1 xor . map parseInt . Prelude.tail . B8.words)
+main = B8.interact (toLazyByteString . integerDec . foldl1' xor . map parseInt . Prelude.tail . B8.words)

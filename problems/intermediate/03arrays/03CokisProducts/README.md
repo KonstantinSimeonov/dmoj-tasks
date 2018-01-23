@@ -32,9 +32,9 @@ Print to the standard output, i.e. with `console.log()` method
 
 # Constraints
 
--   10 \<= `N` \< 2^18^
--   3 \<= `M` \< 2^21^
--   Each list will have at most 2^10^ products
+-   10 \<= `N` \< 2<sup>18</sup>
+-   3 \<= `M` \< 2<sup>21</sup>
+-   Each list will have at most 2<sup>10</sup> products
 
 # Sample tests
 

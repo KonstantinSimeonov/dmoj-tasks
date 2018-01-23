@@ -46,8 +46,8 @@ solve(["5"])
 
 ## Explanation
 ```
-o\
-o o\
+o
+o o
 o o
 ```
 
@@ -63,8 +63,8 @@ solve(["8"])
 
 ## Explanation
 ```
-o\
-o o\
-o o\
+o
+o o
+o o
 o o o
 ```

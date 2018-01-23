@@ -30,7 +30,7 @@ Print to the standard output, i.e. with `console.log()` method
 
 # Constrains
 
--   1 \<= `N` \<= 2^50^
+-   1 \<= `N` \<= 2<sup>50</sup>
 
 # Sample tests
 

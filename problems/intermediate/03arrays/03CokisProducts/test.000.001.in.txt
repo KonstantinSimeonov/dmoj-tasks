@@ -1,0 +1,12 @@
+5
+milk 1.2
+orange juice 2.9
+icecream 2
+cake 5.1
+beer 1.2
+5
+2 beer, 3 orange juice
+milk, cake
+icecream, 2 cake
+icecream, icecream, 3 icecream
+5 orange juice, 3 orange juice, orange juice, orange juice

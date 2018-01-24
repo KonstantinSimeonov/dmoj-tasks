@@ -1,0 +1,2048 @@
+set 361
+front-remove
+back-add 3
+back-add 2
+reverse
+back-add 7
+set 7
+front-add 7
+back-remove
+front-add 0
+front-add 2
+back-add 4
+front-remove
+front-add 3
+front-add 4
+front-add 7
+back-add 5
+front-add 5
+front-add 1
+front-add 8
+front-add 5
+set 9
+print
+back-add 8
+back-add 5
+back-remove
+back-add 6
+front-add 7
+back-remove
+back-add 2
+back-add 9
+back-add 8
+back-add 3
+back-add 9
+back-add 4
+front-add 7
+front-add 5
+back-add 8
+back-add 8
+front-add 5
+back-remove
+front-remove
+back-remove
+front-add 1
+front-add 9
+front-add 2
+back-add 6
+back-add 2
+front-remove
+back-add 8
+front-add 5
+front-add 6
+front-add 6
+front-add 1
+reverse
+front-add 3
+front-remove
+back-add 7
+print
+front-remove
+front-add 6
+front-add 9
+back-add 6
+back-add 5
+front-add 3
+back-add 4
+back-add 5
+back-add 3
+back-add 3
+front-remove
+back-add 7
+back-add 6
+set 8
+back-add 1
+front-add 4
+front-add 7
+back-add 9
+back-add 7
+reverse
+front-add 5
+front-add 4
+back-add 6
+front-remove
+back-add 0
+set 5
+front-add 8
+front-add 5
+front-add 2
+front-add 0
+front-add 9
+back-add 3
+front-add 7
+back-remove
+back-add 9
+front-add 5
+print
+reverse
+back-remove
+back-add 1
+back-add 3
+front-add 0
+set 5
+front-add 2
+back-add 9
+back-add 3
+reverse
+front-add 9
+front-remove
+front-add 8
+back-add 1
+front-add 8
+front-add 8
+set 2
+set 2
+front-remove
+back-add 0
+back-add 7
+back-add 4
+front-add 4
+set 1
+back-remove
+front-add 9
+front-add 7
+front-add 5
+front-add 5
+back-add 0
+back-remove
+front-add 2
+back-remove
+print
+front-add 6
+back-add 9
+back-remove
+back-add 5
+back-add 9
+front-remove
+front-add 2
+print
+back-add 4
+front-add 5
+front-add 9
+back-add 3
+front-add 9
+front-add 5
+front-add 2
+print
+reverse
+front-remove
+front-add 3
+front-add 0
+back-add 0
+back-add 4
+front-add 3
+back-add 3
+back-add 1
+front-add 7
+print
+front-add 3
+back-remove
+set 8
+front-add 6
+front-add 9
+reverse
+front-add 2
+back-remove
+print
+front-add 6
+front-add 7
+back-add 2
+print
+set 9
+front-add 2
+front-add 7
+back-add 4
+reverse
+back-remove
+back-add 6
+front-add 0
+back-add 3
+set 9
+print
+back-add 8
+back-add 1
+set 8
+front-add 0
+back-remove
+back-add 0
+reverse
+front-add 0
+front-add 1
+front-add 1
+back-add 5
+print
+back-add 9
+back-add 8
+front-add 2
+back-add 2
+reverse
+back-remove
+front-add 2
+front-add 2
+front-add 0
+back-add 5
+back-add 5
+back-add 4
+front-remove
+front-add 1
+back-remove
+back-add 7
+back-remove
+front-add 1
+front-add 6
+front-add 1
+back-add 4
+front-add 9
+back-add 8
+reverse
+back-add 1
+print
+back-add 6
+front-add 5
+back-add 0
+front-add 4
+set 5
+front-add 1
+back-add 8
+back-add 6
+front-add 9
+front-add 1
+back-remove
+print
+back-add 0
+back-remove
+front-add 5
+reverse
+front-remove
+back-add 2
+front-remove
+back-add 3
+front-add 6
+front-add 4
+front-add 4
+back-add 0
+back-add 2
+front-add 3
+reverse
+front-add 0
+set 4
+front-add 8
+back-remove
+front-add 3
+reverse
+front-add 3
+front-add 0
+back-add 1
+back-add 3
+back-add 3
+front-add 9
+set 0
+print
+front-remove
+back-add 8
+front-add 7
+back-add 8
+print
+back-add 0
+front-add 0
+front-add 2
+print
+front-add 9
+front-add 9
+front-add 6
+front-add 5
+front-add 2
+print
+back-add 1
+front-add 0
+front-add 8
+back-add 7
+front-add 5
+front-add 3
+back-add 1
+back-add 9
+front-add 6
+back-remove
+back-add 0
+back-add 0
+front-add 2
+back-add 3
+back-add 9
+back-add 1
+print
+back-add 1
+back-add 1
+print
+back-add 4
+back-add 4
+front-remove
+reverse
+front-add 6
+front-remove
+front-add 0
+front-add 4
+front-add 0
+back-add 3
+front-add 9
+back-add 6
+back-add 1
+front-add 2
+back-add 6
+front-add 0
+front-add 4
+back-add 8
+front-add 9
+front-remove
+front-add 9
+front-add 1
+back-add 0
+front-add 9
+back-add 9
+back-add 2
+front-add 1
+back-add 5
+back-add 6
+back-add 3
+back-add 1
+back-add 5
+reverse
+back-add 6
+back-add 7
+front-add 5
+back-add 6
+back-add 0
+print
+front-add 8
+back-add 3
+print
+front-add 6
+front-add 4
+front-add 8
+reverse
+front-add 3
+front-add 4
+front-add 4
+front-add 9
+front-add 4
+front-add 9
+front-remove
+front-add 3
+back-remove
+set 4
+front-add 2
+back-add 6
+front-remove
+back-add 3
+front-add 2
+back-add 9
+front-add 3
+reverse
+front-add 8
+back-add 5
+set 2
+reverse
+back-add 9
+back-add 1
+set 6
+print
+set 8
+back-add 9
+back-add 1
+back-add 3
+front-add 8
+set 0
+back-remove
+set 3
+reverse
+back-add 6
+front-add 2
+front-add 7
+front-add 2
+front-add 7
+front-add 8
+back-add 8
+front-add 5
+back-add 2
+front-add 0
+front-add 4
+back-add 4
+set 2
+back-remove
+back-add 0
+front-add 1
+back-add 4
+front-add 8
+back-remove
+back-remove
+front-add 0
+back-add 6
+back-add 0
+set 5
+print
+back-add 3
+front-add 7
+back-add 2
+back-remove
+front-add 2
+print
+print
+back-add 1
+back-add 5
+front-add 2
+back-remove
+back-add 9
+back-add 3
+reverse
+back-add 8
+back-add 6
+back-add 1
+print
+front-add 7
+back-remove
+front-add 2
+back-add 7
+front-add 9
+front-add 7
+back-add 6
+back-add 1
+front-remove
+front-add 1
+back-add 9
+back-add 0
+reverse
+back-add 6
+front-add 9
+back-add 8
+set 4
+back-add 1
+back-add 4
+back-add 0
+set 4
+back-add 2
+back-add 4
+back-add 2
+front-add 2
+back-add 4
+front-add 0
+back-add 2
+back-add 3
+back-add 4
+front-add 3
+front-add 2
+print
+back-add 4
+front-add 7
+back-remove
+back-remove
+front-add 4
+front-add 0
+front-add 5
+back-remove
+back-add 6
+back-add 2
+back-add 2
+back-add 1
+front-add 4
+back-add 8
+front-add 8
+back-remove
+front-add 9
+front-add 2
+front-add 8
+front-remove
+front-add 0
+set 1
+front-add 0
+back-add 5
+front-add 0
+back-add 8
+reverse
+print
+back-remove
+back-add 3
+front-add 9
+back-add 6
+back-add 6
+back-add 1
+front-add 8
+back-remove
+reverse
+back-add 0
+back-remove
+front-add 7
+back-add 7
+front-add 4
+back-add 4
+back-remove
+back-add 5
+front-add 8
+front-add 8
+front-add 5
+back-add 0
+print
+back-add 0
+front-add 1
+back-add 5
+front-add 2
+back-add 8
+back-add 3
+front-add 1
+back-remove
+front-add 4
+front-add 8
+back-add 5
+back-add 3
+front-add 4
+back-add 1
+back-add 9
+back-add 0
+back-add 5
+back-add 2
+back-remove
+back-add 9
+front-add 1
+back-add 4
+reverse
+front-add 3
+front-add 1
+set 4
+back-remove
+reverse
+back-add 7
+front-add 5
+back-add 1
+back-add 6
+back-add 6
+front-add 6
+reverse
+set 0
+back-add 5
+back-add 6
+front-add 6
+front-add 1
+front-add 8
+back-add 0
+front-add 0
+back-add 2
+back-add 4
+back-add 8
+back-add 1
+front-add 5
+back-remove
+front-add 7
+front-add 3
+reverse
+set 7
+front-add 4
+front-add 3
+back-add 2
+back-add 5
+front-add 6
+front-add 8
+set 9
+front-add 0
+set 7
+back-add 8
+print
+back-add 5
+back-add 4
+back-add 8
+back-add 0
+back-add 5
+front-add 1
+front-add 6
+front-add 3
+front-add 0
+back-add 2
+set 1
+back-add 8
+front-add 9
+back-add 8
+back-add 0
+front-add 1
+front-add 8
+set 2
+print
+back-add 7
+back-add 7
+front-add 7
+back-add 7
+front-add 4
+front-add 8
+back-remove
+front-add 4
+front-add 2
+front-add 9
+back-add 0
+front-remove
+set 7
+front-add 5
+front-add 3
+reverse
+back-add 1
+back-remove
+print
+set 0
+front-add 1
+front-add 9
+reverse
+front-add 3
+back-add 6
+front-add 5
+back-add 1
+back-add 1
+back-add 3
+back-add 7
+reverse
+back-add 1
+back-add 0
+back-add 6
+front-remove
+reverse
+back-add 8
+back-add 4
+front-add 8
+front-add 5
+back-add 5
+front-add 7
+back-add 8
+front-add 0
+back-add 3
+back-remove
+front-add 8
+back-add 2
+front-add 9
+front-add 6
+front-add 2
+back-remove
+back-add 5
+front-add 4
+back-add 4
+back-add 4
+reverse
+back-add 1
+back-add 3
+front-add 1
+front-add 6
+back-add 8
+back-add 6
+back-add 9
+front-remove
+back-add 3
+back-add 4
+back-add 1
+print
+back-add 8
+print
+back-add 0
+front-add 2
+front-add 2
+back-add 2
+front-remove
+set 8
+front-add 6
+reverse
+back-add 7
+back-add 4
+front-add 4
+print
+back-add 5
+front-add 0
+set 6
+back-add 5
+print
+reverse
+front-add 1
+back-add 0
+back-add 9
+back-add 3
+reverse
+front-add 5
+front-add 8
+front-add 4
+back-add 0
+front-add 1
+back-add 8
+back-add 3
+print
+front-add 0
+back-add 9
+front-add 7
+front-remove
+back-add 4
+front-add 8
+front-add 0
+front-add 6
+back-add 8
+print
+front-add 3
+front-add 5
+front-add 8
+print
+print
+front-add 3
+set 0
+back-remove
+front-add 8
+front-add 7
+front-add 3
+print
+reverse
+front-add 3
+front-remove
+back-add 5
+front-add 1
+back-remove
+back-add 1
+reverse
+front-add 6
+back-add 6
+front-add 5
+front-add 5
+set 3
+back-add 8
+back-add 9
+back-add 6
+reverse
+reverse
+back-add 1
+back-add 0
+front-add 2
+print
+back-add 2
+back-add 1
+front-add 7
+print
+front-add 9
+back-add 9
+front-add 4
+front-add 7
+front-remove
+back-add 3
+back-add 7
+back-add 7
+front-add 9
+front-add 6
+front-add 9
+back-add 4
+print
+back-add 3
+back-remove
+reverse
+back-add 3
+back-add 1
+front-add 6
+back-add 0
+front-add 8
+back-add 6
+back-add 1
+back-add 5
+front-remove
+front-add 0
+front-add 9
+back-add 0
+front-add 9
+back-add 5
+front-add 7
+front-add 9
+back-add 3
+back-add 1
+back-add 7
+print
+back-add 2
+back-add 4
+front-add 9
+reverse
+front-add 3
+back-add 3
+set 4
+set 6
+front-add 9
+back-add 3
+front-add 6
+set 6
+front-add 1
+front-add 4
+front-add 0
+front-add 8
+back-add 6
+front-add 5
+back-add 1
+back-add 4
+back-add 1
+back-add 5
+front-add 2
+reverse
+back-add 6
+back-add 1
+front-add 2
+front-add 4
+back-add 3
+back-add 3
+print
+back-add 5
+front-add 3
+back-add 6
+back-add 2
+front-add 6
+print
+back-add 5
+front-add 0
+print
+set 2
+front-add 5
+back-add 5
+back-add 4
+front-add 3
+back-add 7
+back-add 1
+back-add 5
+front-add 8
+front-remove
+front-add 7
+front-add 4
+back-add 3
+front-remove
+back-add 7
+set 2
+front-add 7
+back-add 8
+front-add 4
+back-add 6
+back-add 4
+back-add 2
+back-add 1
+back-add 5
+back-add 1
+front-add 5
+back-add 1
+back-add 8
+front-add 4
+back-add 5
+back-add 6
+back-add 8
+front-remove
+print
+back-add 7
+front-add 2
+front-add 4
+front-add 0
+front-add 5
+reverse
+front-add 4
+front-add 5
+back-add 9
+back-add 8
+back-add 5
+back-add 7
+back-add 4
+front-remove
+front-add 6
+front-add 8
+set 0
+front-add 8
+reverse
+front-add 7
+back-add 4
+front-add 6
+back-add 6
+print
+back-remove
+back-add 3
+print
+print
+back-remove
+back-add 2
+front-add 3
+back-remove
+back-add 1
+back-add 5
+back-add 6
+front-add 1
+front-add 4
+back-add 3
+back-add 9
+front-add 6
+front-add 4
+back-add 6
+back-add 4
+back-add 2
+back-add 0
+back-add 4
+front-add 9
+back-add 9
+back-add 7
+back-add 1
+back-add 6
+back-add 5
+front-add 4
+front-add 4
+back-add 4
+front-add 6
+front-add 3
+front-add 1
+front-add 1
+front-add 0
+back-add 8
+reverse
+front-add 0
+front-add 2
+back-add 6
+front-add 5
+print
+set 5
+front-add 1
+back-add 5
+front-add 2
+back-add 3
+front-add 6
+back-remove
+back-add 6
+back-add 8
+back-add 3
+front-add 8
+front-remove
+back-add 9
+front-remove
+back-add 8
+reverse
+front-remove
+reverse
+front-add 8
+back-remove
+front-add 8
+front-add 4
+reverse
+back-add 8
+back-add 5
+print
+front-add 6
+front-add 6
+back-add 3
+front-add 5
+back-add 2
+front-add 5
+back-add 8
+print
+print
+print
+set 7
+print
+front-add 5
+front-add 1
+back-add 6
+front-add 8
+front-add 5
+back-add 0
+back-add 9
+front-add 6
+print
+back-remove
+back-add 6
+back-add 7
+back-remove
+back-add 2
+back-add 7
+front-remove
+back-add 5
+print
+set 3
+front-add 9
+back-add 7
+print
+front-add 6
+front-add 3
+back-add 5
+front-add 4
+front-add 1
+front-add 9
+set 9
+back-add 1
+front-add 1
+back-remove
+back-add 6
+back-add 4
+back-add 4
+print
+print
+back-add 8
+front-add 8
+front-add 8
+back-add 2
+back-add 8
+back-add 4
+reverse
+back-add 7
+back-add 3
+back-add 1
+set 3
+front-add 3
+back-remove
+print
+front-add 3
+print
+front-add 5
+front-add 9
+print
+set 6
+back-add 7
+front-add 3
+back-add 4
+back-add 0
+back-add 4
+back-remove
+set 4
+front-add 7
+print
+front-add 0
+front-add 2
+back-add 6
+back-add 3
+back-remove
+front-remove
+front-add 7
+front-add 5
+front-add 7
+front-add 0
+back-add 6
+front-add 2
+reverse
+front-add 2
+print
+front-add 9
+front-add 9
+front-add 0
+front-add 6
+front-add 4
+back-add 7
+front-add 7
+front-add 4
+front-add 9
+front-add 8
+back-add 0
+back-add 5
+front-remove
+back-add 2
+front-add 5
+front-add 0
+back-add 9
+front-add 9
+front-add 1
+back-add 7
+back-add 0
+front-add 4
+front-add 8
+front-add 7
+back-add 4
+front-add 0
+front-add 8
+print
+front-add 1
+front-add 9
+reverse
+front-add 4
+front-remove
+front-add 9
+back-remove
+back-add 0
+back-add 3
+back-add 2
+front-remove
+back-add 7
+back-remove
+back-add 3
+back-add 7
+set 3
+front-add 5
+set 3
+back-add 6
+reverse
+front-add 1
+back-add 3
+front-add 0
+set 6
+print
+print
+front-add 1
+back-remove
+front-add 2
+front-add 2
+set 8
+front-add 5
+front-add 1
+set 7
+back-add 1
+front-add 2
+back-add 1
+back-add 8
+back-remove
+front-add 3
+front-add 3
+front-add 1
+set 7
+back-add 2
+back-remove
+front-remove
+back-add 0
+set 0
+front-add 2
+back-remove
+back-add 9
+front-add 6
+front-add 4
+front-add 2
+back-add 5
+front-remove
+front-add 5
+front-add 8
+back-add 0
+print
+back-add 6
+back-add 1
+set 3
+front-add 3
+front-add 8
+back-add 8
+front-add 8
+set 6
+front-remove
+front-add 0
+front-add 2
+front-add 7
+back-remove
+back-add 4
+back-add 3
+front-add 7
+set 3
+back-add 1
+front-add 4
+print
+back-add 8
+front-add 0
+back-add 3
+back-remove
+reverse
+front-add 9
+front-remove
+back-add 9
+back-add 6
+front-add 0
+front-add 5
+back-add 2
+front-add 8
+reverse
+front-remove
+back-add 7
+reverse
+back-remove
+front-add 0
+front-remove
+back-add 1
+front-add 6
+front-add 8
+front-add 2
+front-remove
+front-add 2
+front-add 5
+back-add 3
+print
+set 9
+front-add 7
+back-add 2
+back-add 0
+back-add 0
+front-remove
+back-add 0
+back-add 7
+front-add 1
+back-add 3
+print
+front-add 6
+front-add 2
+front-remove
+back-add 2
+back-remove
+back-add 3
+reverse
+back-add 5
+back-add 0
+back-remove
+front-add 7
+back-add 5
+front-add 1
+front-add 4
+front-add 4
+front-add 2
+front-add 3
+front-add 3
+front-add 3
+back-add 8
+reverse
+print
+front-add 2
+back-add 4
+back-add 1
+front-add 4
+front-add 4
+reverse
+back-add 9
+front-add 0
+print
+back-add 4
+back-add 7
+reverse
+back-add 8
+front-add 9
+back-add 0
+back-add 4
+back-add 4
+print
+back-add 0
+back-add 6
+front-add 9
+back-add 8
+back-add 3
+back-add 6
+back-add 9
+back-add 9
+front-add 6
+front-add 5
+set 1
+print
+front-add 6
+set 1
+front-add 7
+front-add 5
+reverse
+back-add 3
+back-add 1
+back-add 2
+back-add 6
+print
+front-add 1
+back-add 1
+back-add 2
+front-add 1
+back-remove
+front-add 7
+print
+front-add 3
+back-add 5
+front-add 9
+front-add 5
+front-add 8
+print
+back-add 2
+front-remove
+back-add 2
+front-add 6
+front-add 4
+set 2
+front-add 1
+back-add 4
+back-add 4
+set 5
+front-add 4
+back-add 2
+front-add 9
+print
+back-add 6
+front-add 9
+front-add 9
+reverse
+reverse
+back-add 9
+front-add 0
+back-add 8
+print
+front-add 7
+back-add 3
+back-add 7
+set 7
+front-add 5
+front-remove
+print
+back-add 0
+front-add 8
+front-add 7
+back-add 7
+front-add 8
+front-remove
+back-add 7
+back-add 5
+front-add 4
+front-add 7
+back-add 3
+front-add 0
+front-add 7
+front-add 1
+back-remove
+back-add 4
+back-add 4
+front-add 3
+back-add 6
+front-add 9
+back-add 8
+front-add 2
+front-add 7
+back-add 2
+back-add 3
+back-add 8
+front-add 1
+front-add 8
+back-add 4
+front-remove
+back-remove
+reverse
+front-add 4
+front-add 9
+front-add 3
+front-add 1
+back-add 8
+back-add 6
+front-add 0
+front-add 1
+front-add 0
+front-add 2
+set 9
+front-add 9
+set 0
+front-add 5
+set 5
+front-add 2
+reverse
+back-add 4
+back-remove
+reverse
+front-add 6
+set 7
+back-add 5
+print
+print
+front-add 0
+reverse
+front-add 0
+front-add 5
+back-add 2
+front-add 8
+set 4
+front-add 2
+front-add 6
+print
+front-remove
+front-remove
+back-add 0
+front-add 4
+back-add 2
+reverse
+back-add 7
+front-add 3
+back-add 1
+back-add 0
+back-add 7
+front-add 9
+front-add 1
+front-add 2
+front-add 6
+back-add 6
+back-add 9
+back-add 4
+back-add 2
+front-add 4
+front-add 4
+print
+set 5
+set 2
+front-remove
+front-add 6
+back-add 8
+front-remove
+front-add 9
+print
+front-add 6
+front-add 4
+back-add 4
+back-remove
+front-add 6
+front-add 2
+print
+front-add 1
+front-add 8
+back-add 8
+back-add 6
+print
+reverse
+back-add 9
+back-add 3
+print
+back-add 6
+back-add 5
+back-remove
+back-add 3
+front-add 8
+front-add 3
+back-add 2
+front-remove
+front-add 1
+back-add 5
+back-add 4
+back-add 3
+back-add 1
+back-add 8
+back-remove
+front-add 0
+front-add 4
+front-add 1
+front-add 8
+back-add 9
+reverse
+front-add 4
+set 6
+front-remove
+back-add 8
+front-add 3
+back-add 3
+front-add 0
+front-add 7
+back-remove
+back-add 6
+front-add 7
+back-add 4
+back-remove
+back-add 9
+front-remove
+back-add 6
+front-add 4
+back-add 1
+back-add 6
+reverse
+back-remove
+front-add 1
+back-add 5
+front-remove
+reverse
+front-remove
+front-add 0
+print
+front-add 4
+back-add 7
+back-add 3
+front-add 5
+front-add 5
+front-add 5
+back-add 5
+back-add 3
+front-add 6
+print
+front-add 4
+front-add 0
+reverse
+back-add 3
+front-add 8
+back-add 3
+front-add 5
+back-add 6
+front-add 3
+set 5
+front-add 5
+back-add 4
+front-add 2
+front-add 2
+back-add 2
+print
+back-remove
+front-add 5
+reverse
+front-add 8
+back-add 6
+back-add 5
+set 2
+front-add 2
+front-add 0
+print
+back-add 3
+back-add 2
+back-add 2
+front-remove
+set 8
+back-add 2
+reverse
+back-add 8
+back-remove
+reverse
+back-remove
+back-add 9
+back-add 1
+back-add 2
+back-add 1
+back-add 1
+front-add 2
+reverse
+reverse
+front-add 3
+front-add 2
+set 4
+back-remove
+front-add 4
+back-add 2
+back-add 9
+front-add 0
+reverse
+back-remove
+back-add 9
+front-add 1
+back-add 5
+print
+front-add 8
+back-add 8
+back-remove
+back-add 0
+front-add 4
+back-remove
+back-add 1
+front-remove
+front-remove
+front-add 4
+back-add 1
+back-add 9
+back-add 9
+front-add 1
+back-add 7
+back-add 1
+back-remove
+front-add 7
+front-add 1
+back-add 3
+back-add 6
+front-add 2
+front-add 0
+print
+back-add 7
+front-add 5
+back-add 5
+front-add 0
+front-add 1
+set 0
+back-add 3
+front-add 3
+back-remove
+back-add 6
+back-add 5
+front-add 8
+print
+set 1
+print
+reverse
+front-add 6
+front-add 0
+front-add 8
+front-add 9
+front-remove
+front-add 6
+back-remove
+front-add 8
+front-add 8
+front-add 5
+back-remove
+reverse
+back-remove
+back-add 0
+front-add 1
+front-add 9
+back-add 1
+print
+back-add 3
+front-add 6
+front-add 8
+front-add 0
+back-add 3
+reverse
+front-remove
+front-add 4
+back-add 9
+front-add 9
+back-remove
+back-add 5
+front-remove
+back-remove
+front-add 5
+back-add 5
+back-add 7
+front-add 6
+print
+back-add 3
+front-add 5
+print
+back-add 7
+front-add 7
+front-add 2
+back-add 9
+front-add 7
+print
+set 6
+back-add 4
+print
+front-add 6
+front-add 4
+back-add 9
+back-add 3
+back-add 1
+back-add 0
+back-add 6
+front-remove
+front-add 5
+front-add 3
+front-add 4
+back-add 8
+front-remove
+reverse
+front-add 8
+front-add 4
+set 2
+back-add 3
+front-add 4
+back-add 1
+back-add 2
+back-remove
+set 8
+back-add 1
+front-add 8
+front-add 6
+front-remove
+back-add 7
+back-add 3
+back-add 6
+print
+back-add 4
+front-add 5
+print
+back-add 8
+back-add 9
+reverse
+front-remove
+back-add 8
+front-remove
+back-add 8
+front-add 3
+back-add 9
+set 4
+back-remove
+back-add 6
+print
+back-add 6
+back-add 3
+back-add 9
+print
+front-add 9
+front-remove
+front-add 4
+back-add 4
+set 1
+back-add 2
+back-add 0
+back-add 6
+back-add 1
+back-add 6
+back-add 1
+back-add 5
+set 2
+back-add 9
+back-add 3
+back-add 2
+back-add 0
+front-add 1
+back-add 9
+print
+back-add 1
+front-add 2
+print
+front-add 4
+back-add 9
+back-add 3
+set 0
+front-add 9
+front-add 8
+back-add 8
+front-add 7
+back-add 7
+front-add 3
+back-add 0
+back-add 7
+back-add 4
+front-add 8
+front-add 0
+front-add 2
+front-add 3
+back-add 1
+back-add 1
+reverse
+print
+front-add 8
+front-add 8
+print
+front-add 2
+back-add 5
+back-add 7
+front-add 2
+front-add 7
+front-add 8
+front-add 9
+front-add 9
+back-add 4
+back-add 5
+print
+front-add 9
+print
+print
+back-add 5
+reverse
+back-add 9
+set 0
+front-add 9
+front-add 0
+front-add 8
+back-add 0
+back-add 4
+back-add 2
+front-add 4
+print
+back-add 3
+back-add 8
+back-add 5
+back-add 1
+front-add 4
+reverse
+front-add 7
+front-add 7
+set 7
+reverse
+print
+back-add 1
+back-add 1
+back-add 3
+front-add 8
+back-add 8
+back-add 8
+back-add 4
+front-remove
+front-add 3
+front-add 2
+back-add 1
+print
+back-add 1
+front-add 8
+back-remove
+front-add 1
+front-add 4
+back-add 7
+back-add 7
+back-add 9
+back-add 7
+back-add 9
+back-add 4
+back-add 1
+print
+set 0
+back-add 5
+front-add 4
+back-add 8
+front-add 3
+front-add 8
+back-add 1
+back-add 7
+back-remove
+front-add 4
+front-add 6
+front-add 3
+front-add 6
+front-add 4
+back-add 7
+front-add 5
+front-add 2
+back-add 2
+back-add 6
+front-add 4
+set 1
+back-add 1
+reverse
+front-add 0
+back-add 0
+front-add 1
+set 9
+front-add 1
+front-add 5
+set 9
+back-add 9
+back-add 8
+back-add 7
+back-add 7
+front-add 0
+back-add 9
+front-add 9
+front-remove
+back-add 1
+reverse
+front-add 1
+back-add 9
+set 5
+set 2
+front-remove
+front-add 7
+front-add 5
+reverse
+back-add 6
+back-add 9
+front-add 3
+back-add 8
+back-add 4
+back-remove
+back-add 7
+back-add 2
+front-add 3
+back-add 1
+back-add 5
+front-add 0
+back-remove
+set 0
+back-add 2
+back-add 8
+front-add 1
+print
+back-add 5
+print
+front-remove
+back-add 4
+back-add 9
+back-add 3
+print
+front-add 0
+front-add 4
+front-add 6
+front-add 8
+back-add 9
+back-add 8
+back-add 7
+print
+front-add 1
+front-add 5
+back-add 9
+back-add 7
+back-add 2
+front-remove
+front-remove
+set 8
+back-add 1
+front-add 6
+back-add 2
+front-add 9
+set 4
+reverse
+back-remove
+front-add 7
+front-add 7
+front-add 5
+reverse
+set 5
+front-add 6
+front-remove
+back-add 6
+print
+front-add 2
+front-add 9
+front-add 8
+front-remove
+reverse
+back-add 3
+back-remove
+back-add 3
+back-add 6
+front-add 1
+back-add 5
+back-add 7
+back-add 0
+front-add 3
+front-add 4
+back-add 5
+set 4
+back-add 8
+front-add 9
+back-add 9
+print
+print
+front-remove
+front-add 6
+back-add 6
+print
+front-remove
+back-add 4
+front-add 3
+back-remove
+back-add 2
+back-add 0
+back-add 9
+front-add 8
+back-add 8
+back-add 6
+front-add 1
+front-add 2
+front-add 7
+front-add 4
+back-add 4
+back-add 5
+print
+back-remove
+back-add 9
+back-add 5
+back-remove
+front-add 0
+front-add 4
+front-add 0
+back-add 3
+front-remove
+back-add 9
+front-add 6
+back-remove
+back-add 2
+back-remove
+front-add 7
+front-add 7
+front-add 2
+reverse
+front-add 5
+front-remove
+front-add 2
+front-add 7
+back-add 8
+front-add 8
+set 5
+front-add 0
+front-add 4
+print
+back-add 8
+front-add 7
+front-add 6
+back-add 8
+print
+front-add 0
+back-add 5
+back-add 7
+back-add 9
+front-add 6
+front-add 7
+front-add 3
+front-add 4
+back-add 3
+back-add 8
+back-add 9
+front-add 6
+back-add 6
+back-add 5
+back-add 6
+print
+back-add 9
+set 3
+print
+set 1
+set 7
+reverse
+front-add 4
+back-add 2
+front-add 6
+set 4
+back-add 5
+front-add 3
+front-add 5
+back-add 3
+front-add 0
+print
+back-remove
+reverse
+back-add 3
+back-add 1
+front-remove
+back-add 9
+back-remove
+front-remove
+front-add 5
+front-add 4
+back-add 2
+front-remove
+front-remove
+back-add 0
+print
+set 0
+front-add 9
+back-add 7
+front-add 8
+front-add 4
+back-add 1
+front-add 0
+back-remove
+front-add 4
+front-add 6
+back-add 9
+back-add 0
+reverse
+back-add 4
+front-remove
+back-add 4
+set 0
+front-add 7
+front-add 6
+front-add 4
+back-add 3
+front-add 3
+back-add 4
+front-add 9
+front-add 1
+reverse
+back-add 1
+front-add 5
+back-add 8
+front-add 9
+front-add 2
+back-add 6
+front-add 5
+reverse
+back-add 1
+front-add 5
+back-add 2
+front-add 6
+reverse
+front-add 6
+back-remove
+front-add 2
+front-remove
+back-remove
+front-remove
+back-add 7
+reverse
+front-add 8
+front-add 4
+front-add 3
+reverse
+front-add 7
+front-add 0
+front-add 3
+print
+end

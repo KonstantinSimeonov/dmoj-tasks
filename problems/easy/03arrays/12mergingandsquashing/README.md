@@ -1,5 +1,4 @@
-We have the following operations defined for two-digit numbers: There
-are two possible ways of merging two-digit numbers:
+We have the following operations defined for two-digit numbers. There are two possible ways of merging them:
 
 1.  Merging `ab` and `cd` produces `bc`
 

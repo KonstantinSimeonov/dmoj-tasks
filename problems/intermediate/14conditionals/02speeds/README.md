@@ -1,5 +1,5 @@
-You are given a sequence of the speeds of cars in a single-lane-street.
-A car can catch up to the car B, only if B is in-front of A and the
+You are given a sequence of the speeds of cars in a single-lane street.
+A car can catch up to the car B, only if B is in front of A and the
 speed of A is greater than the speed of B, and then the speed of A is
 lowered to the speed of B. Each gathering of cars is called a group. You
 task is to find the sum of the **initial speeds** of the **longest
@@ -12,13 +12,13 @@ speeds of these groups.
 -   Cars cannot outrun each other
     -   They can only catch up
 -   The streen is very very long and no matter the speed
-    -   No car with any speed can get out of it till the end of the exam
+    -   No car with any speed can get out of it until the end of the exam
 -   Cars with equal speeds do not catch up to each other
     -   They do not form a group
 
 # Example:
 
--   There are two groups with biggest length
+-   There are two groups with the biggest length
     -   `4 + 6 + 5 = 15`
     -   `3 + 9 + 100 = 112`
 -   The answer is `112`
@@ -38,8 +38,8 @@ All input data is read from the standard input (the console)
 
 The output data is printed on the standard output (the console)
 
--   On the single line on the output print the **sum of the the initial
-    speeds of longest group** (the group with most cars)
+-   On the single line on the output print the **sum of the initial
+    speeds of the longest group** (the group with most cars)
     -   If there are groups with equal length, print the biggest sum
 
 # Constraints

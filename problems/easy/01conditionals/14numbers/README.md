@@ -44,8 +44,8 @@ Print to the standard output
 
 # Constraints
 
--   The commands will be less than 2^20^
--   The number can be very very **very** big, i.e. 10^10000^ is a
+-   The commands will be less than 2<sup>20</sup>
+-   The number can be very very **very** big, i.e. 10<sup>10000</sup> is a
     possible value
 
 # Sample tests

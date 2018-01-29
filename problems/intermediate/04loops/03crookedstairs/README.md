@@ -5,7 +5,9 @@ A staircase is a **sequence of bricks**, ordered in a shape, similar to a **tria
 The **first layer** of the brick triangle contains only the first brick of the sequence. The **second layer** contains the second and third bricks and so on. A brick triangle of **3 layers** would look something like this:
 
 Brick1
+
 Brick2 Brick3
+
 Brick4 Brick5 Brick6 
 
 The sequence of bricks begins with **three integers** (the brick heights), that can be either **positive or negative**. The height of each brick, after the third one, is calculated by the sum of the last three bricks, using the formula -> **Bhn = Bhn-1 + Bhn-2 + Bhn-3**, where **Bh** is the brick height.
@@ -13,7 +15,9 @@ The sequence of bricks begins with **three integers** (the brick heights), that 
 So if **Brick1** has a height of 2, **Brick2** of 1 and **Brick3** of 5, the triangle would look like this:
 
 2 
+
 1 5 
+
 8 14 27
 
 - **Brick4**'s height is calculated by **Bh4 = Bh4-1 + Bh4-2 + Bh4-3**, which results to **Bh4 = 2 + 1 + 5 = 8**  

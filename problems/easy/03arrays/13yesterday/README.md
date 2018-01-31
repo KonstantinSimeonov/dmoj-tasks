@@ -1,4 +1,4 @@
-Gancho works in a factory. He is a diligent worker and he always finish his tasks on time. On the other side Gancho is a football fan and goes regularly on the matches of his favorite team which is Simitli. Just sayin', continue to the task below. 
+Gancho works in a factory. He is a diligent worker and he always finishes his tasks on time. On the other side Gancho is a football fan and goes regularly on the matches of his favorite team which is Simitli. Just sayin', continue to the task below. 
 By a provided date **(year, month, day)**, calculate the day before.
 
 # Input

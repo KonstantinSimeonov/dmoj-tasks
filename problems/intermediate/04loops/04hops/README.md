@@ -5,9 +5,12 @@ If Telerik eats **good** carrots, that's fine, but if he eats **bad** ones, his 
 - Telerik is a smart bunny. He can follow directions. The directions you give him are a **sequence of integers**, each of which tells him how many hops to make. If the integer is **positive**, he hops to the right, if the integers is **negative**, he hops to the left. An example of a sequence of directions is **3 2 -1**.
 - He can also process **several sequences** of directions. Another example of such sequence is **2 -4 2**. As you can see in this example, the bunny stops hopping only after reaching a row he has already visited or if he gets out of the path with carrots. So the given directions can be repeated several times.
 
-![sequence 1](./Sequence1.png)
+![sequence 1](./Sequence1.PNG)
 
-![sequence 2 and 3](./Sequences2and3.png)
+
+![sequence 2 and 3](./Sequences2and3.PNG)
+
+
 # Input
 
 - The input will be an **array of strings**

@@ -39,6 +39,7 @@ Print to the standard output, i.e. with `console.log()` method
 # Sample tests
 
 ## Input
+
 ```
     const args = [
         "5",
@@ -58,6 +59,7 @@ Print to the standard output, i.e. with `console.log()` method
 ```
 
 ## Output
+
 ```
     11.10
     6.30

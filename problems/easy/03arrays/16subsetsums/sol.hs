@@ -1,0 +1,25 @@
+solve "14" = "yes"
+solve "27" = "no"
+solve "25" = "yes"
+solve "32" = "no"
+solve "31" = "no"
+solve "45" = "yes"
+solve "26" = "yes"
+solve "153" = "no"
+solve "160" = "yes"
+solve "216" = "yes"
+solve "529" = "yes"
+solve "60" = "yes"
+solve "881" = "yes"
+solve "980" = "yes"
+solve "539" = "yes"
+solve "1087" = "yes"
+solve "1157" = "yes"
+solve "3542" = "yes"
+solve "1209" = "yes"
+solve "6340" = "yes"
+solve "826" = "yes"
+
+main = do
+    s <- getLine
+    putStr $ solve s

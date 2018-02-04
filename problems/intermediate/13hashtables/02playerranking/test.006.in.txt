@@ -1,0 +1,1411 @@
+add Player0 Type21 20 1
+find Type5
+find Type14
+find Type5
+find Type24
+find Type0
+find Type28
+find Type21
+find Type6
+find Type2
+find Type18
+find Type19
+find Type8
+find Type18
+find Type19
+find Type26
+find Type16
+find Type16
+find Type25
+find Type22
+find Type19
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+ranklist 1 1
+add Player1 Type28 30 1
+add Player2 Type25 17 2
+add Player3 Type10 45 4
+add Player4 Type16 36 4
+add Player5 Type28 34 5
+add Player6 Type17 13 5
+add Player7 Type10 15 3
+add Player8 Type25 13 8
+add Player9 Type27 13 6
+add Player10 Type28 30 2
+add Player11 Type21 19 6
+add Player12 Type0 38 1
+add Player13 Type6 32 5
+add Player14 Type0 33 11
+add Player15 Type3 33 9
+add Player16 Type1 34 3
+add Player17 Type29 33 12
+add Player18 Type3 49 5
+add Player19 Type11 15 9
+add Player20 Type15 48 2
+add Player21 Type28 25 9
+add Player22 Type18 43 10
+add Player23 Type5 48 23
+add Player24 Type19 25 14
+add Player25 Type12 22 15
+add Player26 Type19 39 15
+add Player27 Type9 45 14
+add Player28 Type9 49 28
+add Player29 Type14 34 8
+add Player30 Type7 36 18
+add Player31 Type19 37 20
+add Player32 Type6 13 6
+add Player33 Type10 30 26
+add Player34 Type4 44 24
+add Player35 Type7 23 7
+add Player36 Type3 39 25
+add Player37 Type20 40 16
+add Player38 Type26 18 3
+add Player39 Type18 35 17
+add Player40 Type13 15 10
+add Player41 Type4 48 14
+add Player42 Type10 10 31
+add Player43 Type27 18 10
+add Player44 Type11 21 11
+add Player45 Type23 17 1
+add Player46 Type24 12 30
+add Player47 Type22 24 43
+add Player48 Type17 33 44
+add Player49 Type4 41 23
+add Player50 Type16 34 24
+add Player51 Type22 47 19
+add Player52 Type15 49 49
+add Player53 Type10 47 18
+add Player54 Type13 18 29
+add Player55 Type13 21 26
+add Player56 Type5 14 2
+add Player57 Type1 41 33
+add Player58 Type23 38 46
+add Player59 Type10 33 22
+add Player60 Type12 17 15
+add Player61 Type7 25 38
+add Player62 Type22 35 25
+add Player63 Type26 20 14
+add Player64 Type2 29 11
+add Player65 Type9 21 11
+add Player66 Type10 15 20
+add Player67 Type13 50 45
+add Player68 Type12 29 57
+add Player69 Type27 49 16
+add Player70 Type17 16 29
+add Player71 Type17 48 52
+add Player72 Type2 18 61
+add Player73 Type27 38 49
+add Player74 Type1 22 64
+add Player75 Type24 49 23
+add Player76 Type11 29 31
+add Player77 Type18 50 34
+add Player78 Type1 49 16
+add Player79 Type17 43 73
+add Player80 Type23 44 54
+add Player81 Type4 21 8
+add Player82 Type24 31 47
+add Player83 Type13 18 7
+add Player84 Type9 27 38
+add Player85 Type19 25 61
+add Player86 Type24 34 46
+add Player87 Type15 31 43
+add Player88 Type24 49 15
+add Player89 Type29 31 86
+add Player90 Type15 30 36
+add Player91 Type27 15 79
+add Player92 Type0 47 1
+add Player93 Type22 10 41
+add Player94 Type22 48 26
+add Player95 Type9 21 54
+add Player96 Type29 27 59
+add Player97 Type14 41 22
+add Player98 Type11 20 32
+add Player99 Type5 23 33
+add Player100 Type27 44 2
+find Type18
+find Type27
+find Type21
+find Type20
+find Type12
+find Type8
+find Type17
+find Type19
+find Type14
+find Type20
+find Type2
+find Type17
+find Type2
+find Type23
+find Type17
+find Type6
+find Type15
+find Type20
+find Type18
+find Type29
+ranklist 5 69
+ranklist 2 87
+ranklist 9 78
+ranklist 45 78
+ranklist 42 80
+ranklist 35 92
+ranklist 10 71
+ranklist 7 52
+ranklist 28 82
+ranklist 44 64
+add Player101 Type11 42 14
+add Player102 Type23 39 66
+add Player103 Type8 28 78
+add Player104 Type28 43 69
+add Player105 Type9 44 98
+add Player106 Type7 46 107
+add Player107 Type15 45 43
+add Player108 Type1 43 97
+add Player109 Type0 20 45
+add Player110 Type20 37 62
+add Player111 Type19 47 90
+add Player112 Type10 34 36
+add Player113 Type6 19 2
+add Player114 Type16 20 52
+add Player115 Type23 45 91
+add Player116 Type0 30 40
+add Player117 Type14 46 16
+add Player118 Type16 13 119
+add Player119 Type26 23 117
+add Player120 Type7 42 56
+add Player121 Type6 34 96
+add Player122 Type5 22 111
+add Player123 Type25 50 33
+add Player124 Type18 11 82
+add Player125 Type29 50 80
+add Player126 Type28 21 120
+add Player127 Type3 50 96
+add Player128 Type1 18 102
+add Player129 Type12 14 106
+add Player130 Type23 28 34
+add Player131 Type10 50 60
+add Player132 Type16 22 86
+add Player133 Type19 34 78
+add Player134 Type26 17 70
+add Player135 Type2 46 117
+add Player136 Type14 33 13
+add Player137 Type11 48 7
+add Player138 Type1 15 112
+add Player139 Type21 16 57
+add Player140 Type0 41 26
+add Player141 Type2 12 74
+add Player142 Type0 20 7
+add Player143 Type6 27 100
+add Player144 Type29 21 101
+add Player145 Type10 19 119
+add Player146 Type7 50 47
+add Player147 Type27 48 81
+add Player148 Type21 27 80
+add Player149 Type6 22 127
+add Player150 Type19 44 21
+add Player151 Type7 37 125
+add Player152 Type11 42 17
+add Player153 Type29 13 95
+add Player154 Type24 21 23
+add Player155 Type11 25 103
+add Player156 Type10 37 143
+add Player157 Type29 29 29
+add Player158 Type2 12 132
+add Player159 Type19 24 102
+add Player160 Type29 42 155
+add Player161 Type6 32 95
+add Player162 Type16 41 100
+add Player163 Type26 49 73
+add Player164 Type21 19 151
+add Player165 Type21 15 112
+add Player166 Type11 23 9
+add Player167 Type26 44 107
+add Player168 Type27 37 62
+add Player169 Type28 15 102
+add Player170 Type29 41 73
+add Player171 Type14 10 48
+add Player172 Type19 34 126
+add Player173 Type16 44 108
+add Player174 Type1 30 123
+add Player175 Type14 21 43
+add Player176 Type8 25 168
+add Player177 Type4 19 8
+add Player178 Type17 14 170
+add Player179 Type9 21 160
+add Player180 Type6 35 111
+add Player181 Type0 46 39
+add Player182 Type0 19 43
+add Player183 Type18 12 97
+add Player184 Type28 44 90
+add Player185 Type12 44 67
+add Player186 Type27 29 71
+add Player187 Type3 37 144
+add Player188 Type19 44 98
+add Player189 Type11 46 170
+add Player190 Type9 23 62
+add Player191 Type25 24 44
+add Player192 Type0 11 118
+add Player193 Type14 28 12
+add Player194 Type0 36 63
+add Player195 Type12 18 79
+add Player196 Type16 16 56
+add Player197 Type17 26 161
+add Player198 Type15 13 186
+add Player199 Type25 25 9
+add Player200 Type20 35 67
+find Type10
+find Type9
+find Type22
+find Type6
+find Type3
+find Type14
+find Type7
+find Type12
+find Type24
+find Type22
+find Type13
+find Type0
+find Type9
+find Type3
+find Type1
+find Type13
+find Type6
+find Type18
+find Type3
+find Type24
+ranklist 75 162
+ranklist 75 194
+ranklist 52 133
+ranklist 26 130
+ranklist 17 167
+ranklist 57 181
+ranklist 83 174
+ranklist 67 135
+ranklist 59 123
+ranklist 11 192
+add Player201 Type9 40 97
+add Player202 Type25 49 163
+add Player203 Type5 49 182
+add Player204 Type12 15 87
+add Player205 Type17 42 122
+add Player206 Type22 32 169
+add Player207 Type20 42 50
+add Player208 Type28 20 31
+add Player209 Type5 36 39
+add Player210 Type17 28 149
+add Player211 Type25 10 110
+add Player212 Type6 31 2
+add Player213 Type3 46 208
+add Player214 Type21 15 62
+add Player215 Type12 41 111
+add Player216 Type4 19 6
+add Player217 Type4 47 170
+add Player218 Type23 31 71
+add Player219 Type20 23 105
+add Player220 Type9 37 69
+add Player221 Type18 34 113
+add Player222 Type5 32 32
+add Player223 Type27 25 61
+add Player224 Type17 34 149
+add Player225 Type25 50 147
+add Player226 Type28 32 114
+add Player227 Type19 11 97
+add Player228 Type4 28 124
+add Player229 Type27 13 110
+add Player230 Type5 31 44
+add Player231 Type16 42 56
+add Player232 Type19 14 123
+add Player233 Type23 18 49
+add Player234 Type11 19 200
+add Player235 Type22 33 75
+add Player236 Type3 48 132
+add Player237 Type20 39 187
+add Player238 Type29 38 149
+add Player239 Type26 28 40
+add Player240 Type29 20 113
+add Player241 Type19 39 203
+add Player242 Type2 11 197
+add Player243 Type12 17 214
+add Player244 Type3 16 84
+add Player245 Type8 20 199
+add Player246 Type17 26 218
+add Player247 Type6 43 37
+add Player248 Type27 31 202
+add Player249 Type12 33 26
+add Player250 Type18 41 162
+add Player251 Type10 43 240
+add Player252 Type22 38 132
+add Player253 Type0 37 132
+add Player254 Type15 38 193
+add Player255 Type20 32 142
+add Player256 Type13 37 111
+add Player257 Type24 23 15
+add Player258 Type8 40 118
+add Player259 Type9 40 51
+add Player260 Type0 37 126
+add Player261 Type21 42 107
+add Player262 Type7 41 94
+add Player263 Type11 32 149
+add Player264 Type8 32 193
+add Player265 Type10 39 31
+add Player266 Type11 19 260
+add Player267 Type7 49 239
+add Player268 Type20 43 123
+add Player269 Type17 13 19
+add Player270 Type14 27 260
+add Player271 Type9 50 272
+add Player272 Type1 42 246
+add Player273 Type10 28 214
+add Player274 Type5 12 34
+add Player275 Type26 31 209
+add Player276 Type9 47 8
+add Player277 Type10 47 140
+add Player278 Type6 41 200
+add Player279 Type17 11 278
+add Player280 Type28 36 195
+add Player281 Type8 46 39
+add Player282 Type18 49 164
+add Player283 Type21 23 262
+add Player284 Type6 12 228
+add Player285 Type5 12 260
+add Player286 Type23 43 82
+add Player287 Type20 20 44
+add Player288 Type1 16 144
+add Player289 Type13 14 62
+add Player290 Type8 28 222
+add Player291 Type27 26 233
+add Player292 Type2 47 48
+add Player293 Type29 20 165
+add Player294 Type5 34 177
+add Player295 Type3 15 260
+add Player296 Type21 11 210
+add Player297 Type24 43 68
+add Player298 Type21 20 118
+add Player299 Type16 20 220
+add Player300 Type19 15 261
+find Type10
+find Type13
+find Type26
+find Type4
+find Type9
+find Type19
+find Type0
+find Type3
+find Type4
+find Type22
+find Type23
+find Type16
+find Type21
+find Type15
+find Type19
+find Type16
+find Type28
+find Type0
+find Type18
+find Type22
+ranklist 11 227
+ranklist 72 244
+ranklist 81 181
+ranklist 21 211
+ranklist 82 250
+ranklist 65 203
+ranklist 18 255
+ranklist 123 174
+ranklist 108 293
+ranklist 124 183
+add Player301 Type20 47 167
+add Player302 Type1 11 208
+add Player303 Type29 40 226
+add Player304 Type29 22 214
+add Player305 Type0 25 245
+add Player306 Type25 49 80
+add Player307 Type18 14 161
+add Player308 Type17 32 153
+add Player309 Type9 27 132
+add Player310 Type0 38 154
+add Player311 Type25 50 67
+add Player312 Type12 12 45
+add Player313 Type28 26 182
+add Player314 Type25 19 125
+add Player315 Type19 32 113
+add Player316 Type21 23 231
+add Player317 Type26 49 60
+add Player318 Type13 23 229
+add Player319 Type20 14 118
+add Player320 Type1 40 196
+add Player321 Type7 48 12
+add Player322 Type7 16 100
+add Player323 Type14 35 108
+add Player324 Type19 47 183
+add Player325 Type20 41 288
+add Player326 Type3 48 327
+add Player327 Type4 33 36
+add Player328 Type20 15 246
+add Player329 Type9 25 224
+add Player330 Type14 38 318
+add Player331 Type23 46 219
+add Player332 Type29 34 90
+add Player333 Type10 27 138
+add Player334 Type1 20 239
+add Player335 Type11 19 18
+add Player336 Type18 42 184
+add Player337 Type25 33 56
+add Player338 Type11 47 59
+add Player339 Type15 33 277
+add Player340 Type8 48 264
+add Player341 Type18 50 312
+add Player342 Type11 46 2
+add Player343 Type27 39 63
+add Player344 Type18 41 180
+add Player345 Type17 13 116
+add Player346 Type11 22 312
+add Player347 Type20 38 207
+add Player348 Type4 37 49
+add Player349 Type23 26 343
+add Player350 Type14 29 11
+add Player351 Type13 13 168
+add Player352 Type19 27 90
+add Player353 Type24 10 127
+add Player354 Type1 39 27
+add Player355 Type10 19 287
+add Player356 Type19 41 297
+add Player357 Type25 14 94
+add Player358 Type27 34 92
+add Player359 Type5 30 120
+add Player360 Type23 33 171
+add Player361 Type0 27 87
+add Player362 Type4 16 251
+add Player363 Type1 49 245
+add Player364 Type2 34 102
+add Player365 Type16 36 353
+add Player366 Type15 41 161
+add Player367 Type9 16 232
+add Player368 Type4 36 135
+add Player369 Type23 32 179
+add Player370 Type6 28 342
+add Player371 Type27 11 165
+add Player372 Type26 10 115
+add Player373 Type25 18 26
+add Player374 Type3 34 310
+add Player375 Type4 41 192
+add Player376 Type29 25 355
+add Player377 Type8 36 274
+add Player378 Type26 27 162
+add Player379 Type25 45 291
+add Player380 Type26 25 235
+add Player381 Type6 43 189
+add Player382 Type22 16 217
+add Player383 Type25 36 242
+add Player384 Type19 38 217
+add Player385 Type11 18 216
+add Player386 Type24 50 345
+add Player387 Type25 42 65
+add Player388 Type16 48 312
+add Player389 Type5 11 231
+add Player390 Type0 11 57
+add Player391 Type16 49 326
+add Player392 Type13 47 303
+add Player393 Type9 26 238
+add Player394 Type28 15 283
+add Player395 Type9 36 386
+add Player396 Type4 31 88
+add Player397 Type26 11 352
+add Player398 Type26 10 235
+add Player399 Type13 37 360
+add Player400 Type20 32 52
+find Type29
+find Type24
+find Type18
+find Type14
+find Type3
+find Type21
+find Type21
+find Type27
+find Type9
+find Type23
+find Type14
+find Type17
+find Type8
+find Type27
+find Type19
+find Type13
+find Type6
+find Type8
+find Type24
+find Type1
+ranklist 101 275
+ranklist 30 201
+ranklist 53 335
+ranklist 189 249
+ranklist 1 250
+ranklist 175 329
+ranklist 171 296
+ranklist 195 266
+ranklist 20 367
+ranklist 105 251
+add Player401 Type12 35 367
+add Player402 Type2 33 120
+add Player403 Type17 14 381
+add Player404 Type29 27 246
+add Player405 Type25 31 255
+add Player406 Type18 37 251
+add Player407 Type6 28 318
+add Player408 Type14 47 27
+add Player409 Type27 44 302
+add Player410 Type24 48 133
+add Player411 Type10 26 317
+add Player412 Type17 34 368
+add Player413 Type13 12 181
+add Player414 Type28 13 348
+add Player415 Type9 10 337
+add Player416 Type7 41 137
+add Player417 Type25 25 274
+add Player418 Type14 34 33
+add Player419 Type14 48 294
+add Player420 Type25 16 310
+add Player421 Type16 41 71
+add Player422 Type18 36 14
+add Player423 Type25 21 391
+add Player424 Type22 15 256
+add Player425 Type5 20 155
+add Player426 Type28 17 388
+add Player427 Type7 36 24
+add Player428 Type12 49 247
+add Player429 Type20 45 344
+add Player430 Type20 14 285
+add Player431 Type5 35 390
+add Player432 Type20 26 133
+add Player433 Type20 37 156
+add Player434 Type23 27 214
+add Player435 Type12 14 97
+add Player436 Type1 22 150
+add Player437 Type21 31 330
+add Player438 Type23 34 229
+add Player439 Type20 16 360
+add Player440 Type17 48 343
+add Player441 Type6 16 82
+add Player442 Type7 32 237
+add Player443 Type20 29 382
+add Player444 Type1 20 226
+add Player445 Type16 29 99
+add Player446 Type16 10 379
+add Player447 Type10 35 255
+add Player448 Type13 49 256
+add Player449 Type27 26 9
+add Player450 Type11 10 113
+add Player451 Type14 13 331
+add Player452 Type17 32 126
+add Player453 Type9 16 260
+add Player454 Type20 24 374
+add Player455 Type14 36 122
+add Player456 Type7 19 54
+add Player457 Type8 14 70
+add Player458 Type29 19 155
+add Player459 Type6 41 81
+add Player460 Type18 24 66
+add Player461 Type15 22 215
+add Player462 Type18 33 88
+add Player463 Type23 49 433
+add Player464 Type28 20 397
+add Player465 Type8 37 122
+add Player466 Type22 49 150
+add Player467 Type9 37 75
+add Player468 Type27 13 422
+add Player469 Type2 31 395
+add Player470 Type11 25 363
+add Player471 Type3 38 375
+add Player472 Type12 17 18
+add Player473 Type10 45 42
+add Player474 Type2 29 131
+add Player475 Type5 24 410
+add Player476 Type8 38 274
+add Player477 Type2 28 383
+add Player478 Type25 22 333
+add Player479 Type29 35 112
+add Player480 Type16 30 24
+add Player481 Type10 25 288
+add Player482 Type4 44 273
+add Player483 Type1 44 239
+add Player484 Type6 26 48
+add Player485 Type6 19 93
+add Player486 Type26 39 356
+add Player487 Type1 42 402
+add Player488 Type7 23 445
+add Player489 Type29 20 188
+add Player490 Type2 28 275
+add Player491 Type24 42 180
+add Player492 Type1 39 44
+add Player493 Type20 10 252
+add Player494 Type8 19 422
+add Player495 Type2 45 35
+add Player496 Type21 35 43
+add Player497 Type15 14 446
+add Player498 Type15 31 356
+add Player499 Type6 13 32
+add Player500 Type20 17 300
+find Type5
+find Type28
+find Type11
+find Type27
+find Type12
+find Type18
+find Type22
+find Type5
+find Type14
+find Type3
+find Type6
+find Type20
+find Type6
+find Type22
+find Type16
+find Type29
+find Type5
+find Type13
+find Type25
+find Type8
+ranklist 156 325
+ranklist 149 338
+ranklist 167 326
+ranklist 66 414
+ranklist 203 412
+ranklist 7 499
+ranklist 209 479
+ranklist 29 320
+ranklist 114 288
+ranklist 110 368
+add Player501 Type29 27 295
+add Player502 Type12 46 102
+add Player503 Type8 42 78
+add Player504 Type7 46 302
+add Player505 Type25 47 494
+add Player506 Type26 25 23
+add Player507 Type8 14 175
+add Player508 Type2 25 435
+add Player509 Type2 18 440
+add Player510 Type9 35 145
+add Player511 Type15 11 15
+add Player512 Type11 22 100
+add Player513 Type21 17 236
+add Player514 Type13 10 244
+add Player515 Type14 32 384
+add Player516 Type12 15 470
+add Player517 Type28 19 472
+add Player518 Type12 46 167
+add Player519 Type3 46 24
+add Player520 Type21 23 354
+add Player521 Type10 49 85
+add Player522 Type26 40 453
+add Player523 Type17 29 328
+add Player524 Type23 17 91
+add Player525 Type17 43 51
+add Player526 Type26 34 435
+add Player527 Type3 36 40
+add Player528 Type28 25 209
+add Player529 Type11 14 83
+add Player530 Type21 20 222
+add Player531 Type4 50 464
+add Player532 Type23 14 26
+add Player533 Type9 35 439
+add Player534 Type26 45 353
+add Player535 Type8 16 32
+add Player536 Type22 43 40
+add Player537 Type6 20 160
+add Player538 Type6 35 364
+add Player539 Type18 25 324
+add Player540 Type23 30 342
+add Player541 Type21 45 128
+add Player542 Type6 35 106
+add Player543 Type9 43 374
+add Player544 Type1 33 525
+add Player545 Type0 19 432
+add Player546 Type12 37 121
+add Player547 Type10 35 156
+add Player548 Type2 29 545
+add Player549 Type3 47 197
+add Player550 Type5 17 405
+add Player551 Type13 32 69
+add Player552 Type5 16 551
+add Player553 Type12 13 288
+add Player554 Type25 27 8
+add Player555 Type11 17 386
+add Player556 Type10 18 217
+add Player557 Type26 17 401
+add Player558 Type11 27 485
+add Player559 Type10 35 213
+add Player560 Type7 13 398
+add Player561 Type25 14 356
+add Player562 Type28 34 12
+add Player563 Type25 43 38
+add Player564 Type23 50 337
+add Player565 Type21 29 111
+add Player566 Type8 38 174
+add Player567 Type8 42 402
+add Player568 Type29 22 563
+add Player569 Type0 12 62
+add Player570 Type7 44 308
+add Player571 Type18 17 565
+add Player572 Type24 11 193
+add Player573 Type11 27 332
+add Player574 Type20 30 235
+add Player575 Type9 13 112
+add Player576 Type3 37 554
+add Player577 Type20 13 539
+add Player578 Type2 48 176
+add Player579 Type0 45 460
+add Player580 Type19 48 307
+add Player581 Type27 33 563
+add Player582 Type15 17 474
+add Player583 Type18 46 261
+add Player584 Type25 46 154
+add Player585 Type21 35 169
+add Player586 Type8 36 130
+add Player587 Type23 46 232
+add Player588 Type4 34 452
+add Player589 Type18 32 139
+add Player590 Type20 43 92
+add Player591 Type16 40 295
+add Player592 Type1 41 545
+add Player593 Type13 42 543
+add Player594 Type11 30 469
+add Player595 Type15 43 113
+add Player596 Type20 24 191
+add Player597 Type0 38 136
+add Player598 Type17 44 25
+add Player599 Type4 41 596
+add Player600 Type6 47 383
+find Type17
+find Type27
+find Type2
+find Type8
+find Type9
+find Type4
+find Type22
+find Type20
+find Type25
+find Type11
+find Type25
+find Type25
+find Type9
+find Type12
+find Type11
+find Type18
+find Type19
+find Type23
+find Type17
+find Type28
+ranklist 59 576
+ranklist 201 332
+ranklist 279 593
+ranklist 266 438
+ranklist 275 601
+ranklist 278 373
+ranklist 263 384
+ranklist 241 477
+ranklist 213 367
+ranklist 150 311
+add Player601 Type27 37 274
+add Player602 Type19 44 228
+add Player603 Type7 27 398
+add Player604 Type15 15 134
+add Player605 Type18 50 268
+add Player606 Type19 20 591
+add Player607 Type10 24 164
+add Player608 Type9 41 529
+add Player609 Type13 35 593
+add Player610 Type0 34 487
+add Player611 Type26 26 168
+add Player612 Type16 11 324
+add Player613 Type13 11 160
+add Player614 Type16 39 276
+add Player615 Type23 25 536
+add Player616 Type21 35 552
+add Player617 Type25 15 205
+add Player618 Type22 45 96
+add Player619 Type23 34 560
+add Player620 Type17 18 144
+add Player621 Type12 19 516
+add Player622 Type25 35 446
+add Player623 Type28 13 594
+add Player624 Type27 18 145
+add Player625 Type21 43 398
+add Player626 Type24 31 238
+add Player627 Type29 40 627
+add Player628 Type2 17 295
+add Player629 Type13 16 349
+add Player630 Type3 41 277
+add Player631 Type18 45 521
+add Player632 Type0 15 299
+add Player633 Type18 48 479
+add Player634 Type4 41 343
+add Player635 Type28 47 600
+add Player636 Type3 10 33
+add Player637 Type15 48 53
+add Player638 Type15 34 295
+add Player639 Type7 23 30
+add Player640 Type10 26 301
+add Player641 Type4 43 195
+add Player642 Type15 21 209
+add Player643 Type12 38 429
+add Player644 Type4 18 373
+add Player645 Type18 44 635
+add Player646 Type13 15 173
+add Player647 Type15 24 91
+add Player648 Type15 34 539
+add Player649 Type10 14 187
+add Player650 Type10 42 532
+add Player651 Type12 20 352
+add Player652 Type8 50 608
+add Player653 Type7 27 417
+add Player654 Type18 38 221
+add Player655 Type11 24 489
+add Player656 Type15 46 492
+add Player657 Type14 41 128
+add Player658 Type23 44 22
+add Player659 Type9 37 151
+add Player660 Type14 16 124
+add Player661 Type1 11 589
+add Player662 Type25 40 625
+add Player663 Type1 23 564
+add Player664 Type1 19 469
+add Player665 Type18 47 447
+add Player666 Type24 14 163
+add Player667 Type2 44 134
+add Player668 Type16 46 13
+add Player669 Type18 36 285
+add Player670 Type15 49 223
+add Player671 Type21 41 184
+add Player672 Type13 33 439
+add Player673 Type13 32 416
+add Player674 Type24 29 382
+add Player675 Type26 27 375
+add Player676 Type14 16 628
+add Player677 Type10 31 371
+add Player678 Type29 25 209
+add Player679 Type29 30 108
+add Player680 Type26 19 63
+add Player681 Type15 31 260
+add Player682 Type15 24 314
+add Player683 Type12 17 223
+add Player684 Type0 24 396
+add Player685 Type18 21 264
+add Player686 Type19 36 315
+add Player687 Type13 15 343
+add Player688 Type14 15 297
+add Player689 Type23 39 258
+add Player690 Type28 29 58
+add Player691 Type14 33 217
+add Player692 Type15 21 648
+add Player693 Type5 25 56
+add Player694 Type2 12 675
+add Player695 Type18 24 120
+add Player696 Type29 24 75
+add Player697 Type27 24 600
+add Player698 Type21 26 65
+add Player699 Type17 10 272
+add Player700 Type28 39 440
+find Type2
+find Type14
+find Type21
+find Type7
+find Type15
+find Type23
+find Type7
+find Type3
+find Type29
+find Type13
+find Type13
+find Type7
+find Type11
+find Type11
+find Type2
+find Type15
+find Type26
+find Type23
+find Type7
+find Type24
+ranklist 128 444
+ranklist 15 390
+ranklist 79 629
+ranklist 60 428
+ranklist 326 444
+ranklist 192 432
+ranklist 229 509
+ranklist 4 557
+ranklist 90 477
+ranklist 287 488
+add Player701 Type21 20 77
+add Player702 Type14 46 423
+add Player703 Type9 11 10
+add Player704 Type2 15 416
+add Player705 Type20 47 186
+add Player706 Type24 27 426
+add Player707 Type0 39 431
+add Player708 Type1 17 520
+add Player709 Type27 18 430
+add Player710 Type27 24 349
+add Player711 Type8 31 698
+add Player712 Type25 14 80
+add Player713 Type4 33 150
+add Player714 Type18 29 96
+add Player715 Type6 45 102
+add Player716 Type28 32 530
+add Player717 Type5 17 118
+add Player718 Type19 23 65
+add Player719 Type23 37 59
+add Player720 Type11 33 495
+add Player721 Type29 26 490
+add Player722 Type15 42 425
+add Player723 Type18 43 579
+add Player724 Type4 37 621
+add Player725 Type11 26 188
+add Player726 Type14 44 224
+add Player727 Type17 48 492
+add Player728 Type25 40 123
+add Player729 Type9 35 143
+add Player730 Type26 13 332
+add Player731 Type0 42 731
+add Player732 Type15 35 55
+add Player733 Type13 37 49
+add Player734 Type16 24 527
+add Player735 Type28 11 391
+add Player736 Type9 20 697
+add Player737 Type24 22 608
+add Player738 Type23 42 463
+add Player739 Type0 15 491
+add Player740 Type15 18 136
+add Player741 Type11 39 552
+add Player742 Type10 15 654
+add Player743 Type25 45 573
+add Player744 Type5 10 116
+add Player745 Type7 11 446
+add Player746 Type28 48 522
+add Player747 Type19 10 265
+add Player748 Type7 12 578
+add Player749 Type18 20 747
+add Player750 Type11 31 374
+add Player751 Type12 48 365
+add Player752 Type26 16 475
+add Player753 Type29 34 690
+add Player754 Type19 28 297
+add Player755 Type5 36 222
+add Player756 Type20 31 567
+add Player757 Type0 12 154
+add Player758 Type28 45 137
+add Player759 Type24 15 500
+add Player760 Type29 39 661
+add Player761 Type26 29 271
+add Player762 Type8 41 55
+add Player763 Type20 24 670
+add Player764 Type28 50 256
+add Player765 Type23 50 437
+add Player766 Type28 13 319
+add Player767 Type14 49 555
+add Player768 Type7 24 355
+add Player769 Type8 28 59
+add Player770 Type9 12 16
+add Player771 Type29 10 678
+add Player772 Type1 41 745
+add Player773 Type1 46 675
+add Player774 Type6 50 135
+add Player775 Type26 12 53
+add Player776 Type26 17 687
+add Player777 Type18 45 51
+add Player778 Type7 30 587
+add Player779 Type4 36 111
+add Player780 Type26 50 256
+add Player781 Type29 25 238
+add Player782 Type25 50 771
+add Player783 Type13 40 173
+add Player784 Type18 47 138
+add Player785 Type16 20 759
+add Player786 Type16 25 222
+add Player787 Type11 27 209
+add Player788 Type5 38 149
+add Player789 Type28 39 400
+add Player790 Type3 46 104
+add Player791 Type24 15 731
+add Player792 Type16 19 501
+add Player793 Type26 10 56
+add Player794 Type2 26 355
+add Player795 Type19 10 751
+add Player796 Type26 38 189
+add Player797 Type23 34 210
+add Player798 Type25 30 442
+add Player799 Type1 42 538
+add Player800 Type3 46 211
+find Type14
+find Type9
+find Type25
+find Type2
+find Type23
+find Type23
+find Type7
+find Type0
+find Type0
+find Type10
+find Type20
+find Type10
+find Type6
+find Type9
+find Type0
+find Type24
+find Type15
+find Type20
+find Type7
+find Type1
+ranklist 13 508
+ranklist 136 523
+ranklist 348 786
+ranklist 256 549
+ranklist 193 570
+ranklist 385 703
+ranklist 48 724
+ranklist 243 434
+ranklist 245 630
+ranklist 88 464
+add Player801 Type19 38 165
+add Player802 Type13 47 727
+add Player803 Type19 17 435
+add Player804 Type7 21 790
+add Player805 Type26 44 187
+add Player806 Type6 50 428
+add Player807 Type6 43 116
+add Player808 Type26 31 493
+add Player809 Type11 47 194
+add Player810 Type12 38 753
+add Player811 Type6 49 384
+add Player812 Type2 27 271
+add Player813 Type1 46 314
+add Player814 Type28 22 363
+add Player815 Type24 19 123
+add Player816 Type29 46 232
+add Player817 Type17 26 76
+add Player818 Type2 24 324
+add Player819 Type0 40 147
+add Player820 Type17 13 819
+add Player821 Type19 20 405
+add Player822 Type18 11 260
+add Player823 Type15 42 334
+add Player824 Type26 15 88
+add Player825 Type4 20 423
+add Player826 Type20 12 235
+add Player827 Type13 26 31
+add Player828 Type28 43 253
+add Player829 Type25 15 502
+add Player830 Type2 12 560
+add Player831 Type4 29 671
+add Player832 Type11 22 56
+add Player833 Type28 18 166
+add Player834 Type25 29 86
+add Player835 Type26 37 212
+add Player836 Type29 48 81
+add Player837 Type26 23 589
+add Player838 Type26 15 576
+add Player839 Type28 39 351
+add Player840 Type5 41 768
+add Player841 Type21 27 601
+add Player842 Type21 40 569
+add Player843 Type9 40 810
+add Player844 Type13 40 707
+add Player845 Type2 35 780
+add Player846 Type28 13 128
+add Player847 Type1 44 160
+add Player848 Type15 17 639
+add Player849 Type29 20 283
+add Player850 Type3 27 501
+add Player851 Type19 41 376
+add Player852 Type8 15 36
+add Player853 Type11 16 796
+add Player854 Type17 38 156
+add Player855 Type4 27 491
+add Player856 Type26 43 440
+add Player857 Type22 11 544
+add Player858 Type8 15 797
+add Player859 Type21 18 203
+add Player860 Type28 41 420
+add Player861 Type10 17 282
+add Player862 Type11 42 846
+add Player863 Type11 42 433
+add Player864 Type26 32 805
+add Player865 Type6 29 142
+add Player866 Type0 25 657
+add Player867 Type5 14 390
+add Player868 Type24 24 349
+add Player869 Type28 25 548
+add Player870 Type15 33 801
+add Player871 Type24 27 336
+add Player872 Type13 19 442
+add Player873 Type25 41 561
+add Player874 Type17 29 8
+add Player875 Type0 46 424
+add Player876 Type21 12 582
+add Player877 Type22 39 732
+add Player878 Type14 42 579
+add Player879 Type1 31 725
+add Player880 Type27 27 366
+add Player881 Type10 46 210
+add Player882 Type17 13 101
+add Player883 Type16 41 210
+add Player884 Type19 16 534
+add Player885 Type3 34 559
+add Player886 Type13 43 420
+add Player887 Type27 20 296
+add Player888 Type29 40 751
+add Player889 Type2 23 578
+add Player890 Type21 26 637
+add Player891 Type20 48 314
+add Player892 Type6 19 527
+add Player893 Type23 27 724
+add Player894 Type11 16 247
+add Player895 Type12 14 509
+add Player896 Type6 24 175
+add Player897 Type0 34 642
+add Player898 Type10 10 148
+add Player899 Type2 25 121
+add Player900 Type11 30 673
+find Type13
+find Type24
+find Type10
+find Type15
+find Type29
+find Type6
+find Type7
+find Type26
+find Type10
+find Type1
+find Type20
+find Type11
+find Type19
+find Type16
+find Type2
+find Type1
+find Type16
+find Type19
+find Type8
+find Type25
+ranklist 435 655
+ranklist 315 815
+ranklist 450 600
+ranklist 416 535
+ranklist 65 839
+ranklist 206 620
+ranklist 422 479
+ranklist 407 604
+ranklist 410 857
+ranklist 59 607
+add Player901 Type29 29 768
+add Player902 Type29 48 306
+add Player903 Type20 28 64
+add Player904 Type0 44 445
+add Player905 Type3 36 709
+add Player906 Type0 14 506
+add Player907 Type15 36 271
+add Player908 Type1 40 439
+add Player909 Type17 21 400
+add Player910 Type18 36 687
+add Player911 Type4 36 468
+add Player912 Type27 45 449
+add Player913 Type18 39 806
+add Player914 Type19 36 425
+add Player915 Type3 14 19
+add Player916 Type28 20 273
+add Player917 Type8 46 203
+add Player918 Type10 25 447
+add Player919 Type1 47 670
+add Player920 Type11 26 586
+add Player921 Type26 13 750
+add Player922 Type9 46 186
+add Player923 Type29 17 704
+add Player924 Type8 26 378
+add Player925 Type20 45 926
+add Player926 Type25 48 583
+add Player927 Type13 35 32
+add Player928 Type4 23 700
+add Player929 Type16 42 243
+add Player930 Type0 46 897
+add Player931 Type22 19 289
+add Player932 Type7 41 522
+add Player933 Type19 42 223
+add Player934 Type24 50 66
+add Player935 Type16 50 453
+add Player936 Type24 37 485
+add Player937 Type14 18 908
+add Player938 Type3 47 736
+add Player939 Type18 41 720
+add Player940 Type1 42 80
+add Player941 Type28 49 291
+add Player942 Type23 31 166
+add Player943 Type2 27 94
+add Player944 Type13 17 138
+add Player945 Type11 36 599
+add Player946 Type28 34 313
+add Player947 Type8 39 113
+add Player948 Type22 32 631
+add Player949 Type29 37 310
+add Player950 Type15 36 6
+add Player951 Type23 34 18
+add Player952 Type4 46 33
+add Player953 Type22 40 441
+add Player954 Type9 39 234
+add Player955 Type12 11 32
+add Player956 Type24 39 254
+add Player957 Type4 36 145
+add Player958 Type13 42 60
+add Player959 Type28 18 397
+add Player960 Type19 42 832
+add Player961 Type25 33 760
+add Player962 Type2 36 571
+add Player963 Type3 19 737
+add Player964 Type17 18 839
+add Player965 Type26 49 7
+add Player966 Type26 23 477
+add Player967 Type18 17 923
+add Player968 Type1 25 3
+add Player969 Type25 24 776
+add Player970 Type28 17 663
+add Player971 Type18 14 907
+add Player972 Type17 28 139
+add Player973 Type13 23 389
+add Player974 Type13 38 462
+add Player975 Type15 32 428
+add Player976 Type8 33 811
+add Player977 Type1 13 854
+add Player978 Type27 10 619
+add Player979 Type27 42 193
+add Player980 Type23 19 285
+add Player981 Type23 17 49
+add Player982 Type2 50 83
+add Player983 Type28 21 495
+add Player984 Type25 27 985
+add Player985 Type2 17 471
+add Player986 Type14 32 813
+add Player987 Type16 33 780
+add Player988 Type29 46 96
+add Player989 Type24 38 103
+add Player990 Type9 38 666
+add Player991 Type28 37 86
+add Player992 Type3 36 521
+add Player993 Type12 27 571
+add Player994 Type10 24 296
+add Player995 Type9 17 668
+add Player996 Type26 43 821
+add Player997 Type4 27 227
+add Player998 Type11 19 666
+add Player999 Type15 43 270
+find Type28
+find Type8
+find Type8
+find Type29
+find Type19
+find Type17
+find Type24
+find Type27
+find Type22
+find Type27
+find Type29
+find Type16
+find Type28
+find Type1
+find Type4
+find Type7
+find Type6
+find Type6
+find Type14
+find Type19
+find Type21
+find Type12
+find Type28
+find Type26
+find Type8
+find Type4
+find Type7
+find Type13
+find Type17
+find Type13
+find Type12
+find Type18
+find Type24
+find Type7
+find Type14
+find Type4
+find Type8
+find Type11
+find Type21
+find Type21
+find Type14
+find Type8
+find Type27
+find Type28
+find Type25
+find Type8
+find Type6
+find Type11
+find Type2
+find Type3
+find Type0
+find Type13
+find Type0
+find Type5
+find Type16
+find Type15
+find Type10
+find Type12
+find Type20
+find Type14
+find Type10
+find Type11
+find Type10
+find Type9
+find Type14
+find Type11
+find Type21
+find Type20
+find Type17
+find Type29
+find Type28
+find Type25
+find Type15
+find Type23
+find Type4
+find Type13
+find Type15
+find Type29
+find Type1
+find Type29
+find Type28
+find Type26
+find Type10
+find Type13
+find Type13
+find Type29
+find Type17
+find Type19
+find Type20
+find Type28
+find Type24
+find Type26
+find Type20
+find Type6
+find Type11
+find Type3
+find Type27
+find Type18
+find Type14
+find Type13
+ranklist 283 753
+ranklist 396 546
+ranklist 86 585
+ranklist 460 613
+ranklist 15 557
+ranklist 10 680
+ranklist 184 850
+ranklist 273 732
+ranklist 15 948
+ranklist 433 755
+end

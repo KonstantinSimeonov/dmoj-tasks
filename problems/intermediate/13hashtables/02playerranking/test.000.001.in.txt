@@ -1,0 +1,11 @@
+add Ivan Aggressive 20 1
+add Pesho Defensive 25 2
+add Georgi Neutral 30 3
+add Stamat Aggressive 22 2
+add Stamat Aggressive 40 1
+find Aggressive
+ranklist 1 5
+add Pencho Neutral 33 2
+find Neutral
+ranklist 1 3
+end

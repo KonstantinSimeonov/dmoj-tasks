@@ -1,0 +1,64 @@
+set 935
+back-add 3
+back-add 2
+front-add 5
+front-add 1
+front-add 1
+back-add 5
+front-remove
+back-add 5
+back-add 0
+front-add 0
+front-remove
+back-add 5
+back-add 7
+print
+back-add 7
+set 5
+front-add 7
+front-add 3
+back-add 5
+front-add 2
+print
+set 0
+front-add 0
+front-add 5
+back-add 9
+set 2
+set 6
+back-add 0
+front-add 3
+front-add 7
+front-add 4
+print
+back-remove
+print
+set 9
+back-add 6
+front-add 4
+front-add 4
+front-add 0
+back-add 2
+reverse
+front-add 6
+back-add 9
+front-remove
+back-add 0
+front-add 3
+back-add 9
+back-remove
+back-add 2
+front-add 6
+front-add 3
+front-add 2
+front-remove
+print
+back-add 3
+back-add 0
+back-add 8
+back-add 9
+back-add 7
+front-add 3
+back-add 4
+print
+end

@@ -1,27 +1,40 @@
-Задача 2: Игра
-==============
+Three friends came up with a game for having fun in the break between the classes. One of them says a three-digit number and the others use it to form a mathematical expressions by using operators for sum and multiplication between the digits of that number. 
 
-Трима приятели си измислили следната игра за забавление през междучасието. Един от тях казва трицифрено число, а останалите образуват от него математически изрази като поставят знаци за събиране и умножение между цифрите на измисленото число.
+The winner is the first one who founds the biggest number that is a result of the above mentioned rules. 
 
-Победител е този, който пръв намери най-голямото число, което може да се получи в резултат от пресмятане на образуван по даденото правило математически израз.
+Write a program 'game', which prints out that biggest number.
 
-Напишете програма game, която да извежда полученият най-голям резултат.
+# Input
 
-Вход
-====
+Read from the standard input
 
-На първия ред на стандартния вход се въвежда цяло положително трицифрено число **N**.
+- The first line of the input will be positive three-digit number **N**.
 
-Изход
-=====
+# Output
 
-Програмата извежда на единствен ред на стандартния изход едно цяло число, което e най-голямото число, което се получава по описаният начин.
+Print on the standard output
+- The result should be the calculated biggest number.
 
-Примери:
-========
+# Sample tests
 
-| Вход | Изход |
-| ---- | ----- |
-| 185  | 41    |
+## Input
+```
+185
+```
 
+## Output
+```
+41
+```
 
+## Input
+
+```
+111
+```
+
+## Output
+
+```
+3
+```

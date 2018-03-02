@@ -8,6 +8,8 @@ Solution this far:
 - [MaxKSum](./problems/easy/03arrays/06maxksum/MaxKSumSolution.hs)
 - [PrimeNumbers](./problems/easy/03arrays/15primenumbers/PrimeNumbersSolution.hs)
 - [SubsetSums](./problems/easy/03arrays/16subsetsums/SubsetSumsSolution.hs)
+- [MaxSeqSum](./problems/easy/03arrays/08maxseqsum/MaxSeqSumSolution.hs)
+- [MostFrequent](./problems/easy/03arrays/09mostfrequent/MostFrequentSolution.hs)
 - [Dogecoin](./problems/easy/14dp/02dogecoin/DogecoinSolution.hs)
 - [OddNumber](./problems/easy/08hashtables/02oddnumber/OddNumberSolution.hs)
 - [DecToBin](./problems/easy/02loops/12dectobin/DecToBinSolution.hs)

@@ -7,7 +7,7 @@ readme_path="./README.md"
 	cat << EOF
 Solutions to the more interesting problems from [here](https://github.com/Minkov/dmoj-tasks), mostly in haskell.
 
-Solution this far:
+Solutions this far:
 EOF
 	find . -name \*Solution.hs | while read file; do
 		fn="$(basename "$file")"

@@ -1,6 +1,6 @@
 # Weights
 
-**Vanko** loves to train and have **big muscles** and fight with **mutant squirrels**. In fact, he enjoys fighting mutant squirrels so much, he wants to help other people try out his hobby. That's why he recently opened a gym, so that people can train, become stronger and fight mutant squirrels with him. Unfortunately, he's a bit low on cash but he knows used metal garbage pieces to make weights for a **lejanka**. He stacked metal pieces on top of each other and so everyone can adjust the amount of weight they train with by putting a pin between any two pieces. Example:
+**Vanko** loves to train and have **big muscles** and fight with **mutant squirrels**. In fact, he enjoys fighting mutant squirrels so much, he wants to help other people try out his hobby. That's why he recently opened a gym, so that people can train, become stronger and fight mutant squirrels with him. Unfortunately, he's a bit low on cash but he knows how to use metal garbage pieces to make weights for a **lejanka**. He stacks metal pieces on top of each other and everyone can adjust the amount of weight they train with by putting a pin between any two pieces. Example:
 
 ```
 5 <--- pin here means lifting 5
@@ -9,7 +9,7 @@
 4
 ```
 
-Since there are a lot of metal pieces and people who train with different weights, **Vanko** needs your help, because he can't program (do you even programming, bro? not even once!). For every person that wants to train with at least *W*, find the index of the metal piece after which you should put the pin, so that the weight is at least *W*. If this is not possible (*W* is too big) place the pin at the end. Example:
+Since there are a lot of metal pieces and people who train with different weights, **Vanko** needs your help, because he can't program (do you even programming, bro? not even once!). For every person that wants to train with weight of at least *W*, find the index of the metal piece after which you should put the pin, so that the weight is at least *W*. If this is not possible (*W* is too big) place the pin at the end. Example:
 
 ```
 5 <-- 4 is here
@@ -20,7 +20,7 @@ Since there are a lot of metal pieces and people who train with different weight
 
 ## Input
 - On the first line, you will receive 2 integer numbers - **N** and **P**, separated by a whitespace.
-- On the second line, you will receive **N** natural numbers - the weights of the metal pieces, separated by a signle whitespace.
+- On the second line, you will receive **N** natural numbers - the weights of the metal pieces, separated by a single whitespace.
 - On the third line, you will receive **P** natural numbers - the amounts of weight that people want to train with, separated by a single whitespace.
 
 ## Output

@@ -8,14 +8,18 @@ partialSums [] = []
 partialSums [x] = [x]
 partialSums (x:y:xs) = x:partialSums ((x + y):xs)
 
+-- find the index of the first value greater than
+-- or equal to the provided value
 lowerBound :: Array Int Int -> Int -> Int
-lowerBound arr v = lb 0 (snd $ bounds arr)
+lowerBound arr value = lb 0 (snd $ bounds arr)
     where
-        lb low high = let mid = (low + high) `div` 2
-                          midv = arr ! mid
-                          (newLow, newHigh) = if v <= midv then (low, mid) else (mid + 1, high)
+        lb low high = let midIndex = (low + high) `div` 2
+                          midValue = arr ! midIndex
+                          (newLow, newHigh) = if value <= midValue
+                                                    then (low, midIndex) -- if value is to the left, search the left half
+                                                    else (midIndex + 1, high) -- if value is to the right, sarch the right half
                       in if low == high
-                            then mid
+                            then midIndex
                             else lb newLow newHigh
 
 main = do

@@ -14,6 +14,7 @@ int main() {
         ws[i] += ws[i - 1];
     }
 
+    // sequential search
     for(std::size_t i = 0; i < p; ++i) {
         std::size_t q;
         std::cin >> q;

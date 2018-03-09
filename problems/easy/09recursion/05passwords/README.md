@@ -1,6 +1,6 @@
 Pesho has been gifted with the supernatural ability of echolocation. One day he decided to test himself. He knew that his sister's Facebook password consists of digits only and she enters them using these keys:
 
-![keys](imgs/keyboard.png) 
+![keys](./Image.PNG) 
 
 So, he listened carefully just outside of his sister's room. What he obtained from hearing the typing was: 
 - The length of the password - **N** (he heard **N** key presses) 

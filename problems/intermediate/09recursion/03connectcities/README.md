@@ -17,7 +17,7 @@ The following images show an example of this transformation. From the first situ
 
 ## Output
 
-- The output data should be printed on the standart output.
+- The output data should be printed on the standard output.
 - For each of the test cases print one line containing the minimal number of transformations required to accomplish your task, or print **-1** if it is impossible.
 
 ## Constraints
@@ -26,3 +26,47 @@ The following images show an example of this transformation. From the first situ
 - **N** will be between 2 and 50, inclusive.
 - For each **i** and **j**, **G[i][j]** will be equal to **G[j][i]** (if city A is connected to city B, then city B is also connected to city A).
 - For each **i**, **G[i][i]** will be equal to '0' (no city is connected to itself).
+
+## Sample tests
+
+### Input
+```
+3
+2
+01
+10
+5
+01100
+10100
+11000
+00001
+00010
+6
+010000
+101000
+010100
+001000
+000001
+000010
+```
+
+### Output
+
+```
+0
+1
+-1
+```
+
+### Explanation
+**First test:**
+The cities are already connected.
+
+**Second test:**
+You need one transformation shown on the pictures below:
+![image](./SecondTestImage.PNG)
+
+**Third test:**
+Here it is impossible to connect all the cities using the given transformation, no matter how many times you do it.
+
+

@@ -5,11 +5,11 @@ There is a country with **N** cities, some of which are connected with bidirecti
 
 The following images show an example of this transformation. From the first situation you can get the second one or the third one:
 
-
+![image](./Image.PNG)
 
 ## Input
 - The input data should be read from the console. 
-- On the first line you should read T – the number of the tests you should solve. 
+- On the first line you should read **T** – the number of the tests you should solve. 
 - Each of the T tests will be in the following format:
 	- On the first line of each test case you will be given the number N – the number of the cities in the country. 
 	- On the each of the next **N** lines you will be given **N** symbols altogether constructing a two dimensional array **G** where the **j**-th character of the **i**-th line is '**1**' if there is a road between cities **i** and **j**, and '**0**' otherwise.

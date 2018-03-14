@@ -1,3 +1,4 @@
+{-# LANGUAGE BangPatterns #-}
 import Data.Array
 import qualified Data.ByteString.Lazy.Char8 as B8
 import Data.ByteString.Builder
@@ -6,19 +7,19 @@ import Data.Maybe
 partialSums :: [Int] -> [Int]
 partialSums [] = []
 partialSums [x] = [x]
-partialSums (x:y:xs) = x:partialSums ((x + y):xs)
+partialSums ((!x):(!y):xs) = x:partialSums ((x + y):xs)
 
 -- find the index of the first value greater than
 -- or equal to the provided value
 lowerBound :: Array Int Int -> Int -> Int
 lowerBound arr value = lb 0 (snd $ bounds arr)
     where
-        lb low high = let midIndex = (low + high) `div` 2
-                          midValue = arr ! midIndex
-                          (newLow, newHigh) = if value <= midValue
+        lb !low !high = let !midIndex = (low + high) `div` 2
+                            midValue = arr ! midIndex
+                            (newLow, newHigh) = if value <= midValue
                                                     then (low, midIndex) -- if value is to the left, search the left half
                                                     else (midIndex + 1, high) -- if value is to the right, sarch the right half
-                      in if low == high
+                        in if low == high
                             then midIndex
                             else lb newLow newHigh
 

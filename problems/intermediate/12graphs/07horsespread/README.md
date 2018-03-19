@@ -6,6 +6,8 @@
 2.  Започвайки от дадена клетка със стойност V, на всички клетки, до които може да се стигне с движение на кон и по които още не е минато, се записва стойност V+1.
 3.  След като запишете всички стойности V+1, отивате на всяка от тези клетки и повтаряте същото
 
+<img src="https://raw.githubusercontent.com/Minkov/judge-tasks/master/problems/intermediate/12graphs/07horsespread/moves.png">
+
 # Вход
 
 Входните данни ще бъдат прочитани от конзолата.
@@ -32,3 +34,29 @@
 
 # Примерни тестове
 
+
+## Вход
+
+```
+6
+7
+3
+4
+```
+
+## Изход
+
+```
+3
+2
+3
+4
+3
+2
+```
+
+## Обяснение
+
+Получава се матрицата
+
+<img src="https://raw.githubusercontent.com/Minkov/judge-tasks/master/problems/intermediate/12graphs/07horsespread/example.png">

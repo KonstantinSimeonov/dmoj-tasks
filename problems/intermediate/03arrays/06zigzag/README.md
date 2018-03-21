@@ -20,7 +20,7 @@ _Example_ with N = 5 and M = 6
 
 A zig-zag path in the matrix is as follows:
 
-<img src="" />
+<img src="https://raw.githubusercontent.com/Minkov/judge-tasks/master/problems/intermediate/03arrays/06zigzag/Example.png" />
 
 
 You task is to find the sum of the path

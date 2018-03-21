@@ -11,6 +11,7 @@ Starting from the top left corner of the matrix, Go with diagonal moves, until y
 _Example_:
 
 If you have the above matrix, the path will be: `1 4 16 16 4 4 4`
+
 <img src="https://raw.githubusercontent.com/Minkov/judge-tasks/master/problems/intermediate/03arrays/05bounce/Example.png" />
 
 You task is to find the sum of this path.

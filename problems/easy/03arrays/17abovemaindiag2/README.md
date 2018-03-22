@@ -9,7 +9,7 @@ N = 4
  8 16 32 64
 ```
 
-The result is: 2 + 4 + 8 + 8 + 16 + 32 = 70
+The result is: 1 + 2 + 4 + 8 + 4 + 8 + 16 + 16 + 32 + 64 = 155
 
 You task is to find the sum above the main diagonal.
 
@@ -24,7 +24,7 @@ Read from the standard input
 
 Print to the standard output
 
-- On the first line, print the sum of the numbers **above the main diagonal except the diagonal**
+- On the first line, print the sum of the numbers **above the main diagonal including the diagonal**
 
 # Sample tests
 
@@ -38,6 +38,6 @@ Print to the standard output
 
 
 ```
-70
+155
 ```
 

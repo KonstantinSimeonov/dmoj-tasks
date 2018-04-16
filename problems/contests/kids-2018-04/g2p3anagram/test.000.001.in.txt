@@ -1,0 +1,7 @@
+4
+abcd
+4
+2 ab
+2 ba
+3 acb
+3 adb

@@ -1,0 +1,8 @@
+11
+varnaegrada
+5
+4 rana
+5 ravna
+4 gara
+4 vada
+4 grad

@@ -1,3 +1,5 @@
+Тестовете можете да видите <a href="https://github.com/Minkov/judge-tasks/tree/master/problems/contests/kids-2012-06/l1p1naplazh">тук</a>
+
 Примерно решение на C++:
 
 ```cpp

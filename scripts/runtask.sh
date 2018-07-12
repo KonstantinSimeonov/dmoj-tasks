@@ -15,7 +15,7 @@ for test_file in "$problem_dir"/test.*.in*; do
 	running_time=$(cat "$stderr_file" | egrep -oi 'Total\s+time\s+[0-9]+\.[0-9]+' | tail -n 1 | egrep -o '[0-9]+.[0-9]+')
 	stats="\033[33;1;1m${memory_usage} \033[34;1;1m${running_time}s"
 
-	diff -wB "$stdout_file" "${test_file/.in./.out.}"
+	diff -wqB "$stdout_file" "${test_file/.in./.out.}"
 
 	if [[ $? == 0 ]]; then
 		echo -e "\033[32;1;1mPASSING ${stats}\033[0m"
